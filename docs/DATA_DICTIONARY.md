@@ -27,7 +27,7 @@ SUMMARY OBJECT
 Field: `summary` (object)
 - `total_resources` (integer): Total number of resource objects across all `results` entries.
 - `by_category` (object): List of category -> count Categories include `CONTACT_INFO`, `LOCATION`, `FACILITY`, `SERVICE` (string keys, integer values).
-- `by_tag` (object): List of inferred tag -> count (tags are simple strings; counts are integers). Example tags: `vaccination`, `covid19`, `pediatric`, `uncertain`.
+- `by_tag` (object): List of inferred tag -> count (tags are simple strings; counts are integers). Example tags: `vaccination`, `covid19`, `pediatric`, `measles`, `vision`,  `mental_health`, `uncertain`.
 - `crawl_info` (object): Metadata about the crawl run. See `CRAWL_INFO` section below.
 
 **Example:**  
@@ -160,6 +160,7 @@ TAG/KEYWORD NOTES
 
 - Tags are heuristic and derived from simple substring matching against a keyword list. They are useful for broad filtering but may include _false positives_. Use `confidence` as an additional signal.
 - The `uncertain` tag is used to flag items with `confidence == 0.35` (likely false positives); it is retained in JSON for verification but is excluded from human-readable summary reports by default.
+
 
 
 
