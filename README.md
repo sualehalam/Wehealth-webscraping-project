@@ -29,14 +29,7 @@ health-crawler/
 │       ├── summary_report_20251129_145353.json
 |       └── ...
 ```
-
-## Files Contents
-
-### /README.md
-```markdown
-# Simple Health Resource Crawler
-
-A beginner-friendly web crawler for extracting public health resources from websites.
+## Health Resource Crawler
 
 ## What This Does
 
@@ -46,36 +39,37 @@ This crawler finds:
 - 🏥 Names of healthcare facilities
 - 🏷️ Automatically categorizes and tags each resource
 
-## For Students
-
-1. **Start here:** Look at `examples/simple_example.py` to see a complete working crawler
-2. **Advanced example:** Check `examples/categorized_example.py` for categorization features
-3. **Your assignment:** Complete the `student_template/my_crawler.py` file
-4. **Get help:** Read the `student_template/assignment_guide.md`
-
-## Quick Start
-
+## Installation
 ```bash
 # Install dependencies
 pip install -r requirements.txt
-
-# Run the simple example
-python examples/simple_example.py
-
-# Run the categorized example
-python examples/categorized_example.py
-
-# Work on your own version
-cd student_template
-python my_crawler.py
 ```
+
+## Running the Batch Crawler
+```bash
+python .\batch_crawler_example.py
+```
+
+
+## Important Considerations
+
+- Always be respectful when crawling websites and respecting _robot.txt_
+- Add delays between requests (`time.sleep(2)`)
+- Some websites may block automated access
+- This is for educational purposes only
+  
+### /README.md
+```markdown
+# Simple Health Resource Crawler
+
+A beginner-friendly web crawler for extracting public health resources from websites.
+
 
 ## Project Structure
 
 - `examples/` - Complete working examples to learn from
 - `student_template/` - Your assignment files to complete
 - `data/` - CSV files with health department websites by state
-- `reference/` - Documentation and guides
 - `sample_outputs/` - Example output files
 
 ## Important Notes
