@@ -1,4 +1,4 @@
-# Data Dictionary — Crawler Output
+# Data Dictionary (Crawler Output in JSON)
 
 This document describes the JSON output produced by the batch crawler (_examples/batch_crawler_example.py_). It defines every field, the expected type, example values, and notes about privacy use.
 
@@ -157,5 +157,6 @@ TAG/KEYWORD NOTES
 
 - Tags are heuristic and derived from simple substring matching against a keyword list. They are useful for broad filtering but may include _false positives_. Use `confidence` as an additional signal.
 - The `uncertain` tag is used to flag items with `confidence == 0.35` (likely false positives); it is retained in JSON for verification but is excluded from human-readable summary reports by default.
+
 
 
