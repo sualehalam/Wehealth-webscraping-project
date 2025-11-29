@@ -1,6 +1,6 @@
 # Data Dictionary — Crawler Output
 
-This document describes the JSON output produced by the batch crawler (examples/batch_crawler_example.py). It defines every field, the expected type, example values, and notes about cleaning, privacy, and downstream use.
+This document describes the JSON output produced by the batch crawler (_examples/batch_crawler_example.py_). It defines every field, the expected type, example values, and notes about privacy use.
 
 File location (example):
 
@@ -9,10 +9,12 @@ File location (example):
 Top-level JSON structure
 ------------------------
 
-{
-  "summary": { ... },
-  "results": [ ... ]
-}
+```
+{  
+  "summary": { ... },  
+  "results": [ ... ]  
+}  
+```
 
 Both `summary` and `results` are always present. `results` is an array of per-site (county/page) objects. `summary` gives counts and crawl metadata.
 
@@ -21,18 +23,21 @@ SUMMARY OBJECT
 
 Field: `summary` (object)
 - `total_resources` (integer): Total number of resource objects across all `results` entries.
-- `by_category` (object): Map of category -> count. Categories include `CONTACT_INFO`, `LOCATION`, `FACILITY`, `SERVICE` (string keys, integer values).
-- `by_tag` (object): Map of inferred tag -> count (tags are simple strings; counts are integers). Example tags: `vaccination`, `covid19`, `pediatric`, `uncertain`.
+- `by_category` (object): List of category -> count Categories include `CONTACT_INFO`, `LOCATION`, `FACILITY`, `SERVICE` (string keys, integer values).
+- `by_tag` (object): List of inferred tag -> count (tags are simple strings; counts are integers). Example tags: `vaccination`, `covid19`, `pediatric`, `uncertain`.
 - `crawl_info` (object): Metadata about the crawl run. See `CRAWL_INFO` section below.
 
-Example:
+**Example:**  
+```
 
-{
-  "total_resources": 46,
-  "by_category": {"CONTACT_INFO": 17, "LOCATION": 8},
-  "by_tag": {"vaccination": 7, "uncertain": 2},
-  "crawl_info": { ... }
-}
+{  
+  "total_resources": 46,  
+  "by_category": {"CONTACT_INFO": 17, "LOCATION": 8, "SERVICE": 5, "FACILITY": 16},  
+  "by_tag": {"vaccination": 7, "uncertain": 2},    
+  "crawl_info": { ... }    
+}  
+```
+
 
 CRAWL_INFO
 ----------
@@ -46,7 +51,7 @@ Field: `crawl_info` (object inside `summary`)
 - `sites_crawled_count` (integer): Number of attempted sites.
 - `successful_crawls` (integer): Count of entries deemed successful (success true and no error recorded).
 - `timestamp` (string, ISO 8601): Time the summary was generated.
-- `student_name` (string): Author/owner string (project-specific).
+- `student_name` (string): Author/owner string.
 
 RESULTS ARRAY
 -------------
@@ -95,16 +100,13 @@ Each resource object represents a single extracted item (phone number, address, 
   - `0.85` / `0.7` — medium confidence (headings, H1/H2 text, typical phone format)
   - `0.35` — very low confidence (long blobs, footer noise). Items at 0.35 are also tagged with `uncertain`.
 
-Optional fields you may encounter
---------------------------------
-- `notes` (string): Free-form extractor note.
-- `source` (string): If known, a more precise sub-URL or selector used.
 
 EXAMPLES
 --------
 
 Resource example:
 
+```
 {
   "category": "CONTACT_INFO",
   "type": "phone_number",
@@ -113,9 +115,11 @@ Resource example:
   "context": "general content",
   "confidence": 0.7
 }
+```
 
 Site result example:
 
+```
 {
   "url": "http://www.acphd.org",
   "timestamp": "2025-11-29T11:46:20.181933",
@@ -126,6 +130,7 @@ Site result example:
   "population": "1671329",
   "crawled_at": "2025-11-29T11:46:20.339917"
 }
+```
 
 CLEANING AND NORMALIZATION GUIDANCE
 -----------------------------------
@@ -139,14 +144,6 @@ When producing the final cleaned dataset (CSV/JSON) for submission, follow these
 - Convert `confidence` to a float column and optionally include a `flag_low_confidence` boolean (e.g., `confidence < 0.5`).
 - Map `category` to fixed vocabulary; ensure no misspellings.
 
-Suggested cleaned CSV columns
-----------------------------
-
-`source_url, site_name, state_id, county_name, population, resource_category, resource_type, value_raw, value_normalized, tags, confidence, context, crawled_at`
-
-Where:
-- `value_normalized` is a canonical cleaned version of `value` (phones normalized, addresses standardized if possible).
-- `tags` can be a semicolon-separated string or JSON array depending on your CSV conventions.
 
 PRIVACY AND ETHICS
 ------------------
@@ -155,27 +152,10 @@ PRIVACY AND ETHICS
 - Respect `robots.txt`, terms of use, and rate limits. Consider adding a contact email to the user-agent if you plan repeated crawls.
 - When publishing a dataset, consider whether releasing phone numbers or email addresses at scale is permitted under site policies and applicable laws.
 
-ERROR HANDLING
---------------
-
-- `crawl_info.url[].error` contains sanitized error strings for debugging. These are intentionally short and may have the actual URL redacted.
-- If a fetch returned a 403/401/503, your pipeline should treat resources as missing and optionally schedule a manual review.
-
 TAG/KEYWORD NOTES
 -----------------
 
-- Tags are heuristic and derived from simple substring matching against a keyword list. They are useful for broad filtering but may include false positives. Use `confidence` as an additional signal.
+- Tags are heuristic and derived from simple substring matching against a keyword list. They are useful for broad filtering but may include _false positives_. Use `confidence` as an additional signal.
 - The `uncertain` tag is used to flag items with `confidence == 0.35` (likely false positives); it is retained in JSON for verification but is excluded from human-readable summary reports by default.
 
-VERSIONING AND REPRODUCIBILITY
------------------------------
 
-- Include crawler version or git commit in your deliverables when you publish the dataset.
-- Store raw JSON outputs (examples/output/) and the cleaned dataset separately; keeping raw outputs helps audits and re-runs.
-
-CONTACT / NOTES
----------------
-
-If you need additions to this dictionary (new fields added by extractor updates), add a new section describing the field, its type, examples, and any downstream implications.
-
-End of document.
