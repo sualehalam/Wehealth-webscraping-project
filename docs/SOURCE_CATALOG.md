@@ -1,8 +1,6 @@
 # Source Catalog
 
-This source catalog lists the websites crawled for the demo run(s) and includes operational notes, basic data-quality observations, and a suggested refresh strategy. Use this to reproduce or maintain the crawl and to prioritize manual review for problem sites.
-
-Last populated from: `examples/output/batch_crawl_results_20251129_114648.json`
+This source catalog lists the websites crawled for the demo run(s) and includes notes, basic data-quality observations, and a suggested refresh strategy. Use this to reproduce or maintain the crawl and to prioritize manual review for problem sites.
 
 ## Columns:
 - `name`: Friendly site name
@@ -14,7 +12,6 @@ Last populated from: `examples/output/batch_crawl_results_20251129_114648.json`
 - `refresh_strategy`: recommended refresh schedule
 - `expected_content`: typical extracted items
 - `data_quality_notes`: observed issues (403, footer noise, JS-heavy, etc.)
-- `contact`: public contact if available
 - `example_selector`: CSS selector that often finds the contact/address block
 - `status`: `active` / `blocked` / `needs-review`
 
@@ -39,6 +36,7 @@ Last populated from: `examples/output/batch_crawl_results_20251129_114648.json`
 - For blocked sites (403), try a polite retry with a browser-like user-agent and a small delay, or record for manual data retrieval.
 - For pages with long heading blobs or many PDF/strategic plan links (e.g., Calaveras), add post-processing filters (e.g., skip headings longer than 10 words, or require facility-indicator words) to reduce false positives.
 - Store this catalog in version control and update `last_checked` after manual fixes or when the refresh job runs.
+
 
 
 
