@@ -47,13 +47,13 @@ CRAWL_INFO
 ----------
 
 Field: `crawl_info` (object inside `summary`)
-- `url` (array): Each element is an object describing a requested site crawl: `{ "url": <string>, "success": <bool>, "status_code": <int?>, "error": <string?> }`.
+- `url` (array): Each element is an object describing a requested site crawl: 
   - `url` (string): The requested URL for that site (what was attempted).
   - `success` (boolean): True if an HTTP response was received with status < 400 (and crawl did not raise an error).
-  - `status_code` (integer, optional): The HTTP status code if available (e.g., 200, 403).
-  - `error` (string, optional): Short sanitized error string if an error occurred (URLs removed or redacted).
-- `sites_crawled_count` (integer): Number of attempted sites.
-- `successful_crawls` (integer): Count of entries deemed successful (success true and no error recorded).
+  - `status_code` (integer, optional): The HTTP status code if available (e.g., 200, 403, 402, etc).
+  - `error` (string, optional): Stores a short description of error if any occurred.
+- `sites_crawled_count` (integer): Total number of attempted sites crawled (contains both successful and failed attempts).
+- `successful_crawls` (integer): Total count of entries deemed successful (success true and no error occurred).
 - `timestamp` (string, ISO 8601): Time the summary was generated.
 - `student_name` (string): Author name's string.
 
@@ -164,6 +164,7 @@ TAG/KEYWORD NOTES
 
 - Tags are heuristic and derived from simple substring matching against a keyword list. They are useful for broad filtering but may include _false positives_. Use `confidence` as an additional signal.
 - The `uncertain` tag is used to flag items with `confidence == 0.35` (likely false positives); it is retained in JSON for verification but is excluded from human-readable summary reports by default.
+
 
 
 
