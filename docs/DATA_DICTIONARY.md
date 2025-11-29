@@ -55,7 +55,7 @@ Field: `crawl_info` (object inside `summary`)
 - `sites_crawled_count` (integer): Number of attempted sites.
 - `successful_crawls` (integer): Count of entries deemed successful (success true and no error recorded).
 - `timestamp` (string, ISO 8601): Time the summary was generated.
-- `student_name` (string): Author/owner string.
+- `student_name` (string): Author name's string.
 
 RESULTS ARRAY
 -------------
@@ -164,6 +164,7 @@ TAG/KEYWORD NOTES
 
 - Tags are heuristic and derived from simple substring matching against a keyword list. They are useful for broad filtering but may include _false positives_. Use `confidence` as an additional signal.
 - The `uncertain` tag is used to flag items with `confidence == 0.35` (likely false positives); it is retained in JSON for verification but is excluded from human-readable summary reports by default.
+
 
 
 
