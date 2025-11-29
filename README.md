@@ -16,6 +16,9 @@ health-crawler/
 │   ├── simple_example.py
 │   ├── categorized_example.py
 │   ├── batch_crawler_example.py
+│   ├── clean_and_save.py
+│   ├── cleaned_output/
+|       └──batch_crawl_results_20251129_145353.cleaned
 │   ├── output/
 │       ├── batch_crawl_results_20251129_143325.json
 │       ├── batch_crawl_results_20251129_144556.json
