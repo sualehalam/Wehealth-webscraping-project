@@ -3,7 +3,6 @@
 This source catalog lists the websites crawled for the demo run(s) and includes operational notes, basic data-quality observations, and a suggested refresh strategy. Use this to reproduce or maintain the crawl and to prioritize manual review for problem sites.
 
 Last populated from: `examples/output/batch_crawl_results_20251129_114648.json`
-Last checked: 2025-11-29T11:46:48Z
 
 ## Columns:
 - `name`: Friendly site name
@@ -40,6 +39,7 @@ Last checked: 2025-11-29T11:46:48Z
 - For blocked sites (403), try a polite retry with a browser-like user-agent and a small delay, or record for manual data retrieval.
 - For pages with long heading blobs or many PDF/strategic plan links (e.g., Calaveras), add post-processing filters (e.g., skip headings longer than 10 words, or require facility-indicator words) to reduce false positives.
 - Store this catalog in version control and update `last_checked` after manual fixes or when the refresh job runs.
+
 
 
 
