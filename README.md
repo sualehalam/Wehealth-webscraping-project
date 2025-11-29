@@ -70,7 +70,7 @@ cd examples
 
 python .\clean_and_save.py
 ```
-
+Once completed running, it automatically cleans and moves low-confidence items to unverified_resources and writes cleaned JSON to `examples/cleaned_output`.
 
 ## Important Considerations
 
