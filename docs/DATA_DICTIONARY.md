@@ -153,13 +153,15 @@ PRIVACY AND ETHICS
 
 - The crawler extracts public-facing contact information published by official county and state websites. Avoid harvesting or publishing sensitive personal data that is not publicly intended (e.g., personal email addresses in staff directories) unless you have the rights to do so.
 - Respect `robots.txt`, terms of use, and rate limits. Consider adding a contact email to the user-agent if you plan repeated crawls.
-- When publishing a dataset, consider whether releasing phone numbers or email addresses at scale is permitted under site policies and applicable laws.
+- When publishing a dataset, consider whether releasing phone numbers at scale is permitted under site policies and applicable state laws.
+- Before publishing, manually review _unverified_resources_ which may contain false positives.
 
 TAG/KEYWORD NOTES
 -----------------
 
 - Tags are heuristic and derived from simple substring matching against a keyword list. They are useful for broad filtering but may include _false positives_. Use `confidence` as an additional signal.
 - The `uncertain` tag is used to flag items with `confidence == 0.35` (likely false positives); it is retained in JSON for verification but is excluded from human-readable summary reports by default.
+
 
 
 
