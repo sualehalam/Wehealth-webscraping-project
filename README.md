@@ -56,6 +56,8 @@ pip install -r requirements.txt
 
 ## Running the Batch Crawler
 ```bash
+cd examples
+
 python .\batch_crawler_example.py
 ```
 
@@ -69,10 +71,10 @@ python .\batch_crawler_example.py
 
 ## State Data
 
-We were given CSV files with health department websites for each state:  
-- California: 58 counties in `data/state_websites/us-ca.csv`
-- Oregon: 36 counties in `data/state_websites/us-or.csv`
-- Texas: 254 counties in `data/state_websites/us-tx.csv`
+We were given CSV files with health department websites for each 50 states:  
+- California: 58 counties in `data/websites/us-ca.csv`
+- Oregon: 36 counties in `data/websites/us-or.csv`
+- Texas: 254 counties in `data/websites/us-tx.csv`
 
 ## Categories and Tags
 
