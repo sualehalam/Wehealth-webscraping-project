@@ -77,4 +77,8 @@ Resources are automatically categorized:
 
   And tagged by health topic:
 - Vaccination, flu, COVID-19, pediatric care, dental, mental health, etc.
+
+## Outputs:
+JSON (per-run) saved to examples/output/
+Human-readable summary saved to examples/summary_reports/
   
