@@ -30,6 +30,8 @@ health-crawler/
 |       └── ...
 ```
 ## Health Resource Crawler
+A beginner-friendly web crawler for extracting public health resources from websites.
+
 
 ## What This Does
 
@@ -57,27 +59,6 @@ python .\batch_crawler_example.py
 - Add delays between requests (`time.sleep(2)`)
 - Some websites may block automated access
 - This is for educational purposes only
-  
-### /README.md
-```markdown
-# Simple Health Resource Crawler
-
-A beginner-friendly web crawler for extracting public health resources from websites.
-
-
-## Project Structure
-
-- `examples/` - Complete working examples to learn from
-- `student_template/` - Your assignment files to complete
-- `data/` - CSV files with health department websites by state
-- `sample_outputs/` - Example output files
-
-## Important Notes
-
-- Always be respectful when crawling websites
-- Add delays between requests (`time.sleep(1)`)
-- Some websites may block automated access
-- This is for educational purposes only
 
 ## State Data
 
@@ -94,10 +75,10 @@ Resources are automatically categorized:
 - **FACILITY**: Clinic and hospital names
 - **SERVICE**: Health services offered
 
-And tagged by health topic:
+  And tagged by health topic:
 - Vaccination, flu, COVID-19, pediatric care, dental, mental health, etc.
+  
 
-## Need Help?
 
 Check the `reference/` folder for:
 - Category and tag definitions
