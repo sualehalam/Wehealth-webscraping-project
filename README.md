@@ -74,7 +74,7 @@ Once completed running, it automatically cleans and moves low-confidence items t
 
 ## Important Considerations
 
-- Always be respectful when crawling websites and respect _robot.txt_
+- Always be respectful when crawling websites and respect _robots.txt_
 - Add delays between requests (currently the scraper uses `time.sleep(2)`)
 - Some websites may block automated access 
 - This is for educational purposes only
