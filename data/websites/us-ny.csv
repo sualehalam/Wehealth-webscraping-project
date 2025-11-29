@@ -1,0 +1,67 @@
+name;parent_id;community_id;category;pha;population_proper;state_id;pha_url
+Albany County;us-ny;us-ny-albany;County;TRUE;305506;NY;http://www.albanycounty.com
+Broome County;us-ny;us-ny-broome;County;TRUE;190488;NY;https://www.gobroomecounty.com/hd
+Cattaraugus County;us-ny;us-ny-cattaraugus;County;TRUE;76117;NY;http://www.cattco.org
+Cayuga County;us-ny;us-ny-cayuga;County;TRUE;76576;NY;http://www.cayugacounty.us/1850/Health-Department
+Chemung County;us-ny;us-ny-chemung;County;TRUE;83456;NY;https://www.chemungcountyny.gov/241/Public-Health
+Chenango County;us-ny;us-ny-chenango;County;TRUE;47207;NY;https://www.chenangocountyny.gov/206/Public-Health
+Clinton County;us-ny;us-ny-clinton;County;TRUE;80485;NY;https://health.clintoncountyny.gov
+Columbia County;us-ny;us-ny-columbia;County;TRUE;59461;NY;http://columbiacountyny.com
+Cortland County;us-ny;us-ny-cortland;County;TRUE;47581;NY;https://www.cortlandcountyny.gov/432/Health-Department
+Delaware County;us-ny;us-ny-delaware;County;TRUE;44135;NY;http://www.delawarecountypublichealth.com
+Dutchess County;us-ny;us-ny-dutchess;County;TRUE;294218;NY;http://www.dutchessny.gov/dbch
+Erie County;us-ny;us-ny-erie;County;TRUE;918702;NY;http://www.erie.gov/health
+Essex County;us-ny;us-ny-essex;County;TRUE;36885;NY;https://essexcountyny.gov/Health/
+Franklin County;us-ny;us-ny-franklin;County;TRUE;50022;NY;https://www.franklincountyny.gov/departments/human_services/public_health/index.php
+Fulton County;us-ny;us-ny-fulton;County;TRUE;53383;NY;http://www.fultoncountyny.gov/publichealth/index.php
+Greene County;us-ny;us-ny-greene;County;TRUE;47188;NY;https://www.greenegovernment.com/departments/public-health
+Hamilton County;us-ny;us-ny-hamilton;County;TRUE;4416;NY;https://www.hamiltoncounty.com/health-human-services/public-health-home
+Herkimer County;us-ny;us-ny-herkimer;County;TRUE;61319;NY;https://www.herkimercountyny.gov/departments/public-health/
+Jefferson County;us-ny;us-ny-jefferson;County;TRUE;109834;NY;http://www.jcphs.org
+Lewis County;us-ny;us-ny-lewis;County;TRUE;26296;NY;http://lewiscountypublichealth.com
+Livingston County;us-ny;us-ny-livingston;County;TRUE;62914;NY;http://www.livingstoncounty.us/doh.htm
+Monroe County;us-ny;us-ny-monroe;County;TRUE;741770;NY;https://www.monroecounty.gov/health
+Montgomery County;us-ny;us-ny-montgomery;County;TRUE;49221;NY;https://www.co.montgomery.ny.us/web/sites/departments/publichealth/contact.asp
+Nassau County;us-ny;us-ny-nassau;County;TRUE;1356924;NY;http://www.nassaucountyny.gov/agencies/Health/index.html
+Niagara County;us-ny;us-ny-niagara;County;TRUE;209281;NY;http://www.niagaracounty.com/Health
+Oneida County;us-ny;us-ny-oneida;County;TRUE;228671;NY;http://ocgov.net/oneida/health
+Onondaga County;us-ny;us-ny-onondaga;County;TRUE;460528;NY;http://www.ongov.net/health/
+Ontario County;us-ny;us-ny-ontario;County;TRUE;109777;NY;http://www.ontariocountypublichealth.com/
+Orange County;us-ny;us-ny-orange;County;TRUE;384940;NY;http://www.co.orange.ny.us
+Orleans County;us-ny;us-ny-orleans;County;TRUE;40352;NY;https://gohealthny.org
+Oswego County;us-ny;us-ny-oswego;County;TRUE;117124;NY;http://www.oswegocounty.com
+Otsego County;us-ny;us-ny-otsego;County;TRUE;59493;NY;https://www.otsegocountyny.gov
+Rensselaer County;us-ny;us-ny-rensselaer;County;TRUE;158714;NY;https://www.rensco.com/241/Public-Health
+Rockland County;us-ny;us-ny-rockland;County;TRUE;325789;NY;https://www.rocklandcountyny.gov/departments/health
+St. Lawrence County;us-ny;us-ny-st-lawrence;County;TRUE;107740;NY;https://stlawco.gov/Departments/PublicHealth
+Saratoga County;us-ny;us-ny-saratoga;County;TRUE;229863;NY;https://www.saratogacountyny.gov/departments/health/
+Schenectady County;us-ny;us-ny-schenectady;County;TRUE;155299;NY;http://www.schenectadycounty.com
+Schoharie County;us-ny;us-ny-schoharie;County;TRUE;30999;NY;https://www4.schohariecounty-ny.gov/departments/public-health/
+Schuyler County;us-ny;us-ny-schuyler;County;TRUE;17807;NY;http://www.schuylercounty.us/publichealth
+Seneca County;us-ny;us-ny-seneca;County;TRUE;34016;NY;https://senecahealthdept.org
+Steuben County;us-ny;us-ny-steuben;County;TRUE;95379;NY;https://www.steubencountyny.gov/273/Public-Health
+Suffolk County;us-ny;us-ny-suffolk;County;TRUE;1476601;NY;https://www.suffolkcountyny.gov/health
+Sullivan County;us-ny;us-ny-sullivan;County;TRUE;75432;NY;https://sullivanny.us/Departments/Publichealth
+Tioga County;us-ny;us-ny-tioga;County;TRUE;48203;NY;https://www.tiogacountyny.com/departments/public-health/
+Tompkins County;us-ny;us-ny-tompkins;County;TRUE;102180;NY;https://www.tompkinscountyny.gov/health
+Ulster County;us-ny;us-ny-ulster;County;TRUE;177573;NY;http://ulstercountyny.gov/health/health-mental-health
+Washington County;us-ny;us-ny-washington;County;TRUE;61204;NY;https://www.washingtoncountyny.gov/299/Public-Health-Services
+Wayne County;us-ny;us-ny-wayne;County;TRUE;89918;NY;https://www.wcphny.com
+Westchester County;us-ny;us-ny-westchester;County;TRUE;967506;NY;https://health.westchestergov.com/
+Wyoming County;us-ny;us-ny-wyoming;County;TRUE;39859;NY;https://www.wyomingco.net/203/Health-Department
+Yates County;us-ny;us-ny-yates;County;TRUE;24913;NY;http://www.yatescountypublichealth.org
+New York;us;us-ny;State;TRUE;19453561;NY;http://www.senecahealth.org
+New York City Department of Health and Mental Hygiene;us-ny;us-ny-nyc;Group;TRUE;8336817;NY;https://www1.nyc.gov/site/doh/index.page
+Allegany County;us-ny;us-ny-allegany;County;TRUE;46091;NY;
+Bronx County;us-ny-nyc;us-ny-bronx;County;TRUE;1418207;NY;
+Chautauqua County;us-ny;us-ny-chautauqua;County;TRUE;126903;NY;
+Genesee County;us-ny;us-ny-genesee;County;TRUE;57280;NY;
+Kings County;us-ny-nyc;us-ny-kings;County;TRUE;2559903;NY;
+Madison County;us-ny;us-ny-madison;County;TRUE;70941;NY;
+New York County;us-ny-nyc;us-ny-new-york;County;TRUE;1628706;NY;
+Putnam County;us-ny;us-ny-putnam;County;TRUE;98320;NY;
+Queens County;us-ny-nyc;us-ny-queens;County;TRUE;2253858;NY;
+Richmond County;us-ny-nyc;us-ny-richmond;County;TRUE;476143;NY;
+Warren County;us-ny;us-ny-warren;County;TRUE;63944;NY;
+All New York;;us-ny-all;Summary;;;NY;
+All New York City Department of Health and Mental Hygiene;;us-ny-nyc-all;Summary;;;NY;

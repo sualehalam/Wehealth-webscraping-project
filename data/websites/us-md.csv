@@ -1,0 +1,27 @@
+name;parent_id;community_id;category;pha;population_proper;state_id;pha_url
+Allegany County;us-md;us-md-allegany;County;TRUE;70416;MD;http://health.maryland.gov/allegany
+Anne Arundel County;us-md;us-md-anne-arundel;County;TRUE;579234;MD;http://www.aahealth.org
+Baltimore County;us-md;us-md-baltimore;County;TRUE;827370;MD;https://www.baltimorecountymd.gov/departments/health
+Calvert County;us-md;us-md-calvert;County;TRUE;92525;MD;http://www.calverthealth.org
+Caroline County;us-md;us-md-caroline;County;TRUE;33406;MD;http://www.carolinehd.org
+Cecil County;us-md;us-md-cecil;County;TRUE;102855;MD;http://www.cecilcountyhealth.org
+Charles County;us-md;us-md-charles;County;TRUE;163257;MD;http://www.charlescountyhealth.org
+Dorchester County;us-md;us-md-dorchester;County;TRUE;31929;MD;http://www.dorchesterhealth.org
+Frederick County;us-md;us-md-frederick;County;TRUE;259547;MD;http://health.frederickcountymd.gov
+Garrett County;us-md;us-md-garrett;County;TRUE;29014;MD;http://www.garretthealth.org
+Harford County;us-md;us-md-harford;County;TRUE;255441;MD;http://www.harfordcountyhealth.com
+Kent County;us-md;us-md-kent;County;TRUE;19422;MD;http://www.kenthd.org
+Montgomery County;us-md;us-md-montgomery;County;TRUE;1050688;MD;http://www.montgomerycountymd.gov/HHS
+Prince George's County;us-md;us-md-prince-george;County;TRUE;909327;MD;http://www.princegeorgescountymd.gov/1588/Health-Services
+Queen Anne's County;us-md;us-md-queen-anne;County;TRUE;50381;MD;http://health.maryland.gov/qahealth
+St. Mary's County;us-md;us-md-st-mary;County;TRUE;113510;MD;http://www.smchd.org
+Somerset County;us-md;us-md-somerset;County;TRUE;25616;MD;http://somersethealth.org
+Wicomico County;us-md;us-md-wicomico;County;TRUE;103609;MD;http://www.wicomicohealth.org
+Worcester County;us-md;us-md-worcester;County;TRUE;52276;MD;http://www.worcesterhealth.org
+Baltimore City;us-md;us-md-baltimore-city;County;TRUE;593490;MD;http://health.baltimorecity.gov
+Carroll County;us-md;us-md-carroll;County;TRUE;168447;MD;
+Howard County;us-md;us-md-howard;County;TRUE;325690;MD;
+Talbot County;us-md;us-md-talbot;County;TRUE;37181;MD;
+Washington County;us-md;us-md-washington;County;TRUE;151049;MD;
+Maryland;us;us-md;State;TRUE;6045680;MD;
+All Maryland;;us-md-all;Summary;;;MD;

@@ -1,0 +1,73 @@
+name;parent_id;community_id;category;pha;population_proper;state_id;pha_url
+Adams County;us-co;us-co-adams;County;TRUE;517421;CO;https://adcogov.org/adams-county-health-department
+Alamosa County;us-co;us-co-alamosa;County;TRUE;16233;CO;https://alamosacounty.colorado.gov/departments/public-health
+Arapahoe County;us-co;us-co-arapahoe;County;TRUE;656590;CO;https://www.arapahoegov.com/2250/Public-Health
+Archuleta County;us-co;us-co-archuleta;County;TRUE;14029;CO;https://www.archuletacounty.org/711/Public-Health-Department
+Baca County;us-co;us-co-baca;County;TRUE;3581;CO;https://www.bacacountyco.gov/departments/public-health/
+Bent County;us-co;us-co-bent;County;TRUE;5577;CO;https://bentcph.org/
+Boulder County;us-co;us-co-boulder;County;TRUE;326196;CO;http://www.bouldercountyhealth.org
+Broomfield County;us-co;us-co-broomfield;County;TRUE;70465;CO;https://www.broomfield.org/259/Public-Health-and-Environment
+Chaffee County;us-co;us-co-chaffee;County;TRUE;20356;CO;https://www.chaffeecounty.org/Public-Health
+Cheyenne County;us-co;us-co-cheyenne;County;TRUE;1831;CO;https://www.co.cheyenne.co.us/departments/public_health.html
+Clear Creek County;us-co;us-co-clear-creek;County;TRUE;9700;CO;https://www.clearcreekcounty.us/1039/Public-Environmental-Health
+Conejos County;us-co;us-co-conejos;County;TRUE;8205;CO;https://conejoscounty.colorado.gov/departments/public-health
+Costilla County;us-co;us-co-costilla;County;TRUE;3887;CO;https://costillacounty.colorado.gov/departments/public-health-agency
+Custer County;us-co;us-co-custer;County;TRUE;5068;CO;https://www.custerpha.com/
+Delta County;us-co;us-co-delta;County;TRUE;31162;CO;http://www.deltacounty.com/486/Health-Services
+Denver County;us-co;us-co-denver;County;TRUE;727211;CO;http://www.denvergov.org/deh
+Dolores County;us-co;us-co-dolores;County;TRUE;2055;CO;https://dolocnty.colorado.gov/public-health
+Douglas County;us-co;us-co-douglas;County;TRUE;351154;CO;http://www.douglas.co.us/health-department
+Eagle County;us-co;us-co-eagle;County;TRUE;55127;CO;https://www.eaglecounty.us/departments___services/public_health/index.php
+Elbert County;us-co;us-co-elbert;County;TRUE;26729;CO;https://www.elbertcounty-co.gov/206/Public-Health
+El Paso County;us-co;us-co-el-paso;County;TRUE;720403;CO;http://www.elpasocountyhealth.org
+Fremont County;us-co;us-co-fremont;County;TRUE;47839;CO;https://www.fremontco.com/public-health/public-health-and-environment
+Garfield County;us-co;us-co-garfield;County;TRUE;60061;CO;https://www.garfield-county.com/public-health/
+Gilpin County;us-co;us-co-gilpin;County;TRUE;6243;CO;http://www.co.gilpin.co.us/departments_offices/public_health_agency
+Grand County;us-co;us-co-grand;County;TRUE;15734;CO;https://www.co.grand.co.us/220/Public-Health
+Gunnison County;us-co;us-co-gunnison;County;TRUE;17462;CO;https://www.gunnisoncounty.org/152/3331/Clinical-Services
+Jackson County;us-co;us-co-jackson;County;TRUE;1392;CO;http://jacksoncountycogov.com/public-health/
+Jefferson County;us-co;us-co-jefferson;County;TRUE;582881;CO;http://jeffco.us/public-health/
+Kiowa County;us-co;us-co-kiowa;County;TRUE;1406;CO;https://www.kiowacounty-colorado.com/kiowa_county_public_health.htm
+Kit Carson County;us-co;us-co-kit-carson;County;TRUE;7097;CO;https://kitcarsoncounty.colorado.gov/department-public-health-and-environment
+Lake County;us-co;us-co-lake;County;TRUE;8127;CO;https://www.lakecountyco.gov/203/Public-Health-Environmental-Health-Human
+La Plata County;us-co;us-co-la-plata;County;TRUE;56221;CO;https://www.co.laplata.co.us/departments/public_health/index.php
+Larimer County;us-co;us-co-larimer;County;TRUE;356899;CO;http://www.co.larimer.co.us/health
+Lincoln County;us-co;us-co-lincoln;County;TRUE;5701;CO;https://www.lincolncountypublichealth.com/
+Mesa County;us-co;us-co-mesa;County;TRUE;154210;CO;http://health.mesacounty.us/
+Moffat County;us-co;us-co-moffat;County;TRUE;13283;CO;https://moffatcounty.colorado.gov/public-health-office
+Montezuma County;us-co;us-co-montezuma;County;TRUE;26183;CO;https://montezumacounty.org/public-health/
+Montrose County;us-co;us-co-montrose;County;TRUE;42758;CO;http://www.co.montrose.co.us/107/Health-Human-Services
+Otero County;us-nm-sw;us-co-otero;County;TRUE;18278;CO;https://oterocounty.colorado.gov/departments/health-department
+Ouray County;us-co;us-co-ouray;County;TRUE;4952;CO;http://ouraycountyco.gov/149/Public-Health
+Park County;us-co;us-co-park;County;TRUE;18845;CO;http://www.parkco.us/86/Public-Health
+Pitkin County;us-co;us-co-pitkin;County;TRUE;17767;CO;https://pitkincounty.com/1079/Public-Health
+Prowers County;us-co;us-co-prowers;County;TRUE;12172;CO;https://www.prowerscounty.net/departments/public_health_and_environment/index.php
+Pueblo County;us-co;us-co-pueblo;County;TRUE;168424;CO;http://www.pueblohealthdept.org
+Rio Blanco County;us-co;us-co-rio-blanco;County;TRUE;6324;CO;https://www.rbc.us/282/Public-Health
+Rio Grande County;us-co;us-co-rio-grande;County;TRUE;11267;CO;http://www.rgcph.org
+Routt County;us-co;us-co-routt;County;TRUE;25638;CO;http://www.co.routt.co.us/641/Public-Health
+Saguache County;us-co;us-co-saguache;County;TRUE;6824;CO;https://saguachecounty.colorado.gov/departments/public-health
+San Juan County;us-co;us-co-san-juan;County;TRUE;728;CO;https://sanjuancounty.colorado.gov/health
+San Miguel County;us-co;us-co-san-miguel;County;TRUE;8179;CO;https://www.sanmiguelcountyco.gov/173/Public-Health
+Summit County;us-co;us-co-summit;County;TRUE;31011;CO;https://www.summitcountyco.gov/services/health_human_services/public_health/index.php
+Teller County;us-co;us-co-teller;County;TRUE;25388;CO;https://www.tellercounty.gov/PublicHealth-Environment
+Weld County;us-co;us-co-weld;County;TRUE;324492;CO;https://www.weld.gov/Government/Departments/Health-and-Environment
+Colorado;us;us-co;State;TRUE;5758736;CO;http://www.nchd.org
+Las Animas-Huerfano Counties District HD;us-co;us-co-lah;Group;TRUE;21403;CO;https://la-h-health.colorado.gov/
+Silver Thread Public HD;us-co;us-co-silver-thread;Group;TRUE;1589;CO;http://www.silverthreadpublichealth.org/
+Crowley County;us-co;us-co-crowley;County;TRUE;6061;CO;
+Hinsdale County;us-co-silver-thread;us-co-hinsdale;County;TRUE;820;CO;
+Huerfano County;us-co-lah;us-co-huerfano;County;TRUE;6897;CO;
+Las Animas County;us-co-lah;us-co-las-animas;County;TRUE;14506;CO;
+Logan County;us-co-nchd;us-co-logan;County;TRUE;22409;CO;
+Mineral County;us-co-silver-thread;us-co-mineral;County;TRUE;769;CO;
+Morgan County;us-co-nchd;us-co-morgan;County;TRUE;29068;CO;
+Phillips County;us-co-nchd;us-co-phillips;County;TRUE;4265;CO;
+Sedgwick County;us-co-nchd;us-co-sedgwick;County;TRUE;2248;CO;
+Washington County;us-co-nchd;us-co-washington;County;TRUE;4908;CO;
+Yuma County;us-co-nchd;us-co-yuma;County;TRUE;10019;CO;
+All Colorado;;us-co-all;Summary;;;CO;
+All Las Animas-Huerfano Counties District HD;;us-co-lah-all;Summary;;;CO;
+Northeast Colorado HD;us-co;us-co-nchd;Group;TRUE;72917;CO;
+All Northeast Colorado HD;;us-co-nchd-all;Summary;;;CO;
+All Silver Thread Public HD;;us-co-silver-thread-all;Summary;;;CO;

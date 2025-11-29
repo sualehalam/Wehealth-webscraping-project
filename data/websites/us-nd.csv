@@ -1,0 +1,70 @@
+name;parent_id;community_id;category;pha;population_proper;state_id;pha_url
+Towner County;us-nd;us-nd-towner;County;TRUE;2189;ND;
+Cass County;us-nd;us-nd-cass;County;TRUE;181923;ND;https://fargond.gov/city-government/departments/fargo-cass-public-health
+Cavalier County;us-nd;us-nd-cavalier;County;TRUE;3762;ND;http://www.cavaliercountyhealth.com
+Dickey County;us-nd;us-nd-dickey;County;TRUE;4872;ND;https://dickeynd.com
+Emmons County;us-nd;us-nd-emmons;County;TRUE;3241;ND;http://www.emmonsnd.com/public-health.html
+Foster County;us-nd;us-nd-foster;County;TRUE;3210;ND;https://fostercountypublichealth.com/
+Grand Forks County;us-nd;us-nd-grand-forks;County;TRUE;69451;ND;http://www.grandforksgov.com/publichealth
+Kidder County;us-nd;us-nd-kidder;County;TRUE;2480;ND;https://www.kiddercountyhealth.com
+LaMoure County;us-nd;us-nd-lamoure;County;TRUE;4046;ND;https://lamourecountynd.com/public-health
+McIntosh County;us-nd;us-nd-mcintosh;County;TRUE;2497;ND;https://www.breathend.com/publichealthunits/mcintosh-district-health-unit/
+Pembina County;us-nd;us-nd-pembina;County;TRUE;6801;ND;http://www.pembinacountynd.gov
+Ransom County;us-nd;us-nd-ransom;County;TRUE;5218;ND;http://www.ndhealth.gov/Localhd/RCHD/
+Rolette County;us-nd;us-nd-rolette;County;TRUE;14176;ND;http://www.rcphd.com
+Sargent County;us-nd;us-nd-sargent;County;TRUE;3898;ND;http://sargentnd.com/dept_district_health_unit.php
+Steele County;us-nd;us-nd-steele;County;TRUE;1890;ND;http://www.co.steele.nd.us/health
+Traill County;us-nd;us-nd-traill;County;TRUE;8036;ND;http://www.co.traill.nd.us
+Walsh County;us-nd;us-nd-walsh;County;TRUE;10641;ND;https://walshcountynd.com/county-government/public-health-and-wic/
+Wells County;us-nd;us-nd-wells;County;TRUE;3834;ND;http://www.wellscountynd.com/?id=48&form_data_id=455
+Central Valley HD;us-nd;us-nd-central-valley;Group;TRUE;22554;ND;http://centralvalleyhealth.org
+First District Health Unit;us-nd;us-nd-fdhu;Group;TRUE;94875;ND;http://www.fdhu.org
+Lake Region District Health Unit;us-nd;us-nd-lrdhu;Group;TRUE;24613;ND;http://Lrdhu.com
+Nelson-Griggs District Health Unit;us-nd;us-nd-nelson-griggs;Group;TRUE;5110;ND;https://nelsongriggshealth.com
+Southwestern District Health Unit;us-nd;us-nd-swdhu;Group;TRUE;44067;ND;http://Swdhu.net
+Upper Missouri District Health Unit;us-nd;us-nd-umdhu;Group;TRUE;54877;ND;http://www.umdhu.org
+Western Plains Public Health;us-nd;us-nd-western-plains;Group;TRUE;48014;ND;https://www.westernplainsph.org
+Adams County;us-nd-swdhu;us-nd-adams;County;TRUE;2216;ND;
+Barnes County;us-nd;us-nd-barnes;County;TRUE;10415;ND;
+Benson County;us-nd-lrdhu;us-nd-benson;County;TRUE;6832;ND;
+Billings County;us-nd-swdhu;us-nd-billings;County;TRUE;928;ND;
+Bottineau County;us-nd-fdhu;us-nd-bottineau;County;TRUE;6282;ND;
+Bowman County;us-nd;us-nd-bowman;County;TRUE;3024;ND;
+Burke County;us-nd-fdhu;us-nd-burke;County;TRUE;2115;ND;
+Burleigh County;us-nd;us-nd-burleigh;County;TRUE;95626;ND;
+Divide County;us-nd-umdhu;us-nd-divide;County;TRUE;2264;ND;
+Dunn County;us-nd-swdhu;us-nd-dunn;County;TRUE;4424;ND;
+Eddy County;us-nd-lrdhu;us-nd-eddy;County;TRUE;2287;ND;
+Golden Valley County;us-nd-swdhu;us-nd-golden-valley;County;TRUE;1761;ND;
+Grant County;us-nd-western-plains;us-nd-grant;County;TRUE;2274;ND;
+Griggs County;us-nd-nelson-griggs;us-nd-griggs;County;TRUE;2231;ND;
+Hettinger County;us-nd-swdhu;us-nd-hettinger;County;TRUE;2499;ND;
+Logan County;us-nd-central-valley;us-nd-logan;County;TRUE;1850;ND;
+McHenry County;us-nd-fdhu;us-nd-mchenry;County;TRUE;5745;ND;
+McKenzie County;us-nd-umdhu;us-nd-mckenzie;County;TRUE;15024;ND;
+McLean County;us-nd-fdhu;us-nd-mclean;County;TRUE;9450;ND;
+Mercer County;us-nd-western-plains;us-nd-mercer;County;TRUE;8187;ND;
+Morton County;us-nd-western-plains;us-nd-morton;County;TRUE;31364;ND;
+Mountrail County;us-nd;us-nd-mountrail;County;TRUE;10545;ND;
+Nelson County;us-nd-nelson-griggs;us-nd-nelson;County;TRUE;2879;ND;
+Oliver County;us-nd-western-plains;us-nd-oliver;County;TRUE;1959;ND;
+Pierce County;us-nd-lrdhu;us-nd-pierce;County;TRUE;3975;ND;
+Ramsey County;us-nd-lrdhu;us-nd-ramsey;County;TRUE;11519;ND;
+Renville County;us-nd-fdhu;us-nd-renville;County;TRUE;2327;ND;
+Richland County;us-nd;us-nd-richland;County;TRUE;16177;ND;
+Sheridan County;us-nd-fdhu;us-nd-sheridan;County;TRUE;1315;ND;
+Sioux County;us-nd-western-plains;us-nd-sioux;County;TRUE;4230;ND;
+Slope County;us-nd-swdhu;us-nd-slope;County;TRUE;750;ND;
+Stark County;us-nd-swdhu;us-nd-stark;County;TRUE;31489;ND;
+Stutsman County;us-nd-central-valley;us-nd-stutsman;County;TRUE;20704;ND;
+Ward County;us-nd-fdhu;us-nd-ward;County;TRUE;67641;ND;
+Williams County;us-nd-umdhu;us-nd-williams;County;TRUE;37589;ND;
+North Dakota;us;us-nd;State;TRUE;762062;ND;
+All North Dakota;;us-nd-all;Summary;;;ND;
+All Central Valley HD;;us-nd-central-valley-all;Summary;;;ND;
+All First District Health Unit;;us-nd-fdhu-all;Summary;;;ND;
+All Lake Region District Health Unit;;us-nd-lrdhu-all;Summary;;;ND;
+All Nelson-Griggs District Health Unit;;us-nd-nelson-griggs-all;Summary;;;ND;
+All Southwestern District Health Unit;;us-nd-swdhu-all;Summary;;;ND;
+All Upper Missouri District Health Unit;;us-nd-umdhu-all;Summary;;;ND;
+All Western Plains Public Health;;us-nd-western-plains-all;Summary;;;ND;

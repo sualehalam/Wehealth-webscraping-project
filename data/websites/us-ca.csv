@@ -1,0 +1,66 @@
+name;parent_id;community_id;category;pha;population_proper;state_id;pha_url
+Alameda County;us-ca;us-ca-alameda;County;TRUE;1671329;CA;http://www.acphd.org
+Alpine County;us-ca;us-ca-alpine;County;TRUE;1129;CA;https://www.alpinecountyca.gov/552/Health-Human-Services
+Amador County;us-ca;us-ca-amador;County;TRUE;39752;CA;https://www.amadorgov.org/departments/health-human-services
+Butte County;us-ca;us-ca-butte;County;TRUE;219186;CA;https://www.buttecounty.net/610/Public-Health
+Calaveras County;us-ca;us-ca-calaveras;County;TRUE;45905;CA;https://publichealth.calaverasgov.us/
+Colusa County;us-ca;us-ca-colusa;County;TRUE;21547;CA;https://www.countyofcolusa.org/99/Public-Health
+Contra Costa County;us-ca;us-ca-contra-costa;County;TRUE;1153526;CA;https://www.cchealth.org
+Del Norte County;us-ca;us-ca-del-norte;County;TRUE;27812;CA;https://www.co.del-norte.ca.us/departments/publichealth
+El Dorado County;us-ca;us-ca-el-dorado;County;TRUE;192843;CA;https://www.eldoradocounty.ca.gov/Health-Well-Being/Public-Health
+Fresno County;us-ca;us-ca-fresno;County;TRUE;999101;CA;https://www.co.fresno.ca.us/departments/public-health
+Glenn County;us-ca;us-ca-glenn;County;TRUE;28393;CA;https://www.countyofglenn.net/dept/health-human-services/public-health/welcome
+Humboldt County;us-ca;us-ca-humboldt;County;TRUE;135558;CA;http://www.humboldtgov.org/330/Public-Health
+Imperial County;us-ca;us-ca-imperial;County;TRUE;181215;CA;https://www.icphd.org/
+Inyo County;us-ca;us-ca-inyo;County;TRUE;18039;CA;https://www.inyocounty.us/public-health-and-prevention
+Kern County;us-ca;us-ca-kern;County;TRUE;900202;CA;https://kernpublichealth.com/
+Kings County;us-ca;us-ca-kings;County;TRUE;152940;CA;https://www.kcdph.com/
+Lake County;us-ca;us-ca-lake;County;TRUE;64386;CA;https://www.lakecountyca.gov/158/Public-Health
+Lassen County;us-ca;us-ca-lassen;County;TRUE;30573;CA;https://www.lassencounty.org/dept/public-health/public-health
+Los Angeles County;us-ca;us-ca-la;County;TRUE;10039107;CA;http://publichealth.lacounty.gov/
+Madera County;us-ca;us-ca-madera;County;TRUE;157327;CA;https://www.maderacounty.com/government/public-health
+Marin County;us-ca;us-ca-marin;County;TRUE;258826;CA;https://www.marinhhs.org/
+Mariposa County;us-ca;us-ca-mariposa;County;TRUE;17203;CA;https://www.mariposacounty.org/89/Health-Services-Division
+Mendocino County;us-ca;us-ca-mendocino;County;TRUE;86749;CA;https://www.mendocinocounty.gov/departments/public-health
+Merced County;us-ca;us-ca-merced;County;TRUE;277680;CA;http://www.co.merced.ca.us/index.aspx?nid=82
+Modoc County;us-ca;us-ca-modoc;County;TRUE;8841;CA;https://publichealth.co.modoc.ca.us/
+Mono County;us-ca;us-ca-mono;County;TRUE;14444;CA;http://www.monohealth.com
+Monterey County;us-ca;us-ca-monterey;County;TRUE;434061;CA;http://www.mtyhd.org
+Napa County;us-ca;us-ca-napa;County;TRUE;137744;CA;https://www.countyofnapa.org/156/HHSA
+Nevada County;us-ca;us-ca-nevada;County;TRUE;99755;CA;https://www.mynevadacounty.com/551/Public-Health
+Orange County;us-ca;us-ca-orange;County;TRUE;3175692;CA;http://www.ochealthinfo.com/
+Placer County;us-ca;us-ca-placer;County;TRUE;398329;CA;https://www.placer.ca.gov/2863/Public-Health
+Plumas County;us-ca;us-ca-plumas;County;TRUE;18807;CA;https://www.plumascounty.us/3219/Plumas-County-Public-Health-Agency
+Riverside County;us-ca;us-ca-riverside;County;TRUE;2470546;CA;http://www.rivcoph.org
+Sacramento County;us-ca;us-ca-sacramento;County;TRUE;1552058;CA;https://dhs.saccounty.net/PUB/Pages/PUB-Home.aspx
+San Benito County;us-ca;us-ca-san-benito;County;TRUE;62808;CA;https://hhsa.cosb.us/public-health-2/
+San Bernardino County;us-ca;us-ca-san-bernardino;County;TRUE;2180085;CA;http://wp.sbcounty.gov/dph/
+San Diego County;us-ca;us-ca-sd;County;TRUE;3338330;CA;http://www.sandiegocounty.gov/hhsa/programs/phs/
+San Francisco County;us-ca;us-ca-sf;County;TRUE;881549;CA;https://www.sfdph.org
+San Joaquin County;us-ca;us-ca-san-joaquin;County;TRUE;762148;CA;http://www.sjcphs.org
+San Luis Obispo County;us-ca;us-ca-slo;County;TRUE;283111;CA;https://www.slocounty.ca.gov/departments/health-agency
+San Mateo County;us-ca;us-ca-san-mateo;County;TRUE;766573;CA;http://www.smhealth.org
+Santa Barbara County;us-ca;us-ca-santa-barbara;County;TRUE;446499;CA;http://www.sbcphd.org
+Santa Clara County;us-ca;us-ca-santa-clara;County;TRUE;1927852;CA;http://www.sccphd.org
+Santa Cruz County;us-ca;us-ca-santa-cruz;County;TRUE;273213;CA;http://www.santacruzhealth.org
+Shasta County;us-ca;us-ca-shasta;County;TRUE;180080;CA;https://www.shastacounty.gov/health-human-services/page/public-health
+Sierra County;us-ca;us-ca-sierra;County;TRUE;3005;CA;https://sierracounty.ca.gov/269/Public-Health
+Siskiyou County;us-ca;us-ca-siskiyou;County;TRUE;43539;CA;https://www.co.siskiyou.ca.us/publichealth
+Solano County;us-ca;us-ca-solano;County;TRUE;447643;CA;https://www.solanocounty.com/depts/ph/default.asp
+Sonoma County;us-ca;us-ca-sonoma;County;TRUE;494336;CA;http://www.sonomacounty.ca.gov/Health-Services/
+Stanislaus County;us-ca;us-ca-stanislaus;County;TRUE;550660;CA;http://www.schsa.org
+Sutter County;us-ca;us-ca-sutter;County;TRUE;96971;CA;https://www.suttercounty.org/government/county-departments/health-and-human-services/public-health
+Tehama County;us-ca;us-ca-tehama;County;TRUE;65084;CA;http://www.tehamacohealthservices.net
+Trinity County;us-ca;us-ca-trinity;County;TRUE;12285;CA;https://www.trinitycounty.org/HHS
+Tulare County;us-ca;us-ca-tulare;County;TRUE;466195;CA;https://tchhsa.org/eng/public-health/
+Tuolumne County;us-ca;us-ca-tuolumne;County;TRUE;54478;CA;https://www.tuolumnecounty.ca.gov/250/Public-Health
+Ventura County;us-ca;us-ca-ventura;County;TRUE;846006;CA;https://vchca.org/public-health/
+Yolo County;us-ca;us-ca-yolo;County;TRUE;220500;CA;https://www.yolocounty.org/health-human-services
+Yuba County;us-ca;us-ca-yuba;County;TRUE;78668;CA;https://www.yuba.org/departments/health_and_human_services/index.php
+Berkeley;us-ca;us-ca-berkeley;City;TRUE;121385;CA;https://www.cityofberkeley.info/publichealth/
+Long Beach;us-ca;us-ca-long-beach;City;TRUE;462293;CA;http://www.longbeach.gov/health/
+Pasadena;us-ca;us-ca-pasadena;City;TRUE;137554;CA;http://www.cityofpasadena.net/PublicHealth/
+Vernon;us-ca;us-ca-vernon;City;TRUE;329;CA;https://www.cityofvernon.org/government/health
+California;us;us-ca;State;TRUE;39512223;CA;
+All California;;us-ca-all;Summary;;;CA;
+UCSF;us-ca;us-ca-ucsf;Hospital;;;CA;

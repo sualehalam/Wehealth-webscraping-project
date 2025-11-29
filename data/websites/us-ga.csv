@@ -1,0 +1,192 @@
+name;parent_id;community_id;category;pha;population_proper;state_id;pha_url
+Baker County;us-ga-swhd;us-ga-baker;County;TRUE;3038;GA;
+Banks County;us-ga-nhd;us-ga-banks;County;TRUE;19234;GA;
+Bartow County;us-ga-nwhd;us-ga-bartow;County;TRUE;107738;GA;
+Ben Hill County;us-ga-shd;us-ga-ben-hill;County;TRUE;16700;GA;
+Berrien County;us-ga-shd;us-ga-berrien;County;TRUE;19397;GA;
+Bleckley County;us-ga-schd;us-ga-bleckley;County;TRUE;12873;GA;
+Brooks County;us-ga-shd;us-ga-brooks;County;TRUE;15457;GA;
+Burke County;us-ga-echd;us-ga-burke;County;TRUE;22383;GA;
+Catoosa County;us-ga-nwhd;us-ga-catoosa;County;TRUE;67580;GA;
+Chattahoochee County;us-ga-wchd;us-ga-chattahoochee;County;TRUE;10907;GA;
+Chattooga County;us-ga-nwhd;us-ga-chattooga;County;TRUE;24789;GA;
+Colquitt County;us-ga-swhd;us-ga-colquitt;County;TRUE;45600;GA;
+Columbia County;us-ga-echd;us-ga-columbia;County;TRUE;156714;GA;
+Cook County;us-ga-shd;us-ga-cook;County;TRUE;17270;GA;
+Crisp County;us-ga-wchd;us-ga-crisp;County;TRUE;22372;GA;
+Dade County;us-ga-nwhd;us-ga-dade;County;TRUE;16116;GA;
+Dawson County;us-ga-nhd;us-ga-dawson;County;TRUE;26108;GA;
+Decatur County;us-ga-swhd;us-ga-decatur;County;TRUE;26404;GA;
+Dodge County;us-ga-schd;us-ga-dodge;County;TRUE;20605;GA;
+Dooly County;us-ga-wchd;us-ga-dooly;County;TRUE;13390;GA;
+Early County;us-ga-swhd;us-ga-early;County;TRUE;10190;GA;
+Echols County;us-ga-shd;us-ga-echols;County;TRUE;4006;GA;
+Elbert County;us-ga-nehd;us-ga-elbert;County;TRUE;19194;GA;
+Emanuel County;us-ga-echd;us-ga-emanuel;County;TRUE;22646;GA;
+Fannin County;us-ga-nghd;us-ga-fannin;County;TRUE;26188;GA;
+Forsyth County;us-ga-nhd;us-ga-forsyth;County;TRUE;244252;GA;
+Glascock County;us-ga-echd;us-ga-glascock;County;TRUE;2971;GA;
+Grady County;us-ga-swhd;us-ga-grady;County;TRUE;24633;GA;
+Habersham County;us-ga-nhd;us-ga-habersham;County;TRUE;45328;GA;
+Hall County;us-ga-nhd;us-ga-hall;County;TRUE;204441;GA;
+Haralson County;us-ga-nwhd;us-ga-haralson;County;TRUE;29792;GA;
+Harris County;us-ga-wchd;us-ga-harris;County;TRUE;35236;GA;
+Hart County;us-ga-nhd;us-ga-hart;County;TRUE;26205;GA;
+Irwin County;us-ga-shd;us-ga-irwin;County;TRUE;9416;GA;
+Jefferson County;us-ga-echd;us-ga-jefferson;County;TRUE;15362;GA;
+Jenkins County;us-ga-echd;us-ga-jenkins;County;TRUE;8676;GA;
+Johnson County;us-ga-schd;us-ga-johnson;County;TRUE;9643;GA;
+Lanier County;us-ga-shd;us-ga-lanier;County;TRUE;10423;GA;
+Laurens County;us-ga-schd;us-ga-laurens;County;TRUE;47546;GA;
+Lincoln County;us-ga-echd;us-ga-lincoln;County;TRUE;7921;GA;
+Lumpkin County;us-ga-nhd;us-ga-lumpkin;County;TRUE;33610;GA;
+Miller County;us-ga-swhd;us-ga-miller;County;TRUE;5718;GA;
+Mitchell County;us-ga-swhd;us-ga-mitchell;County;TRUE;21863;GA;
+Oconee County;us-ga-nehd;us-ga-oconee;County;TRUE;40280;GA;
+Oglethorpe County;us-ga-nehd;us-ga-oglethorpe;County;TRUE;15259;GA;
+Pulaski County;us-ga-schd;us-ga-pulaski;County;TRUE;11137;GA;
+Quitman County;us-ga-wchd;us-ga-quitman;County;TRUE;2299;GA;
+Rabun County;us-ga-nhd;us-ga-rabun;County;TRUE;17137;GA;
+Schley County;us-ga-wchd;us-ga-schley;County;TRUE;5257;GA;
+Seminole County;us-ga-swhd;us-ga-seminole;County;TRUE;8090;GA;
+Stewart County;us-ga-wchd;us-ga-stewart;County;TRUE;6621;GA;
+Talbot County;us-ga-wchd;us-ga-talbot;County;TRUE;6195;GA;
+Taliaferro County;us-ga-echd;us-ga-taliaferro;County;TRUE;1537;GA;
+Terrell County;us-ga-swhd;us-ga-terrell;County;TRUE;8531;GA;
+Thomas County;us-ga-swhd;us-ga-thomas;County;TRUE;44451;GA;
+Tift County;us-ga-shd;us-ga-tift;County;TRUE;40644;GA;
+Webster County;us-ga-wchd;us-ga-webster;County;TRUE;2607;GA;
+Appling County;us-ga-sehd;us-ga-appling;County;TRUE;18386;GA;https://www.sehdph.org/our-counties/appling-county-health-department/
+Atkinson County;us-ga-sehd;us-ga-atkinson;County;TRUE;8165;GA;https://www.sehdph.org/our-counties/atkinson-county-health-department/
+Bacon County;us-ga-sehd;us-ga-bacon;County;TRUE;11164;GA;https://www.sehdph.org/our-counties/bacon-county-health-department/
+Barrow County;us-ga-nehd;us-ga-barrow;County;TRUE;83240;GA;http://www.BarrowCountyHealthDepartment.com
+Brantley County;us-ga-sehd;us-ga-brantley;County;TRUE;19109;GA;https://www.sehdph.org/our-counties/brantley-county-health-department/
+Bryan County;us-ga-coastal;us-ga-bryan;County;TRUE;39627;GA;http://www.gachd.org
+Bulloch County;us-ga-sehd;us-ga-bulloch;County;TRUE;79608;GA;https://www.sehdph.org/our-counties/bulloch-county-health-department/
+Butts County;us-ga-lagrange;us-ga-butts;County;TRUE;24936;GA;https://www.district4health.org/locations/butts-county/
+Camden County;us-ga-coastal;us-ga-camden;County;TRUE;54666;GA;http://www.gachd.org
+Candler County;us-ga-sehd;us-ga-candler;County;TRUE;10803;GA;https://www.sehdph.org/our-counties/candler-county-health-department/
+Carroll County;us-ga-lagrange;us-ga-carroll;County;TRUE;119992;GA;https://www.district4health.org/locations/carroll-county/
+Charlton County;us-ga-sehd;us-ga-charlton;County;TRUE;13392;GA;https://www.sehdph.org/our-counties/charlton-county-health-department/
+Chatham County;us-ga-coastal;us-ga-chatham;County;TRUE;289430;GA;https://www.gachd.org/
+Clayton County;us-ga;us-ga-clayton;County;TRUE;292256;GA;http://www.claytoncountypublichealth.org/
+Clinch County;us-ga-sehd;us-ga-clinch;County;TRUE;6618;GA;https://www.sehdph.org/our-counties/clinch-county-health-department/
+Coweta County;us-ga-lagrange;us-ga-coweta;County;TRUE;148509;GA;https://www.district4health.org/locations/coweta-county/
+Crawford County;us-ga-nchd;us-ga-crawford;County;TRUE;12404;GA;https://northcentralhealthdistrict.org/crawford-county-health-department/
+DeKalb County;us-ga;us-ga-dekalb;County;TRUE;759297;GA;https://www.dekalbhealth.net/
+Dougherty County;us-ga-swhd;us-ga-dougherty;County;TRUE;87956;GA;http://www.southwestgeorgiapublichealth.org/dougherty/
+Effingham County;us-ga-coastal;us-ga-effingham;County;TRUE;64296;GA;http://www.gachd.org
+Evans County;us-ga-sehd;us-ga-evans;County;TRUE;10654;GA;https://www.sehdph.org/our-counties/evans-county-health-department/
+Floyd County;us-ga-nwhd;us-ga-floyd;County;TRUE;98498;GA;http://nwgapublichealth.org/counties/floyd/index.htm
+Fulton County;us-ga;us-ga-fulton;County;TRUE;1063937;GA;https://fultoncountyga.gov/Inside-Fulton-County/Fulton-County-Departments/Board-of-Health
+Gilmer County;us-ga-nghd;us-ga-gilmer;County;TRUE;31369;GA;http://www.nghd.org/locations/health-depts/gilmer-health.html
+Glynn County;us-ga-coastal;us-ga-glynn;County;TRUE;85292;GA;http://www.gachd.org
+Gordon County;us-ga-nwhd;us-ga-gordon;County;TRUE;57963;GA;https://nwgapublichealth.org/counties/gordon/
+Hancock County;us-ga-nchd;us-ga-hancock;County;TRUE;8457;GA;https://northcentralhealthdistrict.org/hancock-county-health-department/
+Heard County;us-ga-lagrange;us-ga-heard;County;TRUE;11923;GA;https://www.district4health.org/clinic-sites/heard-county/
+Jasper County;us-ga-nchd;us-ga-jasper;County;TRUE;14219;GA;https://northcentralhealthdistrict.org/jasper-county-health-department/
+Jeff Davis County;us-ga-sehd;us-ga-jeff-davis;County;TRUE;15115;GA;https://www.sehdph.org/our-counties/jeff-davis-county-health-department/
+Jones County;us-ga-nchd;us-ga-jones;County;TRUE;28735;GA;https://northcentralhealthdistrict.org/jones-county-health-department/
+Long County;us-ga-coastal;us-ga-long;County;TRUE;19559;GA;http://www.gachd.org
+McDuffie County;us-ga-echd;us-ga-mcduffie;County;TRUE;21312;GA;https://ecphd.com/counties/mcduffie-county-health-department/
+McIntosh County;us-ga-coastal;us-ga-mcintosh;County;TRUE;14378;GA;http://www.gachd.org
+Meriwether County;us-ga-lagrange;us-ga-meriwether;County;TRUE;21167;GA;https://www.district4health.org/clinic-sites/meriwether-county/
+Murray County;us-ga-nghd;us-ga-murray;County;TRUE;40096;GA;http://www.nghd.org/locations/health-departments/murray-health.html
+Muscogee County;us-ga-wchd;us-ga-muscogee;County;TRUE;195769;GA;https://dph.georgia.gov/locations/muscogee-county-health-department
+Newton County;us-ga-gnr;us-ga-newton;County;TRUE;111744;GA;https://www.gnrhealth.com/locations/newton/newton-county-health-center/
+Paulding County;us-ga-nwhd;us-ga-paulding;County;TRUE;168667;GA;http://paulding.gov/240/Health-Department
+Peach County;us-ga-nchd;us-ga-peach;County;TRUE;27546;GA;https://northcentralhealthdistrict.org/peach-county-health-department/
+Pierce County;us-ga-sehd;us-ga-pierce;County;TRUE;19465;GA;https://www.sehdph.org/our-counties/pierce-county-health-department/
+Polk County;us-ga-nwhd;us-ga-polk;County;TRUE;42613;GA;https://nwgapublichealth.org/counties/polk/
+Richmond County;us-ga-echd;us-ga-richmond;County;TRUE;202518;GA;https://ecphd.com/counties/richmond-county-health-department/
+Rockdale County;us-ga-gnr;us-ga-rockdale;County;TRUE;90896;GA;https://www.gnrhealth.com/locations/rockdale/health-center/
+Screven County;us-ga-echd;us-ga-screven;County;TRUE;13966;GA;https://ecphd.com/counties/screven-county-health-department/
+Spalding County;us-ga-lagrange;us-ga-spalding;County;TRUE;66703;GA;https://www.district4health.org/locations/spalding-county/
+Stephens County;us-ga-nhd;us-ga-stephens;County;TRUE;25925;GA;https://phdistrict2.org/stephens-county-health-department/
+Tattnall County;us-ga-sehd;us-ga-tattnall;County;TRUE;25286;GA;https://www.sehdph.org/our-counties/tattnall-county-health-department/
+Telfair County;us-ga-schd;us-ga-telfair;County;TRUE;15860;GA;http://southcentralhealth.info/county-health-departments/telfair/
+Toombs County;us-ga-sehd;us-ga-toombs;County;TRUE;26830;GA;https://www.sehdph.org/our-counties/toombs-county-health-department/
+Towns County;us-ga-nhd;us-ga-towns;County;TRUE;12037;GA;http://www.townscountyga.org/health-department.html
+Treutlen County;us-ga-schd;us-ga-treutlen;County;TRUE;6901;GA;http://southcentralhealth.info/county-health-departments/treutlen/
+Troup County;us-ga-lagrange;us-ga-troup;County;TRUE;69922;GA;https://www.district4health.org/clinic-sites/troup-county/
+Turner County;us-ga-shd;us-ga-turner;County;TRUE;7985;GA;https://southhealthdistrict.com/county-health-departments/turner-county-health-department/
+Twiggs County;us-ga-nchd;us-ga-twiggs;County;TRUE;8120;GA;https://northcentralhealthdistrict.org/twiggs-county-health-department/
+Upson County;us-ga-lagrange;us-ga-upson;County;TRUE;26320;GA;https://www.district4health.org/locations/upson-county/
+Ware County;us-ga-sehd;us-ga-ware;County;TRUE;35734;GA;https://www.sehdph.org/our-counties/ware-county-health-department/
+Warren County;us-ga-echd;us-ga-warren;County;TRUE;5254;GA;https://ecphd.com/counties/warren-county-health-department/
+Wayne County;us-ga-sehd;us-ga-wayne;County;TRUE;29927;GA;https://www.sehdph.org/our-counties/wayne-county-health-department/
+Wheeler County;us-ga-schd;us-ga-wheeler;County;TRUE;7855;GA;http://southcentralhealth.info/county-health-departments/wheeler/
+White County;us-ga-nhd;us-ga-white;County;TRUE;30798;GA;http://www.whitecounty.net/departments/health-department
+Whitfield County;us-ga-nghd;us-ga-whitfield;County;TRUE;104628;GA;http://www.nghd.org/locations/health-departments/whitfield-health.html
+Wilkes County;us-ga-echd;us-ga-wilkes;County;TRUE;9777;GA;https://ecphd.com/counties/wilkes-county-health-department/
+Wilkinson County;us-ga-nchd;us-ga-wilkinson;County;TRUE;8954;GA;https://northcentralhealthdistrict.org/wilkinson-county-health-department/
+Worth County;us-ga-swhd;us-ga-worth;County;TRUE;20247;GA;http://www.southwestgeorgiapublichealth.org/worth/
+District 9, Unit 1: Coastal HD;us-ga;us-ga-coastal;Group;TRUE;628683;GA;http://www.gachd.org
+District 3, Unit 1: Cobb & Douglas Public Health;us-ga;us-ga-cobb-douglas;Group;TRUE;906484;GA;http://www.cobbanddouglaspublichealth.org
+District 6: East Central HD;us-ga;us-ga-echd;Group;TRUE;491037;GA;http://www.ecphd.com
+GNR Public Health;us-ga;us-ga-gnr;Group;TRUE;1138890;GA;https://www.gnrhealth.com/
+District 4: LaGrange HD;us-ga;us-ga-lagrange;Group;TRUE;876493;GA;http://www.district4health.org
+District 5, Unit 2: North Central District;us-ga;us-ga-nchd;Group;TRUE;534418;GA;https://dph.georgia.gov/contacts/district-5-2-macon-north-central-health-district
+District 10: Northeast HD;us-ga;us-ga-nehd;Group;TRUE;521354;GA;http://publichealthathens.com
+District 1, Unit 2: North Georgia HD;us-ga;us-ga-nghd;Group;TRUE;258773;GA;http://www.nghd.org
+District 2: North HD;us-ga;us-ga-nhd;Group;TRUE;1226580;GA;http://www.phdistrict2.org
+District 1, Unit 1: Northwest District;us-ga;us-ga-nwhd;Group;TRUE;683517;GA;https://nwgapublichealth.org/
+District 5, Unit 1: South Central District;us-ga;us-ga-schd;Group;TRUE;150227;GA;http://southcentralhealth.info/
+District 9, Unit 2: Southeast HD;us-ga;us-ga-sehd;Group;TRUE;373529;GA;http://www.sehdph.org
+District 8, Unit 1: South HD;us-ga;us-ga-shd;Group;TRUE;258704;GA;http://www.southhealthdistrict.com
+District 8, Unit 2, Southwest HD;us-ga;us-ga-swhd;Group;TRUE;342902;GA;http://www.southwestgeorgiapublichealth.org/
+District 7 - West Central HD;us-ga;us-ga-wchd;Group;TRUE;369115;GA;https://dph.georgia.gov/contacts/district-7-columbus-west-central-health-district
+Baldwin County;us-ga-nchd;us-ga-baldwin;County;TRUE;44890;GA;
+Bibb County;us-ga-nchd;us-ga-bibb;County;TRUE;153159;GA;
+Calhoun County;us-ga-swhd;us-ga-calhoun;County;TRUE;6189;GA;
+Cherokee County;us-ga-nghd;us-ga-cherokee;County;TRUE;258773;GA;
+Clarke County;us-ga-nehd;us-ga-clarke;County;TRUE;128331;GA;
+Clay County;us-ga-wchd;us-ga-clay;County;TRUE;2834;GA;
+Cobb County;us-ga-cobb-douglas;us-ga-cobb;County;TRUE;760141;GA;
+Coffee County;us-ga-sehd;us-ga-coffee;County;TRUE;43273;GA;
+Douglas County;us-ga-cobb-douglas;us-ga-douglas;County;TRUE;146343;GA;
+Fayette County;us-ga-lagrange;us-ga-fayette;County;TRUE;114421;GA;
+Franklin County;us-ga-nhd;us-ga-franklin;County;TRUE;23349;GA;
+Greene County;us-ga-nehd;us-ga-greene;County;TRUE;18324;GA;
+Gwinnett County;us-ga-gnr;us-ga-gwinnett;County;TRUE;936250;GA;
+Henry County;us-ga-lagrange;us-ga-henry;County;TRUE;234561;GA;
+Houston County;us-ga-nchd;us-ga-houston;County;TRUE;157863;GA;
+Jackson County;us-ga-nehd;us-ga-jackson;County;TRUE;72977;GA;
+Lamar County;us-ga-lagrange;us-ga-lamar;County;TRUE;19077;GA;
+Lee County;us-ga-swhd;us-ga-lee;County;TRUE;29992;GA;
+Liberty County;us-ga-coastal;us-ga-liberty;County;TRUE;61435;GA;
+Lowndes County;us-ga-shd;us-ga-lowndes;County;TRUE;117406;GA;
+Macon County;us-ga-wchd;us-ga-macon;County;TRUE;12947;GA;
+Madison County;us-ga-nehd;us-ga-madison;County;TRUE;29880;GA;
+Marion County;us-ga-wchd;us-ga-marion;County;TRUE;8359;GA;
+Monroe County;us-ga-nchd;us-ga-monroe;County;TRUE;27578;GA;
+Montgomery County;us-ga-schd;us-ga-montgomery;County;TRUE;9172;GA;
+Morgan County;us-ga-nehd;us-ga-morgan;County;TRUE;19276;GA;
+Pickens County;us-ga-nghd;us-ga-pickens;County;TRUE;32591;GA;
+Pike County;us-ga-lagrange;us-ga-pike;County;TRUE;18962;GA;
+Putnam County;us-ga-nchd;us-ga-putnam;County;TRUE;22119;GA;
+Randolph County;us-ga-wchd;us-ga-randolph;County;TRUE;6778;GA;
+Sumter County;us-ga-wchd;us-ga-sumter;County;TRUE;29524;GA;
+Taylor County;us-ga-wchd;us-ga-taylor;County;TRUE;8020;GA;
+Union County;us-ga-nhd;us-ga-union;County;TRUE;24511;GA;
+Walker County;us-ga-nwhd;us-ga-walker;County;TRUE;69761;GA;
+Walton County;us-ga-nehd;us-ga-walton;County;TRUE;94593;GA;
+Washington County;us-ga-nchd;us-ga-washington;County;TRUE;20374;GA;
+Wilcox County;us-ga-schd;us-ga-wilcox;County;TRUE;8635;GA;
+Georgia;us;us-ga;State;TRUE;10617423;GA;
+All Georgia;;us-ga-all;Summary;;;GA;
+All District 9, Unit 1: Coastal HD;;us-ga-coastal-all;Summary;;;GA;
+All District 3, Unit 1: Cobb & Douglas Public Health;;us-ga-cobb-douglas-all;Summary;;;GA;
+All District 6: East Central HD;;us-ga-echd-all;Summary;;;GA;
+All GNR Public Health;;us-ga-gnr-all;Summary;;;GA;
+All District 4: LaGrange HD;;us-ga-lagrange-all;Summary;;;GA;
+All District 5, Unit 2: North Central District;;us-ga-nchd-all;Summary;;;GA;
+All District 10: Northeast HD;;us-ga-nehd-all;Summary;;;GA;
+All District 1, Unit 2: North Georgia HD;;us-ga-nghd-all;Summary;;;GA;
+All District 2: North HD;;us-ga-nhd-all;Summary;;;GA;
+All District 1, Unit 1: Northwest District;;us-ga-nwhd-all;Summary;;;GA;
+All District 5, Unit 1: South Central District;;us-ga-schd-all;Summary;;;GA;
+All District 9, Unit 2: Southeast HD;;us-ga-sehd-all;Summary;;;GA;
+All District 8, Unit 1: South HD;;us-ga-shd-all;Summary;;;GA;
+All District 8, Unit 2, Southwest HD;;us-ga-swhd-all;Summary;;;GA;
+All District 7 - West Central HD;;us-ga-wchd-all;Summary;;;GA;

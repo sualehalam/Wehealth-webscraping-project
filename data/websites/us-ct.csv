@@ -1,0 +1,206 @@
+name;parent_id;community_id;category;pha;population_proper;state_id;pha_url
+Orange;us-ct;us-ct-orange;Town;TRUE;;CT;
+New Fairfield;us-ct;us-ct-new-fairfield;Town;TRUE;;CT;
+Sherman;us-ct;us-ct-sherman;Town;TRUE;;CT;
+South Windsor;us-ct;us-ct-south-windsor;Town;TRUE;;CT;
+Madison;us-ct;us-ct-madison;Town;TRUE;;CT;http://www.madisonct.org
+Bethel;us-ct;us-ct-bethel;Town;TRUE;;CT;https://www.bethel-ct.gov/depts-health
+Bridgeport;us-ct;us-ct-bridgeport;City;TRUE;148470;CT;https://www.bridgeportct.gov/health
+Canaan;us-ct-tahd;us-ct-canaan;City;;1353;CT;https://www.newcanaan.info/departments/health/index.php
+Danbury;us-ct;us-ct-danbury;City;TRUE;86456;CT;https://www.danbury-ct.gov/201/Health-Human-Services
+Durham;us-ct-crahd;us-ct-durham;Town;;;CT;http://www.townofdurhamct.org
+East Hartford;us-ct;us-ct-east-hartford;Town;TRUE;;CT;https://www.easthartfordct.gov/health
+Greenwich;us-ct;us-ct-greenwich;Town;TRUE;;CT;https://www.greenwichct.gov/575/Health-Department
+Hartford;us-ct;us-ct-hartford-town;City;TRUE;121057;CT;https://healthyhartford.info/index.php/en/
+Manchester;us-ct;us-ct-manchester;Town;TRUE;;CT;https://www.manchesterct.gov/Government/Departments/Health-Department
+Meriden;us-ct;us-ct-meriden;City;TRUE;60556;CT;http://www.meridenhealth.com
+Middletown;us-ct;us-ct-middletown;City;TRUE;48152;CT;https://www.middletownct.gov/167/Health-Department
+Naugatuck;us-ct-nvhd;us-ct-naugatuck;City;;31653;CT;http://www.nvhd.org
+New Britain;us-ct;us-ct-new-britain;City;TRUE;74212;CT;https://www.newbritainct.gov/services/health/defaulthtm
+New Haven;us-ct;us-ct-new-haven-town;City;TRUE;135736;CT;https://www.newhavenct.gov/government/departments-divisions/nhv-health
+Newtown;us-ct-newtown;us-ct-newtown-town;Town;;;CT;https://www.newtown-ct.gov/newtown-health-district
+Norwalk;us-ct;us-ct-norwalk;City;TRUE;91050;CT;http://www.norwalkct.org/health
+Ridgefield;us-ct;us-ct-ridgefield;Town;TRUE;;CT;https://www.ridgefieldct.gov/health
+Sharon;us-ct-hvhd;us-ct-sharon;Town;;;CT;http://www.portal.ct.gov/DPH/Local-Health-Admin/LHA/Sharon-Health-Department
+Somers;us-ct;us-ct-somers;Town;TRUE;;CT;https://www.somersct.gov/town-departments/land-use-services/health-department/
+Stamford;us-ct;us-ct-stamford;City;TRUE;135413;CT;https://www.stamfordct.gov/department-of-health
+Torrington;us-ct-tahd;us-ct-torrington;City;;35510;CT;http://www.tahd.org
+Waterbury;us-ct;us-ct-waterbury;City;TRUE;114480;CT;https://www.waterburyct.org/services/health
+West Haven;us-ct;us-ct-west-haven;City;TRUE;55336;CT;https://www.cityofwesthaven.com/164/Health-Department
+Brookfield;us-ct;us-ct-brookfield;Town;TRUE;;CT;https://www.brookfieldct.gov/health-department
+Essex;us-ct;us-ct-essex;Town;TRUE;;CT;https://www.essexct.gov/health-department
+Cromwell;us-ct;us-ct-cromwell;Town;TRUE;;CT;https://www.cromwellct.com/health-department
+Redding;us-ct;us-ct-redding;Town;TRUE;;CT;http://www.LLHD.org
+Guilford;us-ct;us-ct-guilford;Town;TRUE;;CT;http://www.ci.guilford.ct.us
+Glastonbury;us-ct;us-ct-glastonbury;Town;TRUE;;CT;http://www.glastonbury-ct.gov/index.aspx?page=117
+Westbrook;us-ct;us-ct-westbrook;Town;TRUE;;CT;http://www.westbrookct.us/152/Public-Health-Department
+Trumbull;us-ct;us-ct-trumbull;Town;TRUE;;CT;https://www.trumbull-ct.gov/179/Health
+Windsor;us-ct;us-ct-windsor;Town;TRUE;;CT;https://townofwindsorct.com/health/
+Darien;us-ct;us-ct-darien;Town;TRUE;;CT;http://www.darienct.gov/health
+Farmington;us-ct-fvhd;us-ct-farmington;Town;;;CT;http://www.fvhd.org
+Wallingford;us-ct;us-ct-wallingford;Town;TRUE;;CT;https://www.wallingfordct.gov/government/departments/health-department/
+Wilton;us-ct;us-ct-wilton;Town;TRUE;;CT;https://www.wiltonct.gov/health-department
+Monroe;us-ct;us-ct-monroe;Town;TRUE;;CT;https://www.monroect.gov/p/health-department
+Stratford;us-ct;us-ct-stratford;Town;TRUE;;CT;https://www.stratfordct.gov/page/health
+Fairfield;us-ct;us-ct-fairfield-town;Town;TRUE;;CT;https://www.fairfieldct.org/health
+Connecticut;us;us-ct;State;TRUE;3565287;CT;http://www.ccthd.org
+Chatham HD;us-ct;us-ct-chatham;Group;TRUE;61762;CT;http://chathamhealth.org
+Chesprocott HD;us-ct;us-ct-chesprocott;Group;TRUE;54276;CT;http://www.chesprocott.org
+Eastern Highlands HD;us-ct;us-ct-ehhd;Group;TRUE;79455;CT;http://www.ehhd.org
+East Shore District HD;us-ct;us-ct-esdhd;Group;TRUE;69740;CT;http://www.esdhd.org
+Housatonic Valley HD;us-ct;us-ct-hvhd;Group;TRUE;76749;CT;https://hvhd.us/
+Ledge Light HD;us-ct;us-ct-llhd;Group;TRUE;152919;CT;http://www.LLHD.org
+Milford;us-ct;us-ct-milford;City;TRUE;;CT;https://www.ci.milford.ct.us/health-department-0
+North Central District HD;us-ct;us-ct-ncdhd;Group;TRUE;164234;CT;http://www.ncdhd.org
+Northeast District HD;us-ct;us-ct-nddh;Group;TRUE;84860;CT;http://www.nddh.org
+South Central HD;us-ct;us-ct-pshd;Group;TRUE;65243;CT;https://schd-ct.org/
+Quinnipiack Valley HD;us-ct;us-ct-qvhd;Group;TRUE;99806;CT;http://www.qvhd.org
+Uncas HD;us-ct;us-ct-uncas;Group;TRUE;100081;CT;http://www.uncashd.org
+West Hartford-Bloomfield HD;us-ct;us-ct-whbhd;Group;TRUE;85618;CT;https://www.westhartfordct.gov/town-departments/health-district
+Aspetuck HD;us-ct;us-ct-wwhd;Group;TRUE;45100;CT;http://www.wwhd.org
+Goshen;us-ct-tahd;us-ct-goshen;Town;;;CT;
+Bethlehem;us-ct-tahd;us-ct-bethlehem;Town;;;CT;
+Colebrook;us-ct-fvhd;us-ct-colebrook;Town;;;CT;
+Granby;us-ct-fvhd;us-ct-granby;Town;;;CT;
+Prospect;us-ct-chesprocott;us-ct-prospect;Town;;;CT;
+Chaplin;us-ct-ehhd;us-ct-chaplin;Town;;;CT;
+North Stonington;us-ct-llhd;us-ct-north-stonington;Town;;;CT;
+Sprague;us-ct-uncas;us-ct-sprague;Town;;;CT;
+Avon;us-ct-fvhd;us-ct-avon;Town;;;CT;
+Enfield;us-ct-ncdhd;us-ct-enfield;Town;;;CT;
+Cornwall;us-ct-tahd;us-ct-cornwall;Town;;;CT;
+Montville;us-ct-uncas;us-ct-montville;Town;;;CT;
+Ansonia;us-ct-nvhd;us-ct-ansonia;City;;18954;CT;
+Brooklyn;us-ct-nddh;us-ct-brooklyn;Town;;;CT;
+Clinton;us-ct-crahd;us-ct-clinton;Town;;;CT;
+Colchester;us-ct-chatham;us-ct-colchester;Town;;;CT;
+Derby;us-ct-nvhd;us-ct-derby;City;;12373;CT;
+East Hampton;us-ct-chatham;us-ct-east-hampton;Town;;;CT;
+East Haven;us-ct-esdhd;us-ct-east-haven;Town;;;CT;
+Groton;us-ct-llhd;us-ct-groton;Town;;;CT;
+Litchfield;us-ct-tahd;us-ct-litchfield-town;Town;;;CT;
+Newington;us-ct-ccthd;us-ct-newington;Town;;;CT;
+New London;us-ct-llhd;us-ct-new-london-city;City;;27596;CT;
+New Milford;us-ct-hvhd;us-ct-new-milford;Town;;;CT;
+Norfolk;us-ct-tahd;us-ct-norfolk;Town;;;CT;
+Norwich;us-ct-uncas;us-ct-norwich;City;;40054;CT;
+Portland;us-ct-chatham;us-ct-portland;Town;;;CT;
+Putnam;us-ct-nddh;us-ct-putnam;Town;;;CT;
+Shelton;us-ct-nvhd;us-ct-shelton;City;;41206;CT;
+Stonington;us-ct-llhd;us-ct-stonington;Town;;;CT;
+Thomaston;us-ct-tahd;us-ct-thomaston;Town;;;CT;
+Waterford;us-ct-llhd;us-ct-waterford;Town;;;CT;
+Watertown;us-ct-tahd;us-ct-watertown;Town;;;CT;
+West Hartford;us-ct-whbhd;us-ct-west-hartford;Town;;;CT;
+Wethersfield;us-ct-ccthd;us-ct-wethersfield;Town;;;CT;
+Windsor Locks;us-ct-ncdhd;us-ct-windsor-locks;Town;;;CT;
+Tolland;us-ct-ehhd;us-ct-tolland-town;Town;;;CT;
+East Lyme;us-ct-llhd;us-ct-east-lyme;Town;;;CT;
+Hamden;us-ct-qvhd;us-ct-hamden;Town;;;CT;
+Vernon;us-ct-ncdhd;us-ct-vernon;Town;;;CT;
+Wolcott;us-ct-chesprocott;us-ct-wolcott;Town;;;CT;
+Bozrah;us-ct-uncas;us-ct-bozrah;Town;;;CT;
+Ledyard;us-ct-llhd;us-ct-ledyard;Town;;;CT;
+Warren;us-ct-tahd;us-ct-warren;Town;;;CT;
+Mansfield;us-ct-ehhd;us-ct-mansfield;Town;;;CT;
+Griswold;us-ct-uncas;us-ct-griswold;Town;;;CT;
+Rocky Hill;us-ct-ccthd;us-ct-rocky-hill;Town;;;CT;
+Union;us-ct-nddh;us-ct-union;Town;;;CT;
+Woodbridge;us-ct-qvhd;us-ct-woodbridge;Town;;;CT;
+East Windsor;us-ct-ncdhd;us-ct-east-windsor;Town;;;CT;
+Preston;us-ct-uncas;us-ct-preston;Town;;;CT;
+Willington;us-ct-ehhd;us-ct-willington;Town;;;CT;
+Thompson;us-ct-nddh;us-ct-thompson;Town;;;CT;
+Seymour;us-ct-nvhd;us-ct-seymour;Town;;;CT;
+Old Saybrook;us-ct-crahd;us-ct-old-saybrook;Town;;;CT;
+Easton;us-ct-wwhd;us-ct-easton;Town;;;CT;
+Salem;us-ct-uncas;us-ct-salem;Town;;;CT;
+Woodbury;us-ct-hvhd;us-ct-woodbury;Town;;;CT;
+Bolton;us-ct-ehhd;us-ct-bolton;Town;;;CT;
+North Canaan;us-ct-tahd;us-ct-north-canaan;Town;;;CT;
+Morris;us-ct-tahd;us-ct-morris;Town;;;CT;
+Westport;us-ct-wwhd;us-ct-westport;Town;;;CT;
+Killingly;us-ct-nddh;us-ct-killingly;Town;;;CT;
+Cheshire;us-ct-chesprocott;us-ct-cheshire;Town;;;CT;
+Weston;us-ct-wwhd;us-ct-weston;Town;;;CT;
+Killingworth;us-ct-crahd;us-ct-killingworth;Town;;;CT;
+Haddam;us-ct-crahd;us-ct-haddam;Town;;;CT;
+Bridgewater;us-ct-newtown;us-ct-bridgewater;Town;;;CT;
+New Hartford;us-ct-fvhd;us-ct-new-hartford;Town;;;CT;
+New Canaan;us-ct;us-ct-new-canaan;Town;TRUE;;CT;
+Stafford;us-ct-ncdhd;us-ct-stafford;Town;;;CT;
+Lisbon;us-ct-uncas;us-ct-lisbon;Town;;;CT;
+Canterbury;us-ct-nddh;us-ct-canterbury;Town;;;CT;
+Voluntown;us-ct-uncas;us-ct-voluntown;Town;;;CT;
+Andover;us-ct-ehhd;us-ct-andover;Town;;;CT;
+Canton;us-ct-fvhd;us-ct-canton;Town;;;CT;
+Ellington;us-ct-ncdhd;us-ct-ellington;Town;;;CT;
+Coventry;us-ct-ehhd;us-ct-coventry;Town;;;CT;
+Bloomfield;us-ct-whbhd;us-ct-bloomfield;Town;;;CT;
+Southington;us-ct-pshd;us-ct-southington;Town;;;CT;
+North Branford;us-ct-esdhd;us-ct-north-branford;Town;;;CT;
+Scotland;us-ct-ehhd;us-ct-scotland;Town;;;CT;
+Barkhamsted;us-ct-fvhd;us-ct-barkhamsted;Town;;;CT;
+Plainville;us-ct-pshd;us-ct-plainville;Town;;;CT;
+Middlefield;us-ct-pshd;us-ct-middlefield;Town;;;CT;
+Hartland;us-ct-fvhd;us-ct-hartland;Town;;;CT;
+Beacon Falls;us-ct-nvhd;us-ct-beacon-falls;Town;;;CT;
+Ashford;us-ct-ehhd;us-ct-ashford;Town;;;CT;
+Harwinton;us-ct-tahd;us-ct-harwinton;Town;;;CT;
+Woodstock;us-ct-nddh;us-ct-woodstock;Town;;;CT;
+Old Lyme;us-ct-llhd;us-ct-old-lyme;Town;;;CT;
+Deep River;us-ct-crahd;us-ct-deep-river;Town;;;CT;
+Lyme;us-ct-llhd;us-ct-lyme;Town;;;CT;
+Roxbury;us-ct-newtown;us-ct-roxbury;Town;;;CT;
+Eastford;us-ct-nddh;us-ct-eastford;Town;;;CT;
+Hebron;us-ct-chatham;us-ct-hebron;Town;;;CT;
+Franklin;us-ct-uncas;us-ct-franklin;Town;;;CT;
+Marlborough;us-ct-chatham;us-ct-marlborough;Town;;;CT;
+Branford;us-ct-esdhd;us-ct-branford;Town;;;CT;
+Winchester;us-ct-tahd;us-ct-winchester;Town;;;CT;
+Southbury;us-ct-hvhd;us-ct-southbury;Town;;;CT;
+Chester;us-ct-crahd;us-ct-chester;Town;;;CT;
+Berlin;us-ct-ccthd;us-ct-berlin;Town;;;CT;
+Washington;us-ct-hvhd;us-ct-washington;Town;;;CT;
+Bethany;us-ct-qvhd;us-ct-bethany;Town;;;CT;
+Salisbury;us-ct-tahd;us-ct-salisbury;Town;;;CT;
+East Haddam;us-ct-chatham;us-ct-east-haddam;Town;;;CT;
+Plymouth;us-ct-tahd;us-ct-plymouth;Town;;;CT;
+Columbia;us-ct-ehhd;us-ct-columbia;Town;;;CT;
+Hampton;us-ct-nddh;us-ct-hampton;Town;;;CT;
+Suffield;us-ct-ncdhd;us-ct-suffield;Town;;;CT;
+East Granby;us-ct-fvhd;us-ct-east-granby;Town;;;CT;
+Pomfret;us-ct-nddh;us-ct-pomfret;Town;;;CT;
+Kent;us-ct-tahd;us-ct-kent;Town;;;CT;
+Middlebury;us-ct-tahd;us-ct-middlebury;Town;;;CT;
+Sterling;us-ct-nddh;us-ct-sterling;Town;;;CT;
+Lebanon;us-ct-uncas;us-ct-lebanon;Town;;;CT;
+Simsbury;us-ct-fvhd;us-ct-simsbury;Town;;;CT;
+Windham;us-ct-ncdhd;us-ct-windham-town;Town;;;CT;
+Oxford;us-ct-hvhd;us-ct-oxford;Town;;;CT;
+All Connecticut;;us-ct-all;Summary;;;CT;
+Central Connecticut HD;us-ct;us-ct-ccthd;Group;TRUE;98854;CT;
+All Central Connecticut HD;;us-ct-ccthd-all;Summary;;;CT;
+All Chatham HD;;us-ct-chatham-all;Summary;;;CT;
+All Chesprocott HD;;us-ct-chesprocott-all;Summary;;;CT;
+Connecticut River Area HD;us-ct;us-ct-crahd;Group;TRUE;53608;CT;
+All Connecticut River Area HD;;us-ct-crahd-all;Summary;;;CT;
+All Eastern Highlands HD;;us-ct-ehhd-all;Summary;;;CT;
+All East Shore District HD;;us-ct-esdhd-all;Summary;;;CT;
+Farmington Valley HD;us-ct;us-ct-fvhd;Group;TRUE;109969;CT;
+All Farmington Valley HD;;us-ct-fvhd-all;Summary;;;CT;
+All Housatonic Valley HD;;us-ct-hvhd-all;Summary;;;CT;
+All Ledge Light HD;;us-ct-llhd-all;Summary;;;CT;
+All North Central District HD;;us-ct-ncdhd-all;Summary;;;CT;
+All Northeast District HD;;us-ct-nddh-all;Summary;;;CT;
+Newtown HD;us-ct;us-ct-newtown;Group;TRUE;31095;CT;
+All Newtown HD;;us-ct-newtown-all;Summary;;;CT;
+Naugatuck Valley HD;us-ct;us-ct-nvhd;Group;TRUE;126379;CT;
+All Naugatuck Valley HD;;us-ct-nvhd-all;Summary;;;CT;
+All South Central HD;;us-ct-pshd-all;Summary;;;CT;
+All Quinnipiack Valley HD;;us-ct-qvhd-all;Summary;;;CT;
+Torrington Area HD;us-ct;us-ct-tahd;Group;TRUE;133008;CT;
+All Torrington Area HD;;us-ct-tahd-all;Summary;;;CT;
+All Uncas HD;;us-ct-uncas-all;Summary;;;CT;
+All West Hartford-Bloomfield HD;;us-ct-whbhd-all;Summary;;;CT;
+All Aspetuck HD;;us-ct-wwhd-all;Summary;;;CT;

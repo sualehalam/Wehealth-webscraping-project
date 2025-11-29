@@ -1,0 +1,314 @@
+name;parent_id;community_id;category;pha;population_proper;state_id;pha_url
+DeWitt County;us-tx-phr-8;us-tx-dewitt;County;TRUE;20160;TX;
+Ellis County;us-tx-phr-2-3;us-tx-ellis;County;TRUE;184826;TX;
+Harrison County;us-tx-phr-4-5n;us-tx-harrison;County;TRUE;66553;TX;
+Kendall County;us-tx-phr-8;us-tx-kendall;County;TRUE;47431;TX;
+Kleberg County;us-tx-phr-11;us-tx-kleberg;County;TRUE;30680;TX;
+Lampasas County;us-tx-phr-7;us-tx-lampasas;County;TRUE;21428;TX;
+Live Oak County;us-tx-phr-11;us-tx-live-oak;County;TRUE;12207;TX;
+Parker County;us-tx-phr-2-3;us-tx-parker;County;TRUE;142878;TX;
+Uvalde County;us-tx-phr-8;us-tx-uvalde;County;TRUE;26741;TX;
+Wilson County;us-tx-phr-8;us-tx-wilson;County;TRUE;51070;TX;
+Addison;us-tx;us-tx-addison;City;TRUE;17026;TX;
+Coppell;us-tx;us-tx-coppell;City;TRUE;42513;TX;
+DeSoto;us-tx;us-tx-desoto;City;TRUE;55882;TX;
+Duncanville;us-tx;us-tx-duncanville;City;TRUE;40288;TX;
+Ennis;us-tx;us-tx-ennis;City;TRUE;20709;TX;
+Flower Mound;us-tx;us-tx-flower-mound;City;TRUE;76630;TX;
+Graham;us-tx;us-tx-graham;City;TRUE;8726;TX;
+Harlingen;us-tx;us-tx-harlingen;City;TRUE;71497;TX;
+Lake Dallas;us-tx;us-tx-lake-dallas;City;TRUE;7682;TX;
+Lockhart;us-tx;us-tx-lockhart;City;TRUE;14463;TX;
+Mesquite;us-tx;us-tx-mesquite;City;TRUE;149439;TX;
+Mineral Wells;us-tx;us-tx-mineral-wells;City;TRUE;15049;TX;
+North Richland Hills;us-tx;us-tx-north-richland-hills;City;TRUE;70114;TX;
+Plainview;us-tx;us-tx-plainview;City;TRUE;20113;TX;
+Port Arthur;us-tx;us-tx-port-arthur;City;TRUE;55897;TX;
+Rowlett;us-tx;us-tx-rowlett;City;TRUE;63291;TX;
+Waxahachie;us-tx;us-tx-waxahachie;City;TRUE;41801;TX;
+Weatherford;us-tx;us-tx-weatherford;City;TRUE;32168;TX;
+Regions 4 and 5 North - Tyler;us-tx;us-tx-phr-4-5n;Group;TRUE;1568130;TX;
+Region 7 - Temple;us-tx;us-tx-phr-7;Group;TRUE;3332871;TX;
+Andrews County;us-tx-phr-9-10;us-tx-andrews;County;TRUE;18705;TX;https://www.co.andrews.tx.us/205/Health-Department
+Angelina County;us-tx-phr-4-5n;us-tx-angelina;County;TRUE;86715;TX;http://www.acchd.us
+Austin County;us-tx-phr-6-5s;us-tx-austin;County;TRUE;30032;TX;http://www.austintexas.gov/health
+Bastrop County;us-tx-phr-7;us-tx-bastrop;County;TRUE;88723;TX;https://www.co.bastrop.tx.us/page/co.public_health
+Bell County;us-tx-phr-7;us-tx-bell;County;TRUE;362924;TX;http://bellcountyhealth.org
+Bowie County;us-tx-phr-4-5n;us-tx-bowie;County;TRUE;93245;TX;https://www.texarkanatexas.gov/391/Health
+Brazoria County;us-tx-phr-6-5s;us-tx-brazoria;County;TRUE;374264;TX;https://brazoriacountytx.gov/departments/health-department
+Brazos County;us-tx-phr-7;us-tx-brazos;County;TRUE;229211;TX;http://www.brazoshealth.org
+Brown County;us-tx-phr-2-3;us-tx-brown;County;TRUE;37864;TX;http://www.brownwoodtexas.gov/199/Health-Department/
+Burleson County;us-tx-phr-7;us-tx-burleson;County;TRUE;18443;TX;https://www.burlesontx.com/502/Environmental-Services
+Cameron County;us-tx-phr-11;us-tx-cameron;County;TRUE;423163;TX;http://www.co.cameron.tx.us/health
+Cherokee County;us-tx-phr-4-5n;us-tx-cherokee;County;TRUE;52646;TX;http://cctxphd.org
+Collin County;us-tx-phr-2-3;us-tx-collin;County;TRUE;1034730;TX;http://www.co.collin.tx.us
+Comal County;us-tx-phr-8;us-tx-comal;County;TRUE;156209;TX;http://www.co.comal.tx.us/Health.htm
+Anderson County;us-tx-phr-4-5n;us-tx-anderson;County;TRUE;57735;TX;
+Aransas County;us-tx-phr-11;us-tx-aransas;County;TRUE;23510;TX;
+Archer County;us-tx-phr-2-3;us-tx-archer;County;TRUE;8553;TX;
+Armstrong County;us-tx-phr-1;us-tx-armstrong;County;TRUE;1887;TX;
+Atascosa County;us-tx-phr-8;us-tx-atascosa;County;TRUE;51153;TX;
+Bailey County;us-tx-phr-1;us-tx-bailey;County;TRUE;7000;TX;
+Bandera County;us-tx-phr-8;us-tx-bandera;County;TRUE;23112;TX;
+Baylor County;us-tx-phr-2-3;us-tx-baylor;County;TRUE;3509;TX;
+Bee County;us-tx-phr-11;us-tx-bee;County;TRUE;32565;TX;
+Dallas County;us-tx-phr-2-3;us-tx-dallas;County;TRUE;2635516;TX;http://www.dallascounty.org/department/hhs/home.html
+Bexar County;us-tx-phr-8;us-tx-bexar;County;TRUE;2003554;TX;
+Blanco County;us-tx-phr-7;us-tx-blanco;County;TRUE;11931;TX;
+Borden County;us-tx-phr-1;us-tx-borden;County;TRUE;654;TX;
+Denton County;us-tx-phr-2-3;us-tx-denton;County;TRUE;887207;TX;https://www.dentoncounty.gov/health
+Bosque County;us-tx-phr-7;us-tx-bosque;County;TRUE;18685;TX;
+Brewster County;us-tx-phr-9-10;us-tx-brewster;County;TRUE;9203;TX;
+Briscoe County;us-tx-phr-1;us-tx-briscoe;County;TRUE;1546;TX;
+Brooks County;us-tx-phr-11;us-tx-brooks;County;TRUE;7093;TX;
+Burnet County;us-tx-phr-7;us-tx-burnet;County;TRUE;48155;TX;
+Caldwell County;us-tx-phr-7;us-tx-caldwell;County;TRUE;43664;TX;
+Ector County;us-tx-phr-9-10;us-tx-ector;County;TRUE;166223;TX;http://www.co.ector.tx.us/page/ector.Home
+Calhoun County;us-tx-phr-8;us-tx-calhoun;County;TRUE;21290;TX;
+Callahan County;us-tx-phr-2-3;us-tx-callahan;County;TRUE;13943;TX;
+Camp County;us-tx-phr-4-5n;us-tx-camp;County;TRUE;13094;TX;
+Carson County;us-tx-phr-1;us-tx-carson;County;TRUE;5926;TX;
+Cass County;us-tx-phr-4-5n;us-tx-cass;County;TRUE;30026;TX;
+Castro County;us-tx-phr-1;us-tx-castro;County;TRUE;7530;TX;
+Chambers County;us-tx-phr-6-5s;us-tx-chambers;County;TRUE;43837;TX;
+Childress County;us-tx-phr-1;us-tx-childress;County;TRUE;7306;TX;
+Clay County;us-tx-phr-2-3;us-tx-clay;County;TRUE;10471;TX;
+Cochran County;us-tx-phr-1;us-tx-cochran;County;TRUE;2853;TX;
+Fort Bend County;us-tx-phr-6-5s;us-tx-fort-bend;County;TRUE;811688;TX;https://www.fbchhs.org/
+Coke County;us-tx-phr-9-10;us-tx-coke;County;TRUE;3387;TX;
+Coleman County;us-tx-phr-2-3;us-tx-coleman;County;TRUE;8175;TX;
+Collingsworth County;us-tx-phr-1;us-tx-collingsworth;County;TRUE;2920;TX;
+Colorado County;us-tx-phr-6-5s;us-tx-colorado;County;TRUE;21493;TX;
+Galveston County;us-tx-phr-6-5s;us-tx-galveston;County;TRUE;342139;TX;http://www.gchd.org
+Comanche County;us-tx-phr-2-3;us-tx-comanche;County;TRUE;13635;TX;
+Gillespie County;us-tx-phr-8;us-tx-gillespie;County;TRUE;26988;TX;http://www.fbgtx.org
+Concho County;us-tx-phr-9-10;us-tx-concho;County;TRUE;2726;TX;
+Cooke County;us-tx-phr-2-3;us-tx-cooke;County;TRUE;41257;TX;
+Coryell County;us-tx-phr-7;us-tx-coryell;County;TRUE;75951;TX;
+Cottle County;us-tx-phr-2-3;us-tx-cottle;County;TRUE;1398;TX;
+Crane County;us-tx-phr-9-10;us-tx-crane;County;TRUE;4797;TX;
+Gregg County;us-tx-phr-4-5n;us-tx-gregg;County;TRUE;123945;TX;http://www.co.gregg.tx.us/health-welfare
+Crockett County;us-tx-phr-9-10;us-tx-crockett;County;TRUE;3464;TX;
+Crosby County;us-tx-phr-1;us-tx-crosby;County;TRUE;5737;TX;
+Culberson County;us-tx-phr-9-10;us-tx-culberson;County;TRUE;2171;TX;
+Dallam County;us-tx-phr-1;us-tx-dallam;County;TRUE;7287;TX;
+Dawson County;us-tx-phr-1;us-tx-dawson;County;TRUE;12728;TX;
+Deaf Smith County;us-tx-phr-1;us-tx-deaf-smith;County;TRUE;18546;TX;
+Delta County;us-tx-phr-4-5n;us-tx-delta;County;TRUE;5331;TX;
+Dickens County;us-tx-phr-1;us-tx-dickens;County;TRUE;2211;TX;
+Harris County;us-tx-phr-6-5s;us-tx-harris;County;TRUE;4713325;TX;http://publichealth.harriscountytx.gov/
+Dimmit County;us-tx-phr-8;us-tx-dimmit;County;TRUE;10124;TX;
+Donley County;us-tx-phr-1;us-tx-donley;County;TRUE;3278;TX;
+Duval County;us-tx-phr-11;us-tx-duval;County;TRUE;11157;TX;
+Hays County;us-tx-phr-7;us-tx-hays;County;TRUE;230191;TX;https://hayscountytx.com/departments/local-health-department/
+Eastland County;us-tx-phr-2-3;us-tx-eastland;County;TRUE;18360;TX;
+Edwards County;us-tx-phr-8;us-tx-edwards;County;TRUE;1932;TX;
+Hidalgo County;us-tx-phr-11;us-tx-hidalgo;County;TRUE;868707;TX;https://www.hidalgocounty.us/1032/Health-and-Human-Services
+El Paso County;us-tx-phr-9-10;us-tx-el-paso;County;TRUE;839238;TX;
+Erath County;us-tx-phr-2-3;us-tx-erath;County;TRUE;42698;TX;
+Hood County;us-tx-phr-2-3;us-tx-hood;County;TRUE;61643;TX;http://www.co.hood.tx.us/healthdepartment.htm
+Falls County;us-tx-phr-7;us-tx-falls;County;TRUE;17297;TX;
+Houston County;us-tx-phr-4-5n;us-tx-houston;County;TRUE;22968;TX;http://www.houstonhealth.org
+Fannin County;us-tx-phr-2-3;us-tx-fannin;County;TRUE;35514;TX;
+Fayette County;us-tx-phr-7;us-tx-fayette;County;TRUE;25346;TX;
+Hunt County;us-tx-phr-2-3;us-tx-hunt;County;TRUE;98594;TX;http://www.huntcounty.net
+Fisher County;us-tx-phr-2-3;us-tx-fisher;County;TRUE;3830;TX;
+Floyd County;us-tx-phr-1;us-tx-floyd;County;TRUE;5712;TX;
+Foard County;us-tx-phr-2-3;us-tx-foard;County;TRUE;1155;TX;
+Franklin County;us-tx-phr-4-5n;us-tx-franklin;County;TRUE;10725;TX;
+Freestone County;us-tx-phr-7;us-tx-freestone;County;TRUE;19717;TX;
+Frio County;us-tx-phr-8;us-tx-frio;County;TRUE;20306;TX;
+Jefferson County;us-tx-phr-6-5s;us-tx-jefferson;County;TRUE;251565;TX;https://www.co.jefferson.tx.us/PublicHealth.htm
+Gaines County;us-tx-phr-1;us-tx-gaines;County;TRUE;21492;TX;
+Garza County;us-tx-phr-1;us-tx-garza;County;TRUE;6229;TX;
+Glasscock County;us-tx-phr-9-10;us-tx-glasscock;County;TRUE;1409;TX;
+Goliad County;us-tx-phr-8;us-tx-goliad;County;TRUE;7658;TX;
+Gonzales County;us-tx-phr-8;us-tx-gonzales;County;TRUE;20837;TX;
+Kaufman County;us-tx-phr-2-3;us-tx-kaufman;County;TRUE;136154;TX;https://www.kaufmantx.org/2180/Public-Health
+Gray County;us-tx-phr-1;us-tx-gray;County;TRUE;21886;TX;
+Grayson County;us-tx-phr-2-3;us-tx-grayson;County;TRUE;136212;TX;
+Grimes County;us-tx-phr-7;us-tx-grimes;County;TRUE;28880;TX;
+Guadalupe County;us-tx-phr-8;us-tx-guadalupe;County;TRUE;166847;TX;
+Hale County;us-tx-phr-1;us-tx-hale;County;TRUE;33406;TX;
+Hall County;us-tx-phr-1;us-tx-hall;County;TRUE;2964;TX;
+Hamilton County;us-tx-phr-7;us-tx-hamilton;County;TRUE;8461;TX;
+Hansford County;us-tx-phr-1;us-tx-hansford;County;TRUE;5399;TX;
+Hardeman County;us-tx-phr-2-3;us-tx-hardeman;County;TRUE;3933;TX;
+Lamar County;us-tx-phr-4-5n;us-tx-lamar;County;TRUE;49859;TX;http://www.parislamarhealth.com
+Hardin County;us-tx-phr-6-5s;us-tx-hardin;County;TRUE;57602;TX;
+Hartley County;us-tx-phr-1;us-tx-hartley;County;TRUE;5576;TX;
+Haskell County;us-tx-phr-2-3;us-tx-haskell;County;TRUE;5658;TX;
+Hemphill County;us-tx-phr-1;us-tx-hemphill;County;TRUE;3819;TX;
+Henderson County;us-tx-phr-4-5n;us-tx-henderson;County;TRUE;82737;TX;
+Hill County;us-tx-phr-7;us-tx-hill;County;TRUE;36649;TX;
+Hockley County;us-tx-phr-1;us-tx-hockley;County;TRUE;23021;TX;
+Hopkins County;us-tx-phr-4-5n;us-tx-hopkins;County;TRUE;37084;TX;
+Howard County;us-tx-phr-9-10;us-tx-howard;County;TRUE;36664;TX;
+Hudspeth County;us-tx-phr-9-10;us-tx-hudspeth;County;TRUE;4886;TX;
+Hutchinson County;us-tx-phr-1;us-tx-hutchinson;County;TRUE;20938;TX;
+Irion County;us-tx-phr-9-10;us-tx-irion;County;TRUE;1536;TX;
+Jack County;us-tx-phr-2-3;us-tx-jack;County;TRUE;8935;TX;
+Jackson County;us-tx-phr-8;us-tx-jackson;County;TRUE;14760;TX;
+Jasper County;us-tx-phr-4-5n;us-tx-jasper;County;TRUE;35529;TX;
+McLennan County;us-tx-phr-6-5s;us-tx-mclennan;County;TRUE;256623;TX;http://www.waco-texas.com/cms-healthdepartment/
+Jeff Davis County;us-tx-phr-9-10;us-tx-jeff-davis;County;TRUE;2274;TX;
+Jim Hogg County;us-tx-phr-11;us-tx-jim-hogg;County;TRUE;5200;TX;
+Jim Wells County;us-tx-phr-11;us-tx-jim-wells;County;TRUE;40482;TX;
+Johnson County;us-tx-phr-2-3;us-tx-johnson;County;TRUE;175817;TX;
+Jones County;us-tx-phr-2-3;us-tx-jones;County;TRUE;20083;TX;
+Karnes County;us-tx-phr-8;us-tx-karnes;County;TRUE;15601;TX;
+Kenedy County;us-tx-phr-11;us-tx-kenedy;County;TRUE;404;TX;
+Medina County;us-tx-phr-8;us-tx-medina;County;TRUE;51584;TX;http://www.medinacountytexas.org/default.aspx?Medina_County/HealthUnit
+Kent County;us-tx-phr-2-3;us-tx-kent;County;TRUE;762;TX;
+Kerr County;us-tx-phr-8;us-tx-kerr;County;TRUE;52600;TX;
+Milam County;us-tx-phr-7;us-tx-milam;County;TRUE;24823;TX;https://www.milamcounty.net/page/milam.health
+Kimble County;us-tx-phr-9-10;us-tx-kimble;County;TRUE;4337;TX;
+King County;us-tx-phr-1;us-tx-king;County;TRUE;272;TX;
+Kinney County;us-tx-phr-8;us-tx-kinney;County;TRUE;3667;TX;
+Montgomery County;us-tx-phr-6-5s;us-tx-montgomery;County;TRUE;607391;TX;https://mcphd-tx.org/
+Knox County;us-tx-phr-2-3;us-tx-knox;County;TRUE;3664;TX;
+Lamb County;us-tx-phr-1;us-tx-lamb;County;TRUE;12893;TX;
+La Salle County;us-tx-phr-8;us-tx-la-salle;County;TRUE;7520;TX;
+Lavaca County;us-tx-phr-8;us-tx-lavaca;County;TRUE;20154;TX;
+Navarro County;us-tx-phr-2-3;us-tx-navarro;County;TRUE;50113;TX;https://navarrocountypublichealthdistr.godaddysites.com
+Newton County;us-tx-phr-4-5n;us-tx-newton;County;TRUE;13595;TX;https://www.jaspernewton.org/
+Nolan County;us-tx-phr-2-3;us-tx-nolan;County;TRUE;14714;TX;http://www.nolancountyhealth.com/
+Nueces County;us-tx-phr-11;us-tx-nueces;County;TRUE;362294;TX;http://www.cctexas.com/departments/health-district
+Lee County;us-tx-phr-7;us-tx-lee;County;TRUE;17239;TX;
+Leon County;us-tx-phr-7;us-tx-leon;County;TRUE;17404;TX;
+Orange County;us-tx-phr-6-5s;us-tx-orange;County;TRUE;83396;TX;https://www.co.orange.tx.us/public-health
+Liberty County;us-tx-phr-6-5s;us-tx-liberty;County;TRUE;88219;TX;
+Limestone County;us-tx-phr-7;us-tx-limestone;County;TRUE;23437;TX;
+Lipscomb County;us-tx-phr-1;us-tx-lipscomb;County;TRUE;3233;TX;
+Llano County;us-tx-phr-7;us-tx-llano;County;TRUE;21795;TX;
+Loving County;us-tx-phr-9-10;us-tx-loving;County;TRUE;169;TX;
+Lubbock County;us-tx-phr-1;us-tx-lubbock;County;TRUE;310569;TX;
+Lynn County;us-tx-phr-1;us-tx-lynn;County;TRUE;5951;TX;
+McCulloch County;us-tx-phr-9-10;us-tx-mcculloch;County;TRUE;7984;TX;
+McMullen County;us-tx-phr-8;us-tx-mcmullen;County;TRUE;743;TX;
+Madison County;us-tx-phr-9-10;us-tx-madison;County;TRUE;14284;TX;
+Marion County;us-tx-phr-7;us-tx-marion;County;TRUE;9854;TX;
+Martin County;us-tx-phr-11;us-tx-martin;County;TRUE;5771;TX;
+Mason County;us-tx-phr-7;us-tx-mason;County;TRUE;4274;TX;
+Matagorda County;us-tx-phr-4-5n;us-tx-matagorda;County;TRUE;36643;TX;
+Maverick County;us-tx-phr-9-10;us-tx-maverick;County;TRUE;58722;TX;
+Menard County;us-tx-phr-9-10;us-tx-menard;County;TRUE;2138;TX;
+Midland County;us-tx-phr-9-10;us-tx-midland;County;TRUE;176832;TX;
+Mills County;us-tx-phr-7;us-tx-mills;County;TRUE;4873;TX;
+Mitchell County;us-tx-phr-2-3;us-tx-mitchell;County;TRUE;8545;TX;
+Montague County;us-tx-phr-2-3;us-tx-montague;County;TRUE;19818;TX;
+Moore County;us-tx-phr-1;us-tx-moore;County;TRUE;20940;TX;
+Morris County;us-tx-phr-4-5n;us-tx-morris;County;TRUE;12388;TX;
+Motley County;us-tx-phr-1;us-tx-motley;County;TRUE;1200;TX;
+San Patricio County;us-tx-phr-11;us-tx-san-patricio;County;TRUE;66730;TX;http://www.spcdph.org
+Nacogdoches County;us-tx-phr-4-5n;us-tx-nacogdoches;County;TRUE;65204;TX;
+Ochiltree County;us-tx-phr-1;us-tx-ochiltree;County;TRUE;9836;TX;
+Scurry County;us-tx-phr-2-3;us-tx-scurry;County;TRUE;16703;TX;http://www.co.scurry.tx.us/default.aspx?Scurry_County/HealthUnit
+Oldham County;us-tx-phr-1;us-tx-oldham;County;TRUE;2112;TX;
+Palo Pinto County;us-tx-phr-2-3;us-tx-palo-pinto;County;TRUE;29189;TX;
+Panola County;us-tx-phr-4-5n;us-tx-panola;County;TRUE;23194;TX;
+Parmer County;us-tx-phr-1;us-tx-parmer;County;TRUE;9605;TX;
+Pecos County;us-tx-phr-9-10;us-tx-pecos;County;TRUE;15823;TX;
+Polk County;us-tx-phr-4-5n;us-tx-polk;County;TRUE;51353;TX;
+Potter County;us-tx-phr-1;us-tx-potter;County;TRUE;117415;TX;
+Presidio County;us-tx-phr-9-10;us-tx-presidio;County;TRUE;6704;TX;
+Rains County;us-tx-phr-4-5n;us-tx-rains;County;TRUE;12514;TX;
+Randall County;us-tx-phr-1;us-tx-randall;County;TRUE;137713;TX;
+Reagan County;us-tx-phr-9-10;us-tx-reagan;County;TRUE;3849;TX;
+Tarrant County;us-tx-phr-2-3;us-tx-tarrant;County;TRUE;2102515;TX;https://www.tarrantcounty.com/en/public-health.html
+Taylor County;us-tx-phr-2-3;us-tx-taylor;County;TRUE;138034;TX;http://www.abilenetx.gov/health
+Real County;us-tx-phr-8;us-tx-real;County;TRUE;3452;TX;
+Red River County;us-tx-phr-4-5n;us-tx-red-river;County;TRUE;12023;TX;
+Reeves County;us-tx-phr-9-10;us-tx-reeves;County;TRUE;15976;TX;
+Refugio County;us-tx-phr-11;us-tx-refugio;County;TRUE;6948;TX;
+Tom Green County;us-tx-phr-9-10;us-tx-tom-green;County;TRUE;119200;TX;http://www.sanangelotexas.org
+Roberts County;us-tx-phr-1;us-tx-roberts;County;TRUE;854;TX;
+Robertson County;us-tx-phr-7;us-tx-robertson;County;TRUE;17074;TX;
+Rockwall County;us-tx-phr-2-3;us-tx-rockwall;County;TRUE;104915;TX;
+Runnels County;us-tx-phr-2-3;us-tx-runnels;County;TRUE;10264;TX;
+Rusk County;us-tx-phr-4-5n;us-tx-rusk;County;TRUE;54406;TX;
+Sabine County;us-tx-phr-4-5n;us-tx-sabine;County;TRUE;10542;TX;
+San Augustine County;us-tx-phr-4-5n;us-tx-san-augustine;County;TRUE;8237;TX;
+San Jacinto County;us-tx-phr-4-5n;us-tx-san-jacinto;County;TRUE;28859;TX;
+Victoria County;us-tx-phr-8;us-tx-victoria;County;TRUE;92084;TX;https://www.vcphd.org/
+San Saba County;us-tx-phr-7;us-tx-san-saba;County;TRUE;6055;TX;
+Schleicher County;us-tx-phr-9-10;us-tx-schleicher;County;TRUE;2793;TX;
+Shackelford County;us-tx-phr-2-3;us-tx-shackelford;County;TRUE;3265;TX;
+Shelby County;us-tx-phr-4-5n;us-tx-shelby;County;TRUE;25274;TX;
+Sherman County;us-tx-phr-1;us-tx-sherman;County;TRUE;3022;TX;
+Smith County;us-tx-phr-4-5n;us-tx-smith;County;TRUE;232751;TX;
+Somervell County;us-tx-phr-2-3;us-tx-somervell;County;TRUE;9128;TX;
+Wichita County;us-tx-phr-2-3;us-tx-wichita;County;TRUE;132230;TX;http://www.wichitafallstx.gov/55/Health-District
+Starr County;us-tx-phr-11;us-tx-starr;County;TRUE;64633;TX;
+Stephens County;us-tx-phr-2-3;us-tx-stephens;County;TRUE;9366;TX;
+Williamson County;us-tx-phr-7;us-tx-williamson;County;TRUE;590551;TX;http://www.wcchd.org
+Sterling County;us-tx-phr-9-10;us-tx-sterling;County;TRUE;1291;TX;
+Stonewall County;us-tx-phr-2-3;us-tx-stonewall;County;TRUE;1350;TX;
+Sutton County;us-tx-phr-9-10;us-tx-sutton;County;TRUE;3776;TX;
+Swisher County;us-tx-phr-1;us-tx-swisher;County;TRUE;7397;TX;
+Terrell County;us-tx-phr-9-10;us-tx-terrell;County;TRUE;776;TX;
+Terry County;us-tx-phr-1;us-tx-terry;County;TRUE;12337;TX;
+Throckmorton County;us-tx-phr-2-3;us-tx-throckmorton;County;TRUE;1501;TX;
+Titus County;us-tx-phr-4-5n;us-tx-titus;County;TRUE;32750;TX;
+Travis County;us-tx-phr-7;us-tx-travis;County;TRUE;1273954;TX;
+Amarillo;us-tx;us-tx-amarillo;City;TRUE;200360;TX;http://www.amarillopublichealth.com
+Arlington;us-tx;us-tx-arlington;City;TRUE;393469;TX;https://www.arlingtontx.gov/city_hall/departments/planning_development_services/health_services
+Baytown;us-tx;us-tx-baytown;City;TRUE;84449;TX;https://www.baytown.org
+Beaumont;us-tx;us-tx-beaumont;City;TRUE;114573;TX;https://beaumonttexas.gov/
+Trinity County;us-tx-phr-4-5n;us-tx-trinity;County;TRUE;14651;TX;
+Tyler County;us-tx-phr-4-5n;us-tx-tyler;County;TRUE;21672;TX;
+Upshur County;us-tx-phr-4-5n;us-tx-upshur;County;TRUE;41753;TX;
+Upton County;us-tx-phr-9-10;us-tx-upton;County;TRUE;3657;TX;
+Val Verde County;us-tx-phr-8;us-tx-val-verde;County;TRUE;49025;TX;
+El Paso;us-tx;us-tx-el-paso-city;City;TRUE;677181;TX;http://www.elpasotexas.gov/public-health
+Van Zandt County;us-tx-phr-4-5n;us-tx-van-zandt;County;TRUE;56590;TX;
+Farmers Branch;us-tx;us-tx-farmers-branch;City;TRUE;35985;TX;https://www.farmersbranchtx.gov/570/Public-Health
+Walker County;us-tx-phr-6-5s;us-tx-walker;County;TRUE;72971;TX;
+Frisco;us-tx;us-tx-frisco;City;TRUE;202075;TX;http://www.friscotexas.gov
+Garland;us-tx;us-tx-garland;City;TRUE;244026;TX;http://www.ci.garland.tx.us/gov/hk/health/default.asp
+Waller County;us-tx-phr-6-5s;us-tx-waller;County;TRUE;55246;TX;
+Ward County;us-tx-phr-9-10;us-tx-ward;County;TRUE;11998;TX;
+Irving;us-tx;us-tx-irving;City;TRUE;254962;TX;http://www.ci.irving.tx.us
+Washington County;us-tx-phr-7;us-tx-washington;County;TRUE;35882;TX;
+Laredo;us-tx;us-tx-laredo;City;TRUE;255293;TX;https://www.cityoflaredo.com/departments/health-department
+Webb County;us-tx-phr-11;us-tx-webb;County;TRUE;276652;TX;
+Lubbock;us-tx;us-tx-lubbock-city;City;TRUE;258190;TX;https://ci.lubbock.tx.us/departments/health-department/health-department
+Luling;us-tx;us-tx-luling;City;TRUE;5455;TX;https://www.cityofluling.net/151/Code-Enforcement
+Wharton County;us-tx-phr-6-5s;us-tx-wharton;County;TRUE;41556;TX;
+Wheeler County;us-tx-phr-1;us-tx-wheeler;County;TRUE;5056;TX;
+Wilbarger County;us-tx-phr-2-3;us-tx-wilbarger;County;TRUE;12769;TX;
+Willacy County;us-tx-phr-11;us-tx-willacy;County;TRUE;21358;TX;
+Pasadena;us-tx;us-tx-pasadena;City;TRUE;150620;TX;http://www.ci.pasadena.tx.us
+Pharr;us-tx;us-tx-pharr;City;TRUE;79434;TX;https://pharr-tx.gov/?dlm_download_category=health-department
+Winkler County;us-tx-phr-9-10;us-tx-winkler;County;TRUE;8010;TX;
+Wise County;us-tx-phr-2-3;us-tx-wise;County;TRUE;69984;TX;
+Wood County;us-tx-phr-4-5n;us-tx-wood;County;TRUE;45539;TX;
+Richardson;us-tx;us-tx-richardson;City;TRUE;118063;TX;https://www.cor.net/departments/health-department
+Yoakum County;us-tx-phr-1;us-tx-yoakum;County;TRUE;8713;TX;
+San Antonio;us-tx;us-tx-san-antonio;City;TRUE;1445662;TX;http://www.sanantonio.gov/health
+South Padre Island;us-tx;us-tx-south-padre-island;City;TRUE;2386;TX;http://www.myspi.org
+The Colony;us-tx;us-tx-the-colony;City;TRUE;44323;TX;http://www.ci.the-colony.tx.us/health.html
+Young County;us-tx-phr-2-3;us-tx-young;County;TRUE;18010;TX;
+Zapata County;us-tx-phr-11;us-tx-zapata;County;TRUE;14179;TX;
+Texas;us;us-tx;State;TRUE;28995881;TX;http://www.healthyeasttx.org
+Zavala County;us-tx-phr-8;us-tx-zavala;County;TRUE;11840;TX;
+Public Health Region 1;us-tx;us-tx-phr-1;Group;TRUE;906969;TX;https://www.dshs.texas.gov/region1/default.shtm
+Brownsville;us-tx;us-tx-brownsville;City;TRUE;186999;TX;
+Carrollton;us-tx;us-tx-carrollton;City;TRUE;132284;TX;
+McAllen;us-tx;us-tx-mcallen;City;TRUE;142722;TX;
+Plano;us-tx;us-tx-plano;City;TRUE;284948;TX;
+All Texas;;us-tx-all;Summary;;;TX;
+All Public Health Region 1;;us-tx-phr-1-all;Summary;;;TX;
+Public Health Region 11;us-tx;us-tx-phr-11;Group;TRUE;2273733;TX;
+Regions 6 and 5 - Houston;us-tx;us-tx-phr-6-5s;Group;TRUE;7851347;TX;http://www.dshs.state.tx.us/region6-5/default.shtm
+All Public Health Region 11;;us-tx-phr-11-all;Summary;;;TX;
+Regions 2 and 3 - Arlington;us-tx;us-tx-phr-2-3;Group;TRUE;8529387;TX;
+All Regions 2 and 3 - Arlington;;us-tx-phr-2-3-all;Summary;;;TX;
+All Regions 4 and 5 North - Tyler;;us-tx-phr-4-5n-all;Summary;;;TX;
+All Regions 6 and 5 - Houston;;us-tx-phr-6-5s-all;Summary;;;TX;
+All Region 7 - Temple;;us-tx-phr-7-all;Summary;;;TX;
+Region 8 - San Antonio;us-tx;us-tx-phr-8;Group;TRUE;2978442;TX;
+All Region 8 - San Antonio;;us-tx-phr-8-all;Summary;;;TX;
+Regions 9 and 10 - El Paso;us-tx;us-tx-phr-9-10;Group;TRUE;1555002;TX;
+All Regions 9 and 10 - El Paso;;us-tx-phr-9-10-all;Summary;;;TX;
+All South Plains Public HD;;us-tx-south-plains-all;Summary;;;TX;

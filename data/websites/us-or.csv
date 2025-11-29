@@ -1,0 +1,41 @@
+name;parent_id;community_id;category;pha;population_proper;state_id;pha_url
+Wallowa County;us-or;us-or-wallowa;County;TRUE;7208;OR;
+Clackamas County;us-or;us-or-clackamas;County;TRUE;418187;OR;https://www.clackamas.us/publichealth
+Clatsop County;us-or;us-or-clatsop;County;TRUE;40224;OR;http://www.co.clatsop.or.us/publichealth
+Columbia County;us-or;us-or-columbia;County;TRUE;52354;OR;https://www.columbiacountyor.gov/departments/PublicHealth
+Coos County;us-or;us-or-coos;County;TRUE;64487;OR;https://cooshealthandwellness.org
+Crook County;us-or;us-or-crook;County;TRUE;24404;OR;http://co.crook.or.us/health
+Deschutes County;us-or;us-or-deschutes;County;TRUE;197692;OR;http://www.deschutes.org/health
+Douglas County;us-or;us-or-douglas;County;TRUE;110980;OR;https://douglaspublichealthnetwork.org/
+Gilliam County;us-or;us-or-gilliam;County;TRUE;1912;OR;https://gilliamcountypublichealth.org/
+Grant County;us-or;us-or-grant;County;TRUE;7199;OR;https://grantcountyoregon.net/242/Health-Department
+Harney County;us-or;us-or-harney;County;TRUE;7393;OR;https://harneycountyor.gov/health-department/
+Hood River County;us-or;us-or-hood-river;County;TRUE;23382;OR;https://www.co.hood-river.or.us/health
+Jackson County;us-or;us-or-jackson;County;TRUE;220944;OR;https://www.jacksoncountyor.gov/departments/health___human_services/index.php
+Josephine County;us-or;us-or-josephine;County;TRUE;87487;OR;https://www.co.josephine.or.us/SectionIndex.asp?SectionID=105
+Klamath County;us-or;us-or-klamath;County;TRUE;68238;OR;http://www.klamathcounty.org/378/Public-Health
+Lake County;us-or;us-or-lake;County;TRUE;7869;OR;http://www.lakecountyor.org/government/public_health.php
+Lane County;us-or;us-or-lane;County;TRUE;382067;OR;http://www.lanecounty.org/publichealth
+Lincoln County;us-or;us-or-lincoln;County;TRUE;49962;OR;https://www.co.lincoln.or.us/hhs
+Linn County;us-or;us-or-linn;County;TRUE;129749;OR;https://www.linncountyhealth.org
+Malheur County;us-or;us-or-malheur;County;TRUE;30571;OR;https://malheurhealth.org
+Marion County;us-or;us-or-marion;County;TRUE;347818;OR;https://www.co.marion.or.us/HLT
+Morrow County;us-or;us-or-morrow;County;TRUE;11603;OR;https://www.co.morrow.or.us/publichealth
+Multnomah County;us-or;us-or-multnomah;County;TRUE;812855;OR;https://multco.us/health
+Tillamook County;us-or;us-or-tillamook;County;TRUE;27036;OR;https://www.tillamookcounty.gov/administration/page/tillamook-county-health-department-main-clinic
+Umatilla County;us-or;us-or-umatilla;County;TRUE;77950;OR;http://www.co.umatilla.or.us/health/
+Washington County;us-or;us-or-washington;County;TRUE;601592;OR;https://www.co.washington.or.us/HHS/
+Wheeler County;us-or;us-or-wheeler;County;TRUE;1332;OR;https://www.wheelercountyoregon.com/health-care
+Yamhill County;us-or;us-or-yamhill;County;TRUE;107100;OR;http://www.co.yamhill.or.us/ph/index.asp
+North Central Public HD;us-or;us-or-ncphd;Group;TRUE;28462;OR;http://www.ncphd.org
+Baker County;us-or;us-or-baker;County;TRUE;16124;OR;
+Benton County;us-or;us-or-benton;County;TRUE;93053;OR;
+Curry County;us-or;us-or-curry;County;TRUE;22925;OR;
+Jefferson County;us-or;us-or-jefferson;County;TRUE;24658;OR;
+Polk County;us-or;us-or-polk;County;TRUE;86085;OR;
+Sherman County;us-or-ncphd;us-or-sherman;County;TRUE;1780;OR;
+Union County;us-or;us-or-union;County;TRUE;26835;OR;
+Wasco County;us-or-ncphd;us-or-wasco;County;TRUE;26682;OR;
+Oregon;us;us-or;State;TRUE;4217737;OR;
+All Oregon;;us-or-all;Summary;;;OR;
+All North Central Public HD;;us-or-ncphd-all;Summary;;;OR;

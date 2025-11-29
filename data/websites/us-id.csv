@@ -1,0 +1,61 @@
+name;parent_id;community_id;category;pha;population_proper;state_id;pha_url
+Central District Health (Region 4);us-id;us-id-cdh;Group;TRUE;528321;ID;http://www.cdh.idaho.gov
+Eastern Idaho Public HD (Region 7);us-id;us-id-eiph;Group;TRUE;227268;ID;http://www.EIPH.Idaho.gov
+North Central District;us-id;us-id-ncd;Group;TRUE;109777;ID;http://www.idahopublichealth.com
+South Central Public HD (PHD 5);us-id;us-id-phd5;Group;TRUE;201031;ID;https://phd5.idaho.gov/
+Southeastern Idaho Public Health;us-id;us-id-sdhd;Group;TRUE;176584;ID;https://www.siphidaho.org/
+Southwest District HD (Region 3);us-id;us-id-swdh;Group;TRUE;298223;ID;http://www.swdh.org
+Ada County;us-id-cdh;us-id-ada;County;TRUE;481587;ID;
+Adams County;us-id-swdh;us-id-adams;County;TRUE;4294;ID;
+Bannock County;us-id-sdhd;us-id-bannock;County;TRUE;87808;ID;
+Bear Lake County;us-id-sdhd;us-id-bear-lake;County;TRUE;6125;ID;
+Benewah County;us-id-panhandle;us-id-benewah;County;TRUE;9298;ID;
+Bingham County;us-id-sdhd;us-id-bingham;County;TRUE;46811;ID;
+Blaine County;us-id-phd5;us-id-blaine;County;TRUE;23021;ID;
+Boise County;us-id-cdh;us-id-boise;County;TRUE;7831;ID;
+Bonner County;us-id-panhandle;us-id-bonner;County;TRUE;45739;ID;
+Bonneville County;us-id-eiph;us-id-bonneville;County;TRUE;119062;ID;
+Boundary County;us-id-panhandle;us-id-boundary;County;TRUE;12245;ID;
+Butte County;us-id-sdhd;us-id-butte;County;TRUE;2597;ID;
+Camas County;us-id-phd5;us-id-camas;County;TRUE;1106;ID;
+Canyon County;us-id-swdh;us-id-canyon;County;TRUE;229849;ID;
+Caribou County;us-id-sdhd;us-id-caribou;County;TRUE;7155;ID;
+Cassia County;us-id-phd5;us-id-cassia;County;TRUE;24030;ID;
+Clark County;us-id-eiph;us-id-clark;County;TRUE;845;ID;
+Clearwater County;us-id-ncd;us-id-clearwater;County;TRUE;8756;ID;
+Custer County;us-id-eiph;us-id-custer;County;TRUE;4315;ID;
+Elmore County;us-id-cdh;us-id-elmore;County;TRUE;27511;ID;
+Franklin County;us-id-sdhd;us-id-franklin;County;TRUE;13876;ID;
+Fremont County;us-id-eiph;us-id-fremont;County;TRUE;13099;ID;
+Gem County;us-id-swdh;us-id-gem;County;TRUE;18112;ID;
+Gooding County;us-id-phd5;us-id-gooding;County;TRUE;15179;ID;
+Idaho County;us-id-ncd;us-id-idaho;County;TRUE;16667;ID;
+Jefferson County;us-id-eiph;us-id-jefferson;County;TRUE;29871;ID;
+Jerome County;us-id-phd5;us-id-jerome;County;TRUE;24412;ID;
+Kootenai County;us-id-panhandle;us-id-kootenai;County;TRUE;165697;ID;
+Latah County;us-id-ncd;us-id-latah;County;TRUE;40108;ID;
+Lemhi County;us-id-eiph;us-id-lemhi;County;TRUE;8027;ID;
+Lewis County;us-id-ncd;us-id-lewis;County;TRUE;3838;ID;
+Lincoln County;us-id-phd5;us-id-lincoln;County;TRUE;5366;ID;
+Madison County;us-id-eiph;us-id-madison;County;TRUE;39907;ID;
+Minidoka County;us-id-phd5;us-id-minidoka;County;TRUE;21039;ID;
+Nez Perce County;us-id-ncd;us-id-nez-perce;County;TRUE;40408;ID;
+Oneida County;us-id-sdhd;us-id-oneida;County;TRUE;4531;ID;
+Owyhee County;us-id-swdh;us-id-owyhee;County;TRUE;11823;ID;
+Payette County;us-id-swdh;us-id-payette;County;TRUE;23951;ID;
+Power County;us-id-sdhd;us-id-power;County;TRUE;7681;ID;
+Shoshone County;us-id-panhandle;us-id-shoshone;County;TRUE;12882;ID;
+Teton County;us-id-eiph;us-id-teton;County;TRUE;12142;ID;
+Twin Falls County;us-id-phd5;us-id-twin-falls;County;TRUE;86878;ID;
+Valley County;us-id-cdh;us-id-valley;County;TRUE;11392;ID;
+Washington County;us-id-swdh;us-id-washington;County;TRUE;10194;ID;
+Idaho;us;us-id;State;TRUE;1787065;ID;
+All Idaho;;us-id-all;Summary;;;ID;
+All Central District Health (Region 4);;us-id-cdh-all;Summary;;;ID;
+All Eastern Idaho Public HD (Region 7);;us-id-eiph-all;Summary;;;ID;
+All North Central District;;us-id-ncd-all;Summary;;;ID;
+Panhandle HD (Region 1);us-id;us-id-panhandle;Group;TRUE;245861;ID;
+All Panhandle HD (Region 1);;us-id-panhandle-all;Summary;;;ID;
+All South Central Public HD (PHD 5);;us-id-phd5-all;Summary;;;ID;
+All Southeastern Idaho Public Health;;us-id-sdhd-all;Summary;;;ID;
+All Southwest District HD (Region 3);;us-id-swdh-all;Summary;;;ID;

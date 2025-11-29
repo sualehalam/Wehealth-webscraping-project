@@ -1,0 +1,31 @@
+name;parent_id;community_id;category;pha;population_proper;state_id;pha_url
+Aroostook County;us-me;us-me-aroostook;County;TRUE;67055;ME;
+Central District Public Health/MECDC;us-me;us-me-central;Group;TRUE;172786;ME;
+Downeast District Public Health/MECDC;us-me;us-me-downeast;Group;TRUE;86366;ME;
+Midcoast District Public Health/MECDC;us-me;us-me-midcoast;Group;TRUE;149977;ME;
+Western District Public Health/MECDC;us-me;us-me-western;Group;TRUE;196451;ME;
+Bangor;us-me;us-me-bangor;City;TRUE;31705;ME;https://www.bangorpublichealth.org/
+Portland;us-me;us-me-portland;City;TRUE;68280;ME;http://www.portlandmaine.gov/224/Public-Health
+Penquis District Public Health/MECDC;us-me;us-me-penquis;Group;TRUE;168933;ME;https://www.maine.gov/dhhs/mecdc/public-health-systems/lphd/district6/index.shtml
+Androscoggin County;us-me-western;us-me-androscoggin;County;TRUE;108277;ME;
+Cumberland County;us-me;us-me-cumberland;County;TRUE;295003;ME;
+Franklin County;us-me-western;us-me-franklin;County;TRUE;30199;ME;
+Hancock County;us-me-downeast;us-me-hancock;County;TRUE;54987;ME;
+Kennebec County;us-me-central;us-me-kennebec;County;TRUE;122302;ME;
+Knox County;us-me-midcoast;us-me-knox;County;TRUE;39772;ME;
+Lincoln County;us-me-midcoast;us-me-lincoln;County;TRUE;34634;ME;
+Oxford County;us-me-western;us-me-oxford;County;TRUE;57975;ME;
+Penobscot County;us-me-penquis;us-me-penobscot;County;TRUE;152148;ME;
+Piscataquis County;us-me-penquis;us-me-piscataquis;County;TRUE;16785;ME;
+Sagadahoc County;us-me-midcoast;us-me-sagadahoc;County;TRUE;35856;ME;
+Somerset County;us-me-central;us-me-somerset;County;TRUE;50484;ME;
+Waldo County;us-me-midcoast;us-me-waldo;County;TRUE;39715;ME;
+Washington County;us-me-downeast;us-me-washington;County;TRUE;31379;ME;
+York County;us-me;us-me-york;County;TRUE;207641;ME;
+Maine;us;us-me;State;TRUE;1344212;ME;
+All Maine;;us-me-all;Summary;;;ME;
+All Central District Public Health/MECDC;;us-me-central-all;Summary;;;ME;
+All Downeast District Public Health/MECDC;;us-me-downeast-all;Summary;;;ME;
+All Midcoast District Public Health/MECDC;;us-me-midcoast-all;Summary;;;ME;
+All Penquis District Public Health/MECDC;;us-me-penquis-all;Summary;;;ME;
+All Western District Public Health/MECDC;;us-me-western-all;Summary;;;ME;

@@ -1,0 +1,8 @@
+name;parent_id;community_id;category;pha;population_proper;state_id;pha_url
+Bristol County;us-ri;us-ri-bristol;County;TRUE;48479;RI;
+Kent County;us-ri;us-ri-kent;County;TRUE;164292;RI;
+Newport County;us-ri;us-ri-newport;County;TRUE;82082;RI;
+Providence County;us-ri;us-ri-providence;County;TRUE;638931;RI;
+Washington County;us-ri;us-ri-washington;County;TRUE;125577;RI;
+Rhode Island;us;us-ri;State;TRUE;1059361;RI;
+All Rhode Island;;us-ri-all;Summary;;;RI;

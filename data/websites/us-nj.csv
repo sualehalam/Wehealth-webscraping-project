@@ -1,0 +1,141 @@
+name;parent_id;community_id;category;pha;population_proper;state_id;pha_url
+Little Falls;us-nj;us-nj-little-falls;Township;TRUE;14229;NJ;
+Secaucus;us-nj;us-nj-secaucus;Town;TRUE;21470;NJ;
+Palisades Park;us-nj;us-nj-palisades-park;Borough;TRUE;20231;NJ;https://mypalisadespark.com/health-department/
+Paramus;us-nj;us-nj-paramus;Borough;TRUE;26582;NJ;http://www.paramusborough.org
+Elmwood Park;us-nj;us-nj-elmwood-park;Borough;TRUE;21261;NJ;https://elmwoodparknj.us/health-department
+Fort Lee;us-nj;us-nj-fort-lee;Borough;TRUE;39799;NJ;https://www.fortleenj.org/
+Princeton;us-nj;us-nj-princeton;Borough;TRUE;30450;NJ;https://www.princetonnj.gov/270/Health-Department
+Lincoln Park;us-nj;us-nj-lincoln-park;Borough;TRUE;10884;NJ;http://www.lincolnpark.org
+Ringwood;us-nj;us-nj-ringwood;Borough;TRUE;11692;NJ;http://www.ringwoodnj.net
+Passaic County;us-nj;us-nj-passaic;County;TRUE;501826;NJ;http://www.passaiccountynj.org
+Somerset County;us-nj;us-nj-somerset;County;TRUE;328934;NJ;http://www.co.somerset.nj.us/government/public-health-safety/health-department
+Hopatcong;us-nj;us-nj-hopatcong;Borough;TRUE;14411;NJ;https://www.hopatcong.org/government/boards___commissions/boards/board_of_health.php
+Roselle;us-nj;us-nj-roselle;Borough;TRUE;22500;NJ;http://www.boroughofroselle.com
+Union County;us-nj;us-nj-union;County;TRUE;556341;NJ;http://www.uniontownship.com
+Hillsborough;us-nj;us-nj-hillsborough;Township;TRUE;43007;NJ;http://www.hillsborough-nj.org/
+Hopewell;us-nj;us-nj-hopewell;Township;TRUE;4387;NJ;https://www.hopewelltwp.org/162/Health
+Washington;us-nj-north-west-bergen;us-nj-washington;Township;TRUE;562;NJ;https://www.wtmorris.org/index.php/departments/health
+Bergen County;us-nj;us-nj-bergen;County;TRUE;932202;NJ;https://www.co.bergen.nj.us/departments-and-services/about-health-services
+Mercer County;us-nj;us-nj-mercer;County;TRUE;367430;NJ;http://www.mercercounty.org/departments/human-services/division-of-public-health
+Morris County;us-nj;us-nj-morris;County;TRUE;491845;NJ;https://www.morriscountynj.gov/Residents/Health
+Irvington;us-nj;us-nj-irvington;Township;TRUE;60268;NJ;https://irvingtonnj.gov/health-and-senior-services/
+South Orange Village;us-nj;us-nj-south-orange-village;Township;TRUE;18249;NJ;http://www.southorange.org/health.asp
+Long Beach;us-nj;us-nj-long-beach;Township;TRUE;3135;NJ;http://www.lbihealth.com
+East Windsor;us-nj;us-nj-east-windsor;Township;TRUE;29784;NJ;https://www.east-windsor.nj.us/health-department
+West Windsor;us-nj;us-nj-west-windsor;Township;TRUE;29445;NJ;https://www.westwindsornj.org/departments/health-division
+Lawrence;us-nj;us-nj-lawrence;Township;TRUE;32636;NJ;https://www.lawrencetwp.com/directory/health
+Hamilton;us-nj;us-nj-hamilton;Township;TRUE;91819;NJ;https://www.hamiltonnj.com/health
+Ewing;us-nj;us-nj-ewing;Township;TRUE;36140;NJ;https://ewingnj.org/departments/health
+South Brunswick;us-nj;us-nj-south-brunswick;Township;TRUE;46719;NJ;http://www.sbtnj.net
+Edison;us-nj;us-nj-edison;Township;TRUE;107018;NJ;https://www.edisonnj.org/departments/health_department/index.php
+Montgomery;us-nj;us-nj-montgomery;Township;TRUE;23558;NJ;https://health.montgomery.nj.us/
+Bernards;us-nj;us-nj-bernards;Township;TRUE;27768;NJ;http://www.bernards.org/
+Branchburg;us-nj;us-nj-branchburg;Township;TRUE;14882;NJ;http://www.branchburg.nj.us/departments/health_department/index.php
+Hanover;us-nj;us-nj-hanover;Township;TRUE;14602;NJ;http://www.easthanovertownship.com
+Mount Olive;us-nj;us-nj-mount-olive;Township;TRUE;28876;NJ;http://www.mountolivetownship.com
+Randolph;us-nj;us-nj-randolph;Township;TRUE;26451;NJ;http://www.randolphnj.org
+Roxbury;us-nj;us-nj-roxbury;Township;TRUE;23101;NJ;http://www.roxburynj.us
+Montville;us-nj;us-nj-montville;Township;TRUE;22364;NJ;http://www.montvillenj.org/174/Health
+Pequannock;us-nj;us-nj-pequannock;Township;TRUE;15561;NJ;http://www.peqtwp.org/
+Jefferson;us-nj;us-nj-jefferson;Township;TRUE;20555;NJ;https://www.jeffersontownship.net/170/Health
+Hillside;us-nj;us-nj-hillside;Township;TRUE;22262;NJ;https://hillsidenj.us/health-department
+Clark;us-nj;us-nj-clark;Township;TRUE;15415;NJ;http://www.ourclark.com/departments/health-department
+Maplewood;us-nj;us-nj-maplewood;Township;TRUE;25384;NJ;https://www.maplewoodnj.gov/government/public-health-social-services
+Millburn;us-nj;us-nj-millburn;Township;TRUE;21699;NJ;https://twp.millburn.nj.us/158/Health-Human-Services
+North Bergen;us-nj;us-nj-north-bergen;Township;;62066;NJ;https://www.northbergen.org
+Teaneck;us-nj;us-nj-teaneck;Township;TRUE;41427;NJ;https://www.teanecknj.gov/health-department
+Wayne;us-nj;us-nj-wayne;Township;TRUE;54143;NJ;https://www.waynetownship.com/health.html
+West Milford;us-nj;us-nj-west-milford;Township;TRUE;24797;NJ;https://www.westmilford.org/cn/webpage.cfm?TID=11&TPID=1789
+Colts Neck;us-nj;us-nj-colts-neck;Township;TRUE;9969;NJ;http://www.colts-neck.nj.us
+Bloomfield;us-nj;us-nj-bloomfield;Township;TRUE;52638;NJ;https://www.bloomfieldtwpnj.com/158/Health-Department-Human-Services
+West Caldwell;us-nj;us-nj-west-caldwell;Township;TRUE;10927;NJ;http://www.westcaldwell.com
+West Orange;us-nj;us-nj-west-orange;Township;TRUE;48399;NJ;http://www.westorange.org/84/Health-and-Welfare
+Montclair;us-nj;us-nj-montclair;Township;TRUE;39783;NJ;https://www.montclairnjusa.org/Government/Departments/Health-Human-Services
+Atlantic County;us-nj;us-nj-atlantic;County;TRUE;263670;NJ;https://www.atlantic-county.org/public-health/index.asp
+Burlington County;us-nj;us-nj-burlington;County;TRUE;445349;NJ;http://www.co.burlington.nj.us/290/Health-Department
+Camden County;us-nj;us-nj-camden;County;TRUE;506471;NJ;http://www.camdencounty.com/health
+Cape May County;us-nj;us-nj-cape-may;County;TRUE;92039;NJ;http://capemaycountynj.gov/226/Health-Department
+Cumberland County;us-nj;us-nj-cumberland;County;TRUE;149527;NJ;http://www.co.cumberland.nj.us/content/22602/22786/default.aspx
+Essex County;us-nj;us-nj-essex;County;TRUE;798975;NJ;https://essexcountynj.org/department-of-health-and-rehabilitation/
+Gloucester County;us-nj;us-nj-gloucester;County;TRUE;291636;NJ;https://www.gloucestercountynj.gov/1135/Department-of-Health
+Hudson County;us-nj;us-nj-hudson;County;TRUE;672391;NJ;http://www.hudsonregional.org
+Hunterdon County;us-nj;us-nj-hunterdon;County;TRUE;124371;NJ;https://www.co.hunterdon.nj.us/162/Health-Department
+Middlesex County;us-nj;us-nj-middlesex;County;TRUE;825062;NJ;http://www.edisonnj.org/index.php
+Monmouth County;us-nj;us-nj-monmouth;County;TRUE;618795;NJ;https://www.visitmonmouth.com/page.aspx?ID=1932
+Ocean County;us-nj;us-nj-ocean;County;TRUE;607186;NJ;http://www.ochd.org
+Salem County;us-nj;us-nj-salem;County;TRUE;62385;NJ;https://health.salemcountynj.gov/
+Atlantic City;us-nj;us-nj-atlantic-city;City;TRUE;38487;NJ;https://www.atlantic-county.org/public-health/
+Bayonne;us-nj;us-nj-bayonne;City;TRUE;70497;NJ;http://www.bayonnenj.org
+Clifton;us-nj;us-nj-clifton;City;TRUE;89451;NJ;https://www.cliftonnj.org/164/Health-Department
+Dover;us-nj;us-nj-dover;Town;TRUE;18426;NJ;http://www.dover.nj.us
+East Orange;us-nj;us-nj-east-orange;City;TRUE;68879;NJ;https://www.eastorange-nj.gov/164/Health-Human-Services
+Elizabeth;us-nj;us-nj-elizabeth;City;TRUE;135665;NJ;https://www.elizabethnj.org/546/Health-and-Human-Services
+Englewood;us-nj;us-nj-englewood;City;TRUE;29109;NJ;https://cityofenglewood.org/1180/Health-Department
+Freehold;us-nj;us-nj-freehold;Township;TRUE;35548;NJ;http://twp.freehold.nj.us/244
+Guttenberg;us-nj;us-nj-guttenberg;Town;TRUE;11765;NJ;https://www.guttenbergnj.org/
+Hackensack;us-nj;us-nj-hackensack;City;TRUE;45758;NJ;http://www.hackensack.org
+Harrison;us-nj;us-nj-harrison;Town;TRUE;19217;NJ;http://www.townofharrison.com
+Hoboken;us-nj;us-nj-hoboken;City;TRUE;58754;NJ;https://www.hobokennj.gov/departments/health-department
+Jersey City;us-nj;us-nj-jersey-city;City;TRUE;287899;NJ;https://jerseycitynj.gov/cms/one.aspx?pageId=7214272
+Kearny;us-nj;us-nj-kearny;Town;TRUE;41157;NJ;https://www.kearnynj.org/health-department/
+Linden;us-nj;us-nj-linden;City;TRUE;43478;NJ;https://linden-nj.gov/directory/health-department/
+Long Branch;us-nj;us-nj-long-branch;City;TRUE;31932;NJ;https://www.longbranch.org/departments/Health
+Morristown;us-nj;us-nj-morristown;Town;TRUE;20126;NJ;https://www.townofmorristown.org/health
+Passaic;us-nj;us-nj-passaic-city;City;TRUE;70048;NJ;https://www.cityofpassaic.com/182/Health-Division
+Paterson;us-nj;us-nj-paterson;City;TRUE;157864;NJ;http://patersonnj.gov
+Plainfield;us-nj;us-nj-plainfield;City;TRUE;54358;NJ;https://plainfieldnj.gov/departments/health_and_social_services/division_of_health.php
+Rahway;us-nj;us-nj-rahway;City;TRUE;29664;NJ;https://www.cityofrahway.com/187/Department-of-Health
+Ridgewood;us-nj;us-nj-ridgewood;Village;TRUE;26043;NJ;http://www.ridgewoodnj.net
+Rockaway;us-nj;us-nj-rockaway;Township;TRUE;25539;NJ;https://rockawaytownship.org/160/Health
+Trenton;us-nj;us-nj-trenton;City;TRUE;90055;NJ;https://trentonnj.org/182/Division-of-Health-Promotion
+Union City;us-nj;us-nj-union-city;City;TRUE;67258;NJ;http://www.ucnj.com/services/health/
+Vineland;us-nj;us-nj-vineland;City;TRUE;60796;NJ;http://health.vinelandcity.org/
+Westfield;us-nj;us-nj-westfield;Town;TRUE;30839;NJ;http://www.westfieldnj.gov/health
+West New York;us-nj;us-nj-west-new-york;Town;TRUE;52438;NJ;https://www.westnewyorknj.org/Departments/health
+Woodbridge;us-nj;us-nj-woodbridge;Township;TRUE;103400;NJ;https://www.twp.woodbridge.nj.us/198/Health-Human-Services
+City of Orange;us-nj;us-nj-city-of-orange;City;TRUE;33922;NJ;http://www.ci.orange.nj.us
+Mid-Bergen Regional Health Commission;us-nj;us-nj-mid-bergen;Group;TRUE;193174;NJ;https://midbergen-regionalhealth.org/
+Middle-Brook Regional Health Commission;us-nj;us-nj-middle-brook;Group;TRUE;26329;NJ;http://www.middlebrookhealth.org
+Northwest Bergen Regional Health Commission;us-nj;us-nj-north-west-bergen;Group;TRUE;141674;NJ;https://www.nwbrhc.org/
+Weehawken;us-nj;us-nj-weehawken;Township;TRUE;16790;NJ;https://www.weehawken-nj.us/government/boards-and-committees/board-of-health
+Bergenfield;us-nj-mid-bergen;us-nj-bergenfield;Borough;;28223;NJ;
+Bogota;us-nj-mid-bergen;us-nj-bogota;Borough;;8940;NJ;
+Carlstadt;us-nj-mid-bergen;us-nj-carlstadt;Borough;;6341;NJ;
+Ramsey;us-nj-mid-bergen;us-nj-ramsey;Borough;;14739;NJ;
+Ridgefield;us-nj;us-nj-ridgefield;Borough;TRUE;11465;NJ;
+River Edge;us-nj-mid-bergen;us-nj-river-edge;Borough;;12022;NJ;
+Saddle River;us-nj-north-west-bergen;us-nj-saddle-river;Borough;;3363;NJ;
+Leonia;us-nj-mid-bergen;us-nj-leonia;Borough;;9273;NJ;
+Montvale;us-nj-north-west-bergen;us-nj-montvale;Borough;;8413;NJ;
+New Milford;us-nj-mid-bergen;us-nj-new-milford;Borough;;16888;NJ;
+Tenafly;us-nj-mid-bergen;us-nj-tenafly;Borough;;15299;NJ;
+Wallington;us-nj-mid-bergen;us-nj-wallington;Borough;;11838;NJ;
+Westwood;us-nj-north-west-bergen;us-nj-westwood;Borough;TRUE;11241;NJ;
+Cliffside Park;us-nj-mid-bergen;us-nj-cliffside-park;Borough;;25546;NJ;
+Closter;us-nj-mid-bergen;us-nj-closter;Borough;;8555;NJ;
+Emerson;us-nj-north-west-bergen;us-nj-emerson;Borough;;7281;NJ;
+Englewood Cliffs;us-nj-mid-bergen;us-nj-englewood-cliffs;Borough;;5347;NJ;
+Fair Lawn;us-nj-north-west-bergen;us-nj-fair-lawn;Borough;TRUE;34948;NJ;
+Allendale;us-nj-north-west-bergen;us-nj-allendale;Borough;;6817;NJ;
+Franklin Lakes;us-nj-north-west-bergen;us-nj-franklin-lakes;Borough;;11007;NJ;
+Hasbrouck Heights;us-nj-mid-bergen;us-nj-hasbrouck-heights;Borough;;12080;NJ;
+Hillsdale;us-nj-north-west-bergen;us-nj-hillsdale;Borough;;10125;NJ;
+Ho-Ho-Kus;us-nj-north-west-bergen;us-nj-ho-ho-kus;Borough;;4234;NJ;
+Watchung;us-nj-middle-brook;us-nj-watchung;Borough;;6417;NJ;
+Sussex County;us-nj;us-nj-sussex;County;TRUE;140488;NJ;
+Bridgewater;us-nj-middle-brook;us-nj-bridgewater;Township;;46079;NJ;
+Green Brook;us-nj-middle-brook;us-nj-green-brook;Township;;6956;NJ;
+Warren;us-nj-middle-brook;us-nj-warren-twp;Township;;15874;NJ;
+East Hanover;us-nj;us-nj-east-hanover;Township;TRUE;11102;NJ;
+Parsippany-Troy Hills;us-nj;us-nj-parsippany-troy-hills;Township;TRUE;55970;NJ;
+River Vale;us-nj-north-west-bergen;us-nj-river-vale;Township;;9885;NJ;
+Warren County;us-nj;us-nj-warren;County;TRUE;105267;NJ;
+Garfield;us-nj-mid-bergen;us-nj-garfield;City;;32472;NJ;
+Newark;us-nj;us-nj-newark;City;TRUE;307355;NJ;
+Ridgefield Park;us-nj-mid-bergen;us-nj-ridgefield-park;Village;;13161;NJ;
+New Jersey;us;us-nj;State;TRUE;8882190;NJ;
+All New Jersey;;us-nj-all;Summary;;;NJ;
+All Mid-Bergen Regional Health Commission;;us-nj-mid-bergen-all;Summary;;;NJ;
+All Middle-Brook Regional Health Commission;;us-nj-middle-brook-all;Summary;;;NJ;
+All Northwest Bergen Regional Health Commission;;us-nj-north-west-bergen-all;Summary;;;NJ;

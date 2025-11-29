@@ -1,0 +1,44 @@
+name;parent_id;community_id;category;pha;population_proper;state_id;pha_url
+Beaver County;us-ut-sw;us-ut-beaver;County;TRUE;6710;UT;
+Box Elder County;us-ut-brhd;us-ut-box-elder;County;TRUE;56046;UT;
+Davis County;us-ut;us-ut-davis;County;TRUE;355481;UT;https://www.daviscountyutah.gov/health/home/1
+Cache County;us-ut-brhd;us-ut-cache;County;TRUE;128289;UT;
+Carbon County;us-ut-se;us-ut-carbon;County;TRUE;20463;UT;
+Daggett County;us-ut-tri-county;us-ut-daggett;County;TRUE;950;UT;
+Duchesne County;us-ut-tri-county;us-ut-duchesne;County;TRUE;19938;UT;
+Emery County;us-ut-se;us-ut-emery;County;TRUE;10012;UT;
+Garfield County;us-ut-sw;us-ut-garfield;County;TRUE;5051;UT;
+Grand County;us-ut-se;us-ut-grand;County;TRUE;9754;UT;
+Iron County;us-ut-sw;us-ut-iron;County;TRUE;54839;UT;
+Juab County;us-ut-central;us-ut-juab;County;TRUE;12017;UT;
+Kane County;us-ut-sw;us-ut-kane;County;TRUE;7886;UT;
+Millard County;us-ut-central;us-ut-millard;County;TRUE;13188;UT;
+Salt Lake County;us-ut;us-ut-salt-lake;County;TRUE;1160437;UT;http://www.slcohealth.org
+San Juan County;us-ut;us-ut-san-juan;County;TRUE;15308;UT;https://sanjuanpublichealth.org/
+Morgan County;us-ut-weber-morgan;us-ut-morgan;County;TRUE;12124;UT;
+Piute County;us-ut-central;us-ut-piute;County;TRUE;1479;UT;
+Summit County;us-ut;us-ut-summit;County;TRUE;42145;UT;http://www.summitcountyhealth.org
+Tooele County;us-ut;us-ut-tooele;County;TRUE;72259;UT;http://www.tooelehealth.org
+Rich County;us-ut-brhd;us-ut-rich;County;TRUE;2483;UT;
+Utah County;us-ut;us-ut-utah;County;TRUE;636235;UT;http://health.utahcounty.gov
+Wasatch County;us-ut;us-ut-wasatch;County;TRUE;34091;UT;http://www.wasatchcountyhd.org
+Sanpete County;us-ut-central;us-ut-sanpete;County;TRUE;30939;UT;
+Sevier County;us-ut-central;us-ut-sevier;County;TRUE;21620;UT;
+Uintah County;us-ut-tri-county;us-ut-uintah;County;TRUE;35734;UT;
+Washington County;us-ut-sw;us-ut-washington;County;TRUE;177556;UT;
+Wayne County;us-ut-central;us-ut-wayne;County;TRUE;2711;UT;
+Bear River HD;us-ut;us-ut-brhd;Group;TRUE;186818;UT;http://www.brhd.org
+Weber County;us-ut-weber-morgan;us-ut-weber;County;TRUE;260213;UT;
+Central Utah Public HD;us-ut;us-ut-central;Group;TRUE;81954;UT;https://centralutahpublichealth.org
+Utah;us;us-ut;State;TRUE;3205958;UT;
+Southeast Utah HD;us-ut;us-ut-se;Group;TRUE;40229;UT;https://www.seuhealth.com/
+All Utah;;us-ut-all;Summary;;;UT;
+Southwest Utah Public HD;us-ut;us-ut-sw;Group;TRUE;252042;UT;http://www.swuhealth.org
+All Bear River HD;;us-ut-brhd-all;Summary;;;UT;
+TriCounty HD;us-ut;us-ut-tri-county;Group;TRUE;56622;UT;http://www.tricountyhealth.com
+All Central Utah Public HD;;us-ut-central-all;Summary;;;UT;
+Weber-Morgan HD;us-ut;us-ut-weber-morgan;Group;TRUE;272337;UT;http://www.webermorganhealth.org
+All Southeast Utah HD;;us-ut-se-all;Summary;;;UT;
+All Southwest Utah Public HD;;us-ut-sw-all;Summary;;;UT;
+All TriCounty HD;;us-ut-tri-county-all;Summary;;;UT;
+All Weber-Morgan HD;;us-ut-weber-morgan-all;Summary;;;UT;

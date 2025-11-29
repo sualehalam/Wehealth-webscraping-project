@@ -1,0 +1,116 @@
+name;parent_id;community_id;category;pha;population_proper;state_id;pha_url
+Allegan County;us-mi;us-mi-allegan;County;TRUE;118081;MI;http://www.allegancounty.org/health
+Chippewa County;us-mi;us-mi-chippewa;County;TRUE;37349;MI;http://www.chippewahd.com
+Genesee County;us-mi;us-mi-genesee;County;TRUE;405813;MI;http://www.gchd.us
+Grand Traverse County;us-mi;us-mi-grand-traverse;County;TRUE;93088;MI;http://www.gtchd.org
+Huron County;us-mi;us-mi-huron;County;TRUE;30981;MI;https://www.hchd.us/
+Ingham County;us-mi;us-mi-ingham;County;TRUE;292406;MI;https://hd.ingham.org/
+Ionia County;us-mi;us-mi-ionia;County;TRUE;64697;MI;https://ioniacounty.org/health/health-department/
+Kalamazoo County;us-mi;us-mi-kalamazoo;County;TRUE;265066;MI;http://www.kalcounty.com/hcs
+Lapeer County;us-mi;us-mi-lapeer;County;TRUE;87607;MI;https://www.lapeercountymi.gov/departments/health/index.php
+Lenawee County;us-mi;us-mi-lenawee;County;TRUE;98451;MI;http://www.lenaweehealthdepartment.org
+Macomb County;us-mi;us-mi-macomb;County;TRUE;873972;MI;https://www.macombgov.org/departments/health-department
+Marquette County;us-mi;us-mi-marquette;County;TRUE;66699;MI;http://www.mqthealth.org
+Midland County;us-mi;us-mi-midland;County;TRUE;83156;MI;http://www.co.midland.mi.us/health
+Muskegon County;us-mi;us-mi-muskegon;County;TRUE;173566;MI;http://www.muskegonhealth.net
+Oakland County;us-mi;us-mi-oakland;County;TRUE;1257584;MI;http://www.oakgov.com/health/
+Saginaw County;us-mi;us-mi-saginaw;County;TRUE;190539;MI;http://www.saginawpublichealth.org
+Sanilac County;us-mi;us-mi-sanilac;County;TRUE;41170;MI;http://www.sanilachealth.com
+Shiawassee County;us-mi;us-mi-shiawassee;County;TRUE;68122;MI;http://health.shiawassee.net
+Tuscola County;us-mi;us-mi-tuscola;County;TRUE;52245;MI;http://www.tchd.us
+Washtenaw County;us-mi;us-mi-washtenaw;County;TRUE;367601;MI;http://washtenaw.org/health
+Detroit;us-mi;us-mi-detroit;City;TRUE;636787;MI;http://www.detroitmi.gov/health
+Branch-Hillsdale-St. Joseph Community Health Agency;us-mi;us-mi-bhsj;Group;TRUE;150086;MI;http://www.bhsj.org
+District Health Department #10;us-mi;us-mi-dhd10;Group;TRUE;265271;MI;http://www.dhd10.org
+District Health Department #2;us-mi;us-mi-dhd2;Group;TRUE;64770;MI;http://www.dhd2.org
+District Health Department #4;us-mi;us-mi-dhd4;Group;TRUE;75601;MI;http://www.dhd4.org
+Public Health Delta-Menominee Counties;us-mi;us-mi-phdm;Group;TRUE;58564;MI;http://www.phdm.org
+Alcona County;us-mi-dhd2;us-mi-alcona;County;TRUE;10405;MI;
+Alger County;us-mi-lmasdhd;us-mi-alger;County;TRUE;9108;MI;
+Alpena County;us-mi-dhd4;us-mi-alpena;County;TRUE;28405;MI;
+Antrim County;us-mi-nw;us-mi-antrim;County;TRUE;23324;MI;
+Arenac County;us-mi-cmdhd;us-mi-arenac;County;TRUE;14883;MI;
+Baraga County;us-mi-westernup;us-mi-baraga;County;TRUE;8209;MI;
+Barry County;us-mi-barry-eaton;us-mi-barry;County;TRUE;61550;MI;
+Bay County;us-mi;us-mi-bay;County;TRUE;103126;MI;
+Benzie County;us-mi-bldhd;us-mi-benzie;County;TRUE;17766;MI;
+Berrien County;us-mi;us-mi-berrien;County;TRUE;153401;MI;
+Branch County;us-mi-bhsj;us-mi-branch;County;TRUE;43517;MI;
+Calhoun County;us-mi;us-mi-calhoun;County;TRUE;134159;MI;
+Cass County;us-mi-vbcassdhd;us-mi-cass;County;TRUE;51787;MI;
+Charlevoix County;us-mi-nw;us-mi-charlevoix;County;TRUE;26143;MI;
+Cheboygan County;us-mi-dhd4;us-mi-cheboygan;County;TRUE;25276;MI;
+Clare County;us-mi-cmdhd;us-mi-clare;County;TRUE;30950;MI;
+Clinton County;us-mi-mmdhd;us-mi-clinton;County;TRUE;79595;MI;
+Crawford County;us-mi-dhd10;us-mi-crawford;County;TRUE;14029;MI;
+Delta County;us-mi-phdm;us-mi-delta;County;TRUE;35784;MI;
+Dickinson County;us-mi-didhd;us-mi-dickinson;County;TRUE;25239;MI;
+Eaton County;us-mi-barry-eaton;us-mi-eaton;County;TRUE;110268;MI;
+Emmet County;us-mi-nw;us-mi-emmet;County;TRUE;33415;MI;
+Gladwin County;us-mi-cmdhd;us-mi-gladwin;County;TRUE;25449;MI;
+Gogebic County;us-mi-westernup;us-mi-gogebic;County;TRUE;13975;MI;
+Gratiot County;us-mi-mmdhd;us-mi-gratiot;County;TRUE;40711;MI;
+Hillsdale County;us-mi-bhsj;us-mi-hillsdale;County;TRUE;45605;MI;
+Houghton County;us-mi-westernup;us-mi-houghton;County;TRUE;35684;MI;
+Iosco County;us-mi-dhd2;us-mi-iosco;County;TRUE;25127;MI;
+Iron County;us-mi-didhd;us-mi-iron;County;TRUE;11066;MI;
+Isabella County;us-mi-cmdhd;us-mi-isabella;County;TRUE;69872;MI;
+Jackson County;us-mi;us-mi-jackson;County;TRUE;158510;MI;
+Kalkaska County;us-mi-dhd10;us-mi-kalkaska;County;TRUE;18038;MI;
+Kent County;us-mi;us-mi-kent;County;TRUE;656955;MI;
+Keweenaw County;us-mi-westernup;us-mi-keweenaw;County;TRUE;2116;MI;
+Lake County;us-mi-dhd10;us-mi-lake;County;TRUE;11853;MI;
+Leelanau County;us-mi-bldhd;us-mi-leelanau;County;TRUE;21761;MI;
+Livingston County;us-mi;us-mi-livingston;County;TRUE;191995;MI;
+Luce County;us-mi-lmasdhd;us-mi-luce;County;TRUE;6229;MI;
+Mackinac County;us-mi-lmasdhd;us-mi-mackinac;County;TRUE;10799;MI;
+Manistee County;us-mi-dhd10;us-mi-manistee;County;TRUE;24558;MI;
+Mason County;us-mi-dhd10;us-mi-mason;County;TRUE;29144;MI;
+Mecosta County;us-mi-dhd10;us-mi-mecosta;County;TRUE;43453;MI;
+Menominee County;us-mi-phdm;us-mi-menominee;County;TRUE;22780;MI;
+Missaukee County;us-mi-dhd10;us-mi-missaukee;County;TRUE;15118;MI;
+Monroe County;us-mi;us-mi-monroe;County;TRUE;150500;MI;
+Montcalm County;us-mi-mmdhd;us-mi-montcalm;County;TRUE;63888;MI;
+Montmorency County;us-mi-dhd4;us-mi-montmorency;County;TRUE;9328;MI;
+Newaygo County;us-mi-dhd10;us-mi-newaygo;County;TRUE;48980;MI;
+Oceana County;us-mi-dhd10;us-mi-oceana;County;TRUE;26467;MI;
+Ogemaw County;us-mi-dhd2;us-mi-ogemaw;County;TRUE;20997;MI;
+Ontonagon County;us-mi-westernup;us-mi-ontonagon;County;TRUE;5720;MI;
+Osceola County;us-mi-cmdhd;us-mi-osceola;County;TRUE;23460;MI;
+Oscoda County;us-mi-dhd2;us-mi-oscoda;County;TRUE;8241;MI;
+Otsego County;us-mi-nw;us-mi-otsego;County;TRUE;24668;MI;
+Ottawa County;us-mi;us-mi-ottawa;County;TRUE;291830;MI;
+Presque Isle County;us-mi-dhd4;us-mi-presque-isle;County;TRUE;12592;MI;
+Roscommon County;us-mi-cmdhd;us-mi-roscommon;County;TRUE;24019;MI;
+St. Clair County;us-mi;us-mi-st-clair;County;TRUE;159128;MI;
+St. Joseph County;us-mi-bhsj;us-mi-st-joseph;County;TRUE;60964;MI;
+Schoolcraft County;us-mi-lmasdhd;us-mi-schoolcraft;County;TRUE;8094;MI;
+Van Buren County;us-mi-vbcassdhd;us-mi-van-buren;County;TRUE;75677;MI;
+Wayne County;us-mi;us-mi-wayne;County;TRUE;1749343;MI;
+Wexford County;us-mi-dhd10;us-mi-wexford;County;TRUE;33631;MI;
+Flint;us-mi;us-mi-flint;City;TRUE;81863;MI;
+Michigan;us;us-mi;State;TRUE;9986857;MI;
+All Michigan;;us-mi-all;Summary;;;MI;
+Barry-Eaton District HD;us-mi;us-mi-barry-eaton;Group;TRUE;171818;MI;
+All Barry-Eaton District HD;;us-mi-barry-eaton-all;Summary;;;MI;
+All Branch-Hillsdale-St. Joseph Community Health Agency;;us-mi-bhsj-all;Summary;;;MI;
+Benzie-Leelanau District HD;us-mi;us-mi-bldhd;Group;TRUE;39527;MI;
+All Benzie-Leelanau District HD;;us-mi-bldhd-all;Summary;;;MI;
+Central Michigan District HD;us-mi;us-mi-cmdhd;Group;TRUE;188633;MI;
+All Central Michigan District HD;;us-mi-cmdhd-all;Summary;;;MI;
+All District Health Department #10;;us-mi-dhd10-all;Summary;;;MI;
+All District Health Department #2;;us-mi-dhd2-all;Summary;;;MI;
+All District Health Department #4;;us-mi-dhd4-all;Summary;;;MI;
+Dickinson-Iron District HD;us-mi;us-mi-didhd;Group;TRUE;36305;MI;
+All Dickinson-Iron District HD;;us-mi-didhd-all;Summary;;;MI;
+LMAS District HD;us-mi;us-mi-lmasdhd;Group;TRUE;34230;MI;
+All LMAS District HD;;us-mi-lmasdhd-all;Summary;;;MI;
+Mid-Michigan District HD;us-mi;us-mi-mmdhd;Group;TRUE;184194;MI;
+All Mid-Michigan District HD;;us-mi-mmdhd-all;Summary;;;MI;
+HD of Northwest Michigan;us-mi;us-mi-nw;Group;TRUE;107550;MI;
+All HD of Northwest Michigan;;us-mi-nw-all;Summary;;;MI;
+All Public Health Delta-Menominee Counties;;us-mi-phdm-all;Summary;;;MI;
+Van Buren/Cass District HD;us-mi;us-mi-vbcassdhd;Group;TRUE;127464;MI;
+All Van Buren/Cass District HD;;us-mi-vbcassdhd-all;Summary;;;MI;
+Western U.P. District HD;us-mi;us-mi-westernup;Group;TRUE;65704;MI;
+All Western U.P. District HD;;us-mi-westernup-all;Summary;;;MI;

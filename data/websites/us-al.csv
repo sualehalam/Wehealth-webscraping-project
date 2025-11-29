@@ -1,0 +1,82 @@
+name;parent_id;community_id;category;pha;population_proper;state_id;pha_url
+Autauga County;us-al-ehd;us-al-autauga;County;TRUE;55869;AL;http://www.alabamapublichealth.gov/autauga/index.html
+Baldwin County;us-al-swhd;us-al-baldwin;County;TRUE;223234;AL;http://www.alabamapublichealth.gov/baldwin/index.html
+Barbour County;us-al-sehd;us-al-barbour;County;TRUE;24686;AL;http://www.alabamapublichealth.gov/barbour/index.html
+Bibb County;us-al-whd;us-al-bibb;County;TRUE;22394;AL;http://www.alabamapublichealth.gov/bibb/index.html
+Blount County;us-al-nehd;us-al-blount;County;TRUE;57826;AL;http://www.alabamapublichealth.gov/blount/index.html
+Bullock County;us-al-ehd;us-al-bullock;County;TRUE;10101;AL;http://www.alabamapublichealth.gov/bullock/index.html
+Butler County;us-al-sehd;us-al-butler;County;TRUE;19448;AL;http://www.alabamapublichealth.gov/butler/index.html
+Calhoun County;us-al-nehd;us-al-calhoun;County;TRUE;113605;AL;http://www.alabamapublichealth.gov/calhoun/index.html
+Chambers County;us-al-ehd;us-al-chambers;County;TRUE;33254;AL;http://www.alabamapublichealth.gov/chambers/index.html
+Cherokee County;us-al-nehd;us-al-cherokee;County;TRUE;26196;AL;http://www.alabamapublichealth.gov/cherokee/index.html
+Chilton County;us-al-whd;us-al-chilton;County;TRUE;44428;AL;http://www.alabamapublichealth.gov/chilton/index.html
+Choctaw County;us-al-swhd;us-al-choctaw;County;TRUE;12589;AL;http://www.alabamapublichealth.gov/choctaw/index.html
+Clarke County;us-al-swhd;us-al-clarke;County;TRUE;23622;AL;http://www.alabamapublichealth.gov/clarke/index.html
+Clay County;us-al-nehd;us-al-clay;County;TRUE;13235;AL;http://www.alabamapublichealth.gov/clay/index.html
+Cleburne County;us-al-nehd;us-al-cleburne;County;TRUE;14910;AL;http://www.alabamapublichealth.gov/cleburne/index.html
+Coffee County;us-al-sehd;us-al-coffee;County;TRUE;52342;AL;http://www.alabamapublichealth.gov/coffee/index.html
+Colbert County;us-al-nhd;us-al-colbert;County;TRUE;55241;AL;http://www.alabamapublichealth.gov/colbert/
+Conecuh County;us-al-swhd;us-al-conecuh;County;TRUE;12067;AL;http://www.alabamapublichealth.gov/conecuh/index.html
+Coosa County;us-al-ehd;us-al-coosa;County;TRUE;10663;AL;http://www.alabamapublichealth.gov/coosa/index.html
+Covington County;us-al-sehd;us-al-covington;County;TRUE;37049;AL;http://www.alabamapublichealth.gov/covington/index.html
+Crenshaw County;us-al-sehd;us-al-crenshaw;County;TRUE;13772;AL;http://www.alabamapublichealth.gov/crenshaw/index.html
+Cullman County;us-al-nhd;us-al-cullman;County;TRUE;83768;AL;http://www.alabamapublichealth.gov/cullman/index.html
+Dale County;us-al-sehd;us-al-dale;County;TRUE;49172;AL;http://www.alabamapublichealth.gov/dale/index.html
+Dallas County;us-al-swhd;us-al-dallas;County;TRUE;37196;AL;http://www.alabamapublichealth.gov/dallas/index.html
+DeKalb County;us-al-nehd;us-al-dekalb;County;TRUE;71513;AL;http://www.alabamapublichealth.gov/dekalb/index.html
+Elmore County;us-al-ehd;us-al-elmore;County;TRUE;81209;AL;http://www.alabamapublichealth.gov/elmore/index.html
+Escambia County;us-al-swhd;us-al-escambia;County;TRUE;36633;AL;http://www.alabamapublichealth.gov/escambia/index.html
+Etowah County;us-al-nehd;us-al-etowah;County;TRUE;102268;AL;http://www.alabamapublichealth.gov/etowah/index.html
+Fayette County;us-al-whd;us-al-fayette;County;TRUE;16302;AL;http://www.alabamapublichealth.gov/fayette/index.html
+Franklin County;us-al-nhd;us-al-franklin;County;TRUE;31362;AL;http://www.alabamapublichealth.gov/franklin/index.html
+Geneva County;us-al-sehd;us-al-geneva;County;TRUE;26271;AL;http://www.alabamapublichealth.gov/geneva/index.html
+Greene County;us-al-whd;us-al-greene;County;TRUE;8111;AL;http://www.alabamapublichealth.gov/greene/index.html
+Hale County;us-al-whd;us-al-hale;County;TRUE;14651;AL;http://www.alabamapublichealth.gov/hale/index.html
+Henry County;us-al-sehd;us-al-henry;County;TRUE;17205;AL;http://www.alabamapublichealth.gov/henry/index.html
+Houston County;us-al-sehd;us-al-houston;County;TRUE;105882;AL;http://www.alabamapublichealth.gov/houston/index.html
+Jackson County;us-al-nhd;us-al-jackson;County;TRUE;51626;AL;http://www.alabamapublichealth.gov/jackson/index.html
+Jefferson County;us-al;us-al-jefferson;County;TRUE;658573;AL;https://www.jcdh.org/
+Lamar County;us-al-whd;us-al-lamar;County;TRUE;13805;AL;http://www.alabamapublichealth.gov/lamar/index.html
+Lauderdale County;us-al-nhd;us-al-lauderdale;County;TRUE;92729;AL;http://www.alabamapublichealth.gov/lauderdale/index.html
+Lawrence County;us-al-nhd;us-al-lawrence;County;TRUE;32924;AL;http://www.alabamapublichealth.gov/lawrence/index.html
+Lee County;us-al-ehd;us-al-lee;County;TRUE;164542;AL;http://www.alabamapublichealth.gov/lee/index.html
+Limestone County;us-al-nhd;us-al-limestone;County;TRUE;98915;AL;http://www.alabamapublichealth.gov/limestone/index.html
+Lowndes County;us-al-ehd;us-al-lowndes;County;TRUE;9726;AL;http://www.alabamapublichealth.gov/lowndes/index.html
+Macon County;us-al-ehd;us-al-macon;County;TRUE;18068;AL;http://www.alabamapublichealth.gov/macon/index.html
+Madison County;us-al-nhd;us-al-madison;County;TRUE;372909;AL;http://www.alabamapublichealth.gov/madison/index.html
+Marengo County;us-al-swhd;us-al-marengo;County;TRUE;18863;AL;http://www.alabamapublichealth.gov/marengo/index.html
+Marion County;us-al-nhd;us-al-marion;County;TRUE;29709;AL;http://www.alabamapublichealth.gov/marion/index.html
+Marshall County;us-al-nhd;us-al-marshall;County;TRUE;96774;AL;http://www.alabamapublichealth.gov/marshall/index.html
+Mobile County;us-al;us-al-mobile;County;TRUE;413210;AL;http://mchd.org
+Monroe County;us-al-swhd;us-al-monroe;County;TRUE;20733;AL;http://www.alabamapublichealth.gov/monroe/index.html
+Montgomery County;us-al-ehd;us-al-montgomery;County;TRUE;226486;AL;http://www.alabamapublichealth.gov/montgomery/index.html
+Morgan County;us-al-nhd;us-al-morgan;County;TRUE;119679;AL;http://www.alabamapublichealth.gov/morgan/index.html
+Perry County;us-al-whd;us-al-perry;County;TRUE;8923;AL;http://www.alabamapublichealth.gov/perry/index.html
+Pickens County;us-al-whd;us-al-pickens;County;TRUE;19930;AL;http://www.alabamapublichealth.gov/pickens/index.html
+Pike County;us-al-sehd;us-al-pike;County;TRUE;33114;AL;http://www.alabamapublichealth.gov/pike/index.html
+Randolph County;us-al-nehd;us-al-randolph;County;TRUE;22722;AL;http://www.alabamapublichealth.gov/randolph/index.html
+Russell County;us-al-ehd;us-al-russell;County;TRUE;57961;AL;http://www.alabamapublichealth.gov/russell/index.html
+St. Clair County;us-al-nehd;us-al-stclair;County;TRUE;89512;AL;http://www.alabamapublichealth.gov/stclair/index.html
+Shelby County;us-al-nehd;us-al-shelby;County;TRUE;217702;AL;http://www.alabamapublichealth.gov/shelby/index.html
+Sumter County;us-al-whd;us-al-sumter;County;TRUE;12427;AL;http://www.alabamapublichealth.gov/sumter/index.html
+Talladega County;us-al-nehd;us-al-talladega;County;TRUE;79978;AL;http://www.alabamapublichealth.gov/talladega/index.html
+Tallapoosa County;us-al-ehd;us-al-tallapoosa;County;TRUE;40367;AL;http://www.alabamapublichealth.gov/tallapoosa/index.html
+Tuscaloosa County;us-al-whd;us-al-tuscaloosa;County;TRUE;209355;AL;http://www.alabamapublichealth.gov/tuscaloosa/index.html
+Walker County;us-al-whd;us-al-walker;County;TRUE;63521;AL;http://www.alabamapublichealth.gov/walker/index.html
+Washington County;us-al-sehd;us-al-washington;County;TRUE;16326;AL;http://www.alabamapublichealth.gov/washington/index.html
+Wilcox County;us-al-swhd;us-al-wilcox;County;TRUE;10373;AL;http://www.alabamapublichealth.gov/wilcox/index.html
+Winston County;us-al-nhd;us-al-winston;County;TRUE;23629;AL;http://www.alabamapublichealth.gov/winston/index.html
+East Central District;us-al;us-al-ehd;Group;TRUE;708246;AL;http://www.alabamapublichealth.gov
+Northeastern District;us-al;us-al-nehd;Group;TRUE;809467;AL;http://www.alabamapublichealth.gov
+Northern District;us-al;us-al-nhd;Group;TRUE;1089265;AL;http://www.alabamapublichealth.gov
+Southeastern District;us-al;us-al-sehd;Group;TRUE;395267;AL;http://www.alabamapublichealth.gov
+Southwestern District;us-al;us-al-swhd;Group;TRUE;395310;AL;http://www.alabamapublichealth.gov
+West Central District;us-al;us-al-whd;Group;TRUE;433847;AL;http://www.alabamapublichealth.gov
+Alabama;us;us-al;State;TRUE;4903185;AL;
+All Alabama;;us-al-all;Summary;;;AL;
+All East Central District;;us-al-ehd-all;Summary;;;AL;
+All Northeastern District;;us-al-nehd-all;Summary;;;AL;
+All Northern District;;us-al-nhd-all;Summary;;;AL;
+All Southeastern District;;us-al-sehd-all;Summary;;;AL;
+All Southwestern District;;us-al-swhd-all;Summary;;;AL;
+All West Central District;;us-al-whd-all;Summary;;;AL;

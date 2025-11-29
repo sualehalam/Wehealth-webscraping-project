@@ -1,0 +1,57 @@
+name;parent_id;community_id;category;pha;population_proper;state_id;pha_url
+Beaufort County;us-sc-lowcountry;us-sc-beaufort;County;TRUE;192122;SC;
+McCormick County;us-sc-upstate;us-sc-mccormick;County;TRUE;9463;SC;
+Aiken County;us-sc-midlands;us-sc-aiken;County;TRUE;170872;SC;https://www.aikencountysc.gov/DspOfc?qOfcID=SCDHECA
+Allendale County;us-sc-lowcountry;us-sc-allendale;County;TRUE;8688;SC;https://www.achospital.org
+Bamberg County;us-sc-lowcountry;us-sc-bamberg;County;TRUE;14066;SC;https://www.scdhec.gov/health/health-public-health-clinics
+Barnwell County;us-sc-midlands;us-sc-barnwell;County;TRUE;20866;SC;https://scdhec.gov/health/health-public-health-clinics
+Berkeley County;us-sc-lowcountry;us-sc-berkeley;County;TRUE;227907;SC;https://scdhec.gov/berkeley-county
+Calhoun County;us-sc-lowcountry;us-sc-calhoun;County;TRUE;14553;SC;https://scdhec.gov/health/health-public-health-clinics
+Charleston County;us-sc-lowcountry;us-sc-charleston;County;TRUE;411406;SC;https://scdhec.gov/health/health-public-health-clinics
+Chester County;us-sc-midlands;us-sc-chester;County;TRUE;32244;SC;https://www.chestercountysc.gov/residents/healthcare
+Chesterfield County;us-sc-pee-dee;us-sc-chesterfield;County;TRUE;45650;SC;https://scdhec.gov/chesterfield-county
+Clarendon County;us-sc-pee-dee;us-sc-clarendon;County;TRUE;33745;SC;https://scdhec.gov/health/health-public-health-clinics
+Colleton County;us-sc-lowcountry;us-sc-colleton;County;TRUE;37677;SC;https://scdhec.gov/health/health-public-health-clinics
+Darlington County;us-sc-pee-dee;us-sc-darlington;County;TRUE;66618;SC;https://scdhec.gov/health/health-public-health-clinics
+Dillon County;us-sc-pee-dee;us-sc-dillon;County;TRUE;30479;SC;https://scdhec.gov/health/health-public-health-clinics
+Dorchester County;us-sc-lowcountry;us-sc-dorchester;County;TRUE;162809;SC;https://scdhec.gov/health/health-public-health-clinics
+Florence County;us-sc-pee-dee;us-sc-florence;County;TRUE;138293;SC;https://scdhec.gov/florence-county
+Georgetown County;us-sc-pee-dee;us-sc-georgetown;County;TRUE;62680;SC;https://scdhec.gov/health/health-public-health-clinics
+Greenville County;us-sc-upstate;us-sc-greenville;County;TRUE;523542;SC;https://scdhec.gov/health/health-public-health-clinics
+Hampton County;us-sc-lowcountry;us-sc-hampton;County;TRUE;19222;SC;http://www.hamptoncountysc.org/businessdirectoryii.aspx?lngbusinesscategoryid=28&txtbusinessname=
+Jasper County;us-sc-lowcountry;us-sc-jasper;County;TRUE;30073;SC;https://www.bjhchs.org/locations/counties/jasper-county
+Kershaw County;us-sc-midlands;us-sc-kershaw;County;TRUE;66551;SC;https://www.cmcofkc.org
+Lancaster County;us-sc-midlands;us-sc-lancaster;County;TRUE;98012;SC;https://scdhec.gov/health/health-public-health-clinics
+Laurens County;us-sc-upstate;us-sc-laurens;County;TRUE;67493;SC;https://scdhec.gov/health/health-public-health-clinics
+Lee County;us-sc-pee-dee;us-sc-lee;County;TRUE;16828;SC;https://scdhec.gov/health/health-public-health-clinics
+Lexington County;us-sc-midlands;us-sc-lexington;County;TRUE;298750;SC;https://lex-co.sc.gov/directories/building-directory/health-centers
+Marion County;us-sc-pee-dee;us-sc-marion;County;TRUE;30657;SC;https://scdhec.gov/health/health-public-health-clinics
+Marlboro County;us-sc-pee-dee;us-sc-marlboro;County;TRUE;26118;SC;https://scdhec.gov/health/health-public-health-clinics
+Newberry County;us-sc-midlands;us-sc-newberry;County;TRUE;38440;SC;https://scdhec.gov/health/health-public-health-clinics
+Oconee County;us-sc-upstate;us-sc-oconee;County;TRUE;79546;SC;https://scdhec.gov/health/health-public-health-clinics
+Orangeburg County;us-sc-lowcountry;us-sc-orangeburg;County;TRUE;86175;SC;https://scdhec.gov/health/health-public-health-clinics
+Richland County;us-sc-midlands;us-sc-richland;County;TRUE;415759;SC;https://www.richlandcountysc.gov/Government/Departments/Health-Social-Services
+Saluda County;us-sc-midlands;us-sc-saluda;County;TRUE;20473;SC;https://scdhec.gov/health/health-public-health-clinics
+Spartanburg County;us-sc-upstate;us-sc-spartanburg;County;TRUE;319785;SC;https://scdhec.gov/health/health-public-health-clinics
+Sumter County;us-sc-pee-dee;us-sc-sumter;County;TRUE;106721;SC;https://scdhec.gov/health/health-public-health-clinics
+Union County;us-sc-upstate;us-sc-union;County;TRUE;27316;SC;https://scdhec.gov/health/health-public-health-clinics
+York County;us-sc-midlands;us-sc-york;County;TRUE;280979;SC;https://scdhec.gov/health/health-public-health-clinics
+Lowcountry Regional Public Health - SC DHEC;us-sc;us-sc-lowcountry;Group;TRUE;1204698;SC;https://www.dhec.sc.gov/
+Midlands Regional Public Health - SC DHEC;us-sc;us-sc-midlands;Group;TRUE;1492553;SC;https://www.dhec.sc.gov/
+Pee Dee Regional Public Health - SC DHEC;us-sc;us-sc-pee-dee;Group;TRUE;942238;SC;https://scdhec.gov/health/health-public-health-clinics
+Upstate Regional Public Health - SC DHEC;us-sc;us-sc-upstate;Group;TRUE;1509225;SC;http://www.scdhec.gov
+Abbeville County;us-sc-upstate;us-sc-abbeville;County;TRUE;24527;SC;
+Anderson County;us-sc-upstate;us-sc-anderson;County;TRUE;202558;SC;
+Cherokee County;us-sc-upstate;us-sc-cherokee;County;TRUE;57300;SC;
+Edgefield County;us-sc-midlands;us-sc-edgefield;County;TRUE;27260;SC;
+Fairfield County;us-sc-midlands;us-sc-fairfield;County;TRUE;22347;SC;
+Greenwood County;us-sc-upstate;us-sc-greenwood;County;TRUE;70811;SC;
+Horry County;us-sc-pee-dee;us-sc-horry;County;TRUE;354081;SC;
+Pickens County;us-sc-upstate;us-sc-pickens;County;TRUE;126884;SC;
+Williamsburg County;us-sc-pee-dee;us-sc-williamsburg;County;TRUE;30368;SC;
+South Carolina;us;us-sc;State;TRUE;5148714;SC;
+All South Carolina;;us-sc-all;Summary;;;SC;
+All Lowcountry Regional Public Health - SC DHEC;;us-sc-lowcountry-all;Summary;;;SC;
+All Midlands Regional Public Health - SC DHEC;;us-sc-midlands-all;Summary;;;SC;
+All Pee Dee Regional Public Health - SC DHEC;;us-sc-pee-dee-all;Summary;;;SC;
+All Upstate Regional Public Health - SC DHEC;;us-sc-upstate-all;Summary;;;SC;

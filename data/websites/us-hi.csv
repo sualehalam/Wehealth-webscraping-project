@@ -1,0 +1,8 @@
+name;parent_id;community_id;category;pha;population_proper;state_id;pha_url
+Kauai County;us-hi;us-hi-kauai;County;TRUE;72293;HI;https://health.hawaii.gov/kauai/
+Maui County;us-hi;us-hi-maui;County;TRUE;167417;HI;https://health.hawaii.gov/maui/
+Hawaii;us;us-hi;State;TRUE;1415872;HI;http://hawaii.gov/health/
+Hawaii County;us-hi;us-hi-hawaii;County;TRUE;201513;HI;
+Honolulu County;us-hi;us-hi-honolulu;County;TRUE;974563;HI;
+Kalawao County;us-hi;us-hi-kalawao;County;TRUE;86;HI;
+All Hawaii;;us-hi-all;Summary;;;HI;

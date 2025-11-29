@@ -1,0 +1,48 @@
+name;parent_id;community_id;category;pha;population_proper;state_id;pha_url
+Asotin County;us-wa;us-wa-asotin;County;TRUE;22582;WA;https://ac-hd.org
+Adams County;us-wa;us-wa-adams;County;TRUE;19983;WA;
+Clallam County;us-wa;us-wa-clallam;County;TRUE;77331;WA;https://www.clallamcountywa.gov/261/Health-Human-Services
+Clark County;us-wa;us-wa-clark;County;TRUE;488241;WA;https://www.clark.wa.gov/public-health
+Benton County;us-wa-bfhd;us-wa-benton;County;TRUE;204390;WA;
+Cowlitz County;us-wa;us-wa-cowlitz;County;TRUE;110593;WA;https://www.co.cowlitz.wa.us/205/Health-Human-Services
+Chelan County;us-wa-cdhd;us-wa-chelan;County;TRUE;77200;WA;
+Columbia County;us-wa;us-wa-columbia;County;TRUE;3985;WA;
+Douglas County;us-wa-cdhd;us-wa-douglas;County;TRUE;43429;WA;
+Garfield County;us-wa;us-wa-garfield;County;TRUE;2225;WA;https://www.co.garfield.wa.us/publichealth
+Grant County;us-wa;us-wa-grant;County;TRUE;97733;WA;http://www.granthealth.org
+Grays Harbor County;us-wa;us-wa-grays-harbor;County;TRUE;75061;WA;http://www.healthygh.org/
+Island County;us-wa;us-wa-island;County;TRUE;85141;WA;https://www.islandcountywa.gov/174/Public-Health
+Ferry County;us-wa-netchd;us-wa-ferry;County;TRUE;7627;WA;
+King County;us-wa;us-wa-king;County;TRUE;2252782;WA;http://www.kingcounty.gov/health
+Kitsap County;us-wa;us-wa-kitsap;County;TRUE;271473;WA;http://www.kitsappublichealth.org
+Kittitas County;us-wa;us-wa-kittitas;County;TRUE;47935;WA;http://www.co.kittitas.wa.us/health
+Klickitat County;us-wa;us-wa-klickitat;County;TRUE;22425;WA;https://www.klickitatcounty.org/289/Public-Health
+Lewis County;us-wa;us-wa-lewis;County;TRUE;80707;WA;https://lewiscountywa.gov/departments/public-health/
+Franklin County;us-wa-bfhd;us-wa-franklin;County;TRUE;95222;WA;
+Mason County;us-wa;us-wa-mason;County;TRUE;66768;WA;https://masoncountywa.gov/health/index.php
+Okanogan County;us-wa;us-wa-okanogan;County;TRUE;42243;WA;https://okanogancounty.org/ocph/
+Pacific County;us-wa;us-wa-pacific;County;TRUE;22471;WA;https://www.pacificcountyhealth.com
+Jefferson County;us-wa;us-wa-jefferson;County;TRUE;32221;WA;
+Pierce County;us-wa;us-wa-pierce;County;TRUE;904980;WA;http://www.tpchd.org
+San Juan County;us-wa;us-wa-san-juan;County;TRUE;17582;WA;https://www.sanjuanco.com/378/Health-Community-Services
+Skagit County;us-wa;us-wa-skagit;County;TRUE;129205;WA;https://www.skagitcounty.net/Departments/Health/main.htm
+Skamania County;us-wa;us-wa-skamania;County;TRUE;12083;WA;https://www.skamaniacounty.org/departments-offices/community-health
+Snohomish County;us-wa;us-wa-snohomish;County;TRUE;822083;WA;http://www.snohd.org
+Spokane County;us-wa;us-wa-spokane;County;TRUE;522798;WA;http://www.srhd.org
+Lincoln County;us-wa;us-wa-lincoln;County;TRUE;10939;WA;
+Thurston County;us-wa;us-wa-thurston;County;TRUE;290536;WA;https://www.thurstoncountywa.gov/departments/public-health-and-social-services
+Wahkiakum County;us-wa;us-wa-wahkiakum;County;TRUE;4488;WA;https://www.co.wahkiakum.wa.us/161/Public-Health-Human-Services
+Walla Walla County;us-wa;us-wa-walla-walla;County;TRUE;60760;WA;https://www.co.walla-walla.wa.us/government/health_department/index.php
+Whatcom County;us-wa;us-wa-whatcom;County;TRUE;229247;WA;http://www.whatcomcounty.us/360/Health-Department
+Whitman County;us-wa;us-wa-whitman;County;TRUE;50104;WA;https://www.whitmancountypublichealth.org/
+Yakima County;us-wa;us-wa-yakima;County;TRUE;250873;WA;http://www.yakimahealthdistrict.org
+Pend Oreille County;us-wa-netchd;us-wa-pend-oreille;County;TRUE;13724;WA;
+Stevens County;us-wa-netchd;us-wa-stevens;County;TRUE;45723;WA;
+Benton-Franklin HD;us-wa;us-wa-bfhd;Group;TRUE;299612;WA;http://www.bfhd.wa.gov
+Washington;us;us-wa;State;TRUE;7614893;WA;
+Chelan-Douglas HD;us-wa;us-wa-cdhd;Group;TRUE;120629;WA;http://www.cdhd.wa.gov
+All Washington;;us-wa-all;Summary;;;WA;
+Northeast Tri-County HD;us-wa;us-wa-netchd;Group;TRUE;67074;WA;http://www.netchd.org
+All Benton-Franklin HD;;us-wa-bfhd-all;Summary;;;WA;
+All Chelan-Douglas HD;;us-wa-cdhd-all;Summary;;;WA;
+All Northeast Tri-County HD;;us-wa-netchd-all;Summary;;;WA;

@@ -1,0 +1,74 @@
+name;parent_id;community_id;category;pha;population_proper;state_id;pha_url
+Aurora County;us-sd;us-sd-aurora;County;TRUE;2751;SD;
+Beadle County;us-sd;us-sd-beadle;County;TRUE;18453;SD;
+Bennett County;us-sd;us-sd-bennett;County;TRUE;3365;SD;
+Bon Homme County;us-sd;us-sd-bon-homme;County;TRUE;6901;SD;
+Brown County;us-sd;us-sd-brown;County;TRUE;38839;SD;
+Brule County;us-sd;us-sd-brule;County;TRUE;5297;SD;
+Charles Mix County;us-sd;us-sd-charles-mix;County;TRUE;9292;SD;
+Clay County;us-sd;us-sd-clay;County;TRUE;14070;SD;
+Codington County;us-sd;us-sd-codington;County;TRUE;28009;SD;
+Corson County;us-sd;us-sd-corson;County;TRUE;4086;SD;
+Davison County;us-sd;us-sd-davison;County;TRUE;19775;SD;
+Day County;us-sd;us-sd-day;County;TRUE;5424;SD;
+Dewey County;us-sd;us-sd-dewey;County;TRUE;5892;SD;
+Douglas County;us-sd;us-sd-douglas;County;TRUE;2921;SD;
+Faulk County;us-sd;us-sd-faulk;County;TRUE;2299;SD;
+Grant County;us-sd;us-sd-grant;County;TRUE;7052;SD;
+Gregory County;us-sd;us-sd-gregory;County;TRUE;4185;SD;
+Haakon County;us-sd;us-sd-haakon;County;TRUE;1899;SD;
+Hanson County;us-sd;us-sd-hanson;County;TRUE;3453;SD;
+Hutchinson County;us-sd;us-sd-hutchinson;County;TRUE;7291;SD;
+Jerauld County;us-sd;us-sd-jerauld;County;TRUE;2013;SD;
+Jones County;us-sd;us-sd-jones;County;TRUE;903;SD;
+Kingsbury County;us-sd;us-sd-kingsbury;County;TRUE;4939;SD;
+Lincoln County;us-sd;us-sd-lincoln;County;TRUE;61128;SD;
+Lyman County;us-sd;us-sd-lyman;County;TRUE;3781;SD;
+Marshall County;us-sd;us-sd-marshall;County;TRUE;4935;SD;
+Potter County;us-sd;us-sd-potter;County;TRUE;2153;SD;
+Roberts County;us-sd;us-sd-roberts;County;TRUE;10394;SD;
+Sanborn County;us-sd;us-sd-sanborn;County;TRUE;2344;SD;
+Spink County;us-sd;us-sd-spink;County;TRUE;6376;SD;
+Stanley County;us-sd;us-sd-stanley;County;TRUE;3098;SD;
+Turner County;us-sd;us-sd-turner;County;TRUE;8384;SD;
+Brookings County;us-sd;us-sd-brookings;County;TRUE;35077;SD;https://doh.sd.gov/local-offices/county/brookings.aspx
+Buffalo County;us-sd;us-sd-buffalo;County;TRUE;1962;SD;https://doh.sd.gov/local-offices/county/buffalo.aspx
+Butte County;us-sd;us-sd-butte;County;TRUE;10429;SD;https://www.buttesd.org/community-health-services
+Campbell County;us-sd;us-sd-campbell;County;TRUE;1376;SD;https://doh.sd.gov/local-offices/county/campbell.aspx
+Clark County;us-sd;us-sd-clark;County;TRUE;3736;SD;https://doh.sd.gov/local-offices/county/clark.aspx
+Custer County;us-sd;us-sd-custer;County;TRUE;8972;SD;https://doh.sd.gov/local-offices/county/custer.aspx
+Deuel County;us-sd;us-sd-deuel;County;TRUE;4351;SD;https://doh.sd.gov/local-offices/county/deuel.aspx
+Edmunds County;us-sd;us-sd-edmunds;County;TRUE;3829;SD;http://edmunds.sdcounties.org/public-health/
+Fall River County;us-sd;us-sd-fall-river;County;TRUE;6713;SD;https://doh.sd.gov/local-offices/county/fall-river.aspx
+Hamlin County;us-sd;us-sd-hamlin;County;TRUE;6164;SD;https://doh.sd.gov/local-offices/county/hamlin.aspx
+Hand County;us-sd;us-sd-hand;County;TRUE;3191;SD;https://opa-fpclinicdb.hhs.gov/grantee/hand-county-public-health-services
+Harding County;us-sd;us-sd-harding;County;TRUE;1298;SD;https://doh.sd.gov/local-offices/county/harding.aspx
+Hughes County;us-sd;us-sd-hughes;County;TRUE;17526;SD;https://doh.sd.gov/local-offices/county/hughes.aspx
+Hyde County;us-sd;us-sd-hyde;County;TRUE;1301;SD;https://doh.sd.gov/local-offices/county/hyde.aspx
+Jackson County;us-sd;us-sd-jackson;County;TRUE;3344;SD;https://doh.sd.gov/local-offices/county/jackson.aspx
+Lawrence County;us-sd;us-sd-lawrence;County;TRUE;25844;SD;https://doh.sd.gov/local-offices/child-family-services/
+McCook County;us-sd;us-sd-mccook;County;TRUE;5586;SD;https://doh.sd.gov/local-offices/county/mccook.aspx
+McPherson County;us-sd;us-sd-mcpherson;County;TRUE;2379;SD;https://doh.sd.gov/local-offices/county/mcpherson.aspx
+Meade County;us-sd;us-sd-meade;County;TRUE;28332;SD;https://www.meadecounty.org/community-health-services/
+Mellette County;us-sd;us-sd-mellette;County;TRUE;2061;SD;https://doh.sd.gov/local-offices/county/mellette.aspx
+Miner County;us-sd;us-sd-miner;County;TRUE;2216;SD;https://www.minercountysd.org/departments/communityhealth/
+Minnehaha County;us-sd;us-sd-minnehaha;County;TRUE;193134;SD;https://doh.sd.gov/local-offices/county/minnehaha.aspx
+Moody County;us-sd;us-sd-moody;County;TRUE;6576;SD;https://doh.sd.gov/local-offices/county/moody.aspx
+Oglala Lakota County;us-sd;us-sd-oglala-lakota;County;TRUE;14177;SD;https://doh.sd.gov/local-offices/county/OglalaLakota.aspx
+Pennington County;us-sd;us-sd-pennington;County;TRUE;113775;SD;https://doh.sd.gov/local-offices/county/pennington.aspx
+Perkins County;us-sd;us-sd-perkins;County;TRUE;2865;SD;https://doh.sd.gov/local-offices/child-family-services/
+Sully County;us-sd;us-sd-sully;County;TRUE;1391;SD;https://doh.sd.gov/local-offices/county/sully.aspx
+Tripp County;us-sd;us-sd-tripp;County;TRUE;5441;SD;https://npin.cdc.gov/organization/tripp-county-public-health-services
+Union County;us-sd;us-sd-union;County;TRUE;15932;SD;https://doh.sd.gov/local-offices/county/union.aspx
+Walworth County;us-sd;us-sd-walworth;County;TRUE;5435;SD;https://doh.sd.gov/local-offices/county/walworth.aspx
+Yankton County;us-sd;us-sd-yankton;County;TRUE;22814;SD;https://doh.sd.gov/local-offices/county/yankton.aspx
+Ziebach County;us-sd;us-sd-ziebach;County;TRUE;2756;SD;https://doh.sd.gov/local-offices/child-family-services/#Z
+Sioux Falls;us-sd;us-sd-sioux-falls;City;TRUE;193401;SD;http://www.siouxfalls.org/health
+Lake County;us-sd;us-sd-lake;County;TRUE;12797;SD;
+Todd County;us-sd;us-sd-todd;County;TRUE;10177;SD;
+Faith;us-sd;us-sd-faith;City;TRUE;304;SD;
+Lemmon;us-sd;us-sd-lemmon;City;TRUE;1118;SD;
+Platte;us-sd;us-sd-platte;City;TRUE;1299;SD;
+Spearfish;us-sd;us-sd-spearfish;City;TRUE;12268;SD;
+South Dakota;us;us-sd;State;TRUE;884659;SD;
+All South Dakota;;us-sd-all;Summary;;;SD;

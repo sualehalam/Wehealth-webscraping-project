@@ -1,0 +1,32 @@
+name;parent_id;community_id;category;pha;population_proper;state_id;pha_url
+Anchorage Muny;us-ak;us-ak-anchorage;Borough;TRUE;288000;AK;http://www.muni.org/departments/health
+Lake and Peninsula Borough;us-ak;us-ak-lake-and-peninsula;Borough;TRUE;1592;AK;https://www.chickaloon-nsn.gov/health-social-services/
+North Slope Borough;us-ak;us-ak-north-slope;Borough;TRUE;9832;AK;http://www.north-slope.org/departments/health-social-services
+Yukon-Koyukuk Census Area;us-ak;us-ak-yukon-koyukuk;Census Area;TRUE;5230;AK;https://www.ykhc.org/
+Aleutians East Borough;us-ak;us-ak-aleutians-east;Borough;TRUE;3337;AK;
+Aleutians West Census Area;us-ak;us-ak-aleutians-west;Census Area;TRUE;5634;AK;
+Bethel Census Area;us-ak;us-ak-bethel;Census Area;TRUE;18386;AK;
+Bristol Bay Borough;us-ak;us-ak-bristol-bay;Borough;TRUE;836;AK;
+Denali Borough;us-ak;us-ak-denali;Borough;TRUE;2097;AK;
+Dillingham Census Area;us-ak;us-ak-dillingham;Census Area;TRUE;4916;AK;
+Fairbanks North Star Borough;us-ak;us-ak-fbns;Borough;TRUE;96849;AK;
+Haines Borough;us-ak;us-ak-haines;Borough;TRUE;2530;AK;
+Hoonah-Angoon Census Area;us-ak;us-ak-hoonah-angoon;Census Area;TRUE;2148;AK;
+Juneau Cty&Bor;us-ak;us-ak-juneau;Borough;TRUE;31974;AK;
+Kenai Peninsula Borough;us-ak;us-ak-kenai-peninsula;Borough;TRUE;58708;AK;
+Ketchikan Gateway Borough;us-ak;us-ak-ketchikan-gateway;Borough;TRUE;13901;AK;
+Kodiak Island Borough;us-ak;us-ak-kodiak-island;Borough;TRUE;12998;AK;
+Kusilvak Census Area;us-ak;us-ak-kusilvak;Census Area;TRUE;8314;AK;
+Matanuska-Susitna Borough;us-ak;us-ak-matanuska-susitna;Borough;TRUE;108317;AK;
+Nome Census Area;us-ak;us-ak-nome;Census Area;TRUE;10004;AK;
+Northwest Arctic Borough;us-ak;us-ak-northwest-arctic;Borough;TRUE;7621;AK;
+Petersburg Borough;us-ak;us-ak-petersburg;Borough;TRUE;3266;AK;
+Prince of Wales-Hyder Census Area;us-ak;us-ak-prince-of-wales-hyder;Census Area;TRUE;6203;AK;
+Sitka Cty&Bor;us-ak;us-ak-sitka;Borough;TRUE;8493;AK;
+Skagway Muny;us-ak;us-ak-skagway;Borough;TRUE;1183;AK;
+Southeast Fairbanks Census Area;us-ak;us-ak-southeast-fairbanks;Census Area;TRUE;6893;AK;
+Wrangell Cty&Bor;us-ak;us-ak-wrangell;Borough;TRUE;2502;AK;
+Yakutat Cty&Bor;us-ak;us-ak-yakutat;Borough;TRUE;579;AK;
+Alaska;us;us-ak;State;TRUE;741008;AK;
+All Alaska;;us-ak-all;Summary;;;AK;
+Valdez-Cordova Census Area;us-ak;us-ak-valdez-cordova;Census Area;TRUE;9202;AK;

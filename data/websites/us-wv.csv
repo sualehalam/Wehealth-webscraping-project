@@ -1,0 +1,64 @@
+name;parent_id;community_id;category;pha;population_proper;state_id;pha_url
+McDowell County;us-wv;us-wv-mcdowell;County;TRUE;17624;WV;
+Barbour County;us-wv;us-wv-barbour;County;TRUE;16441;WV;
+Berkeley County;us-wv-bc;us-wv-berkeley;County;TRUE;119171;WV;
+Braxton County;us-wv;us-wv-braxton;County;TRUE;13957;WV;https://www.BraxtonCountyHealthDepartment.com
+Brooke County;us-wv;us-wv-brooke;County;TRUE;21939;WV;https://www.brookecountyhealthdepartment.com/
+Cabell County;us-wv;us-wv-cabell;County;TRUE;91945;WV;http://www.cabellhealth.org
+Boone County;us-wv;us-wv-boone;County;TRUE;21457;WV;
+Calhoun County;us-wv-movhd;us-wv-calhoun;County;TRUE;7109;WV;
+Doddridge County;us-wv;us-wv-doddridge;County;TRUE;8448;WV;https://doddridgecountyhealthdepartment.org/
+Clay County;us-wv;us-wv-clay;County;TRUE;8508;WV;
+Fayette County;us-wv;us-wv-fayette;County;TRUE;42406;WV;
+Gilmer County;us-wv;us-wv-gilmer;County;TRUE;7823;WV;
+Greenbrier County;us-wv;us-wv-greenbrier;County;TRUE;34662;WV;https://greenbriercounty.net/departments/health-department/
+Hampshire County;us-wv;us-wv-hampshire;County;TRUE;23175;WV;http://www.hampshirecountyhealthdepartment.com
+Grant County;us-wv;us-wv-grant;County;TRUE;11568;WV;
+Hardy County;us-wv;us-wv-hardy;County;TRUE;13776;WV;https://www.hardycountyhealthdepartment.com/
+Harrison County;us-wv;us-wv-harrison;County;TRUE;67256;WV;http://hchealthdepartment.org/
+Hancock County;us-wv;us-wv-hancock;County;TRUE;28810;WV;
+Jackson County;us-wv;us-wv-jackson;County;TRUE;28576;WV;
+Kanawha County;us-wv;us-wv-kanawha;County;TRUE;178124;WV;https://kchd.wv.gov/Pages/default.aspx
+Jefferson County;us-wv;us-wv-jefferson;County;TRUE;57146;WV;
+Lewis County;us-wv;us-wv-lewis;County;TRUE;15907;WV;
+Lincoln County;us-wv;us-wv-lincoln;County;TRUE;20409;WV;
+Logan County;us-wv;us-wv-logan;County;TRUE;32019;WV;
+Marion County;us-wv;us-wv-marion;County;TRUE;56072;WV;
+Marshall County;us-wv;us-wv-marshall;County;TRUE;30531;WV;
+Mason County;us-wv;us-wv-mason;County;TRUE;26516;WV;
+Mercer County;us-wv;us-wv-mercer;County;TRUE;58758;WV;
+Mineral County;us-wv;us-wv-mineral;County;TRUE;26868;WV;
+Mingo County;us-wv;us-wv-mingo;County;TRUE;23424;WV;http://www.mingocountyhealthdepartment.com
+Monongalia County;us-wv;us-wv-monongalia;County;TRUE;105612;WV;http://www.monchd.org
+Monroe County;us-wv;us-wv-monroe;County;TRUE;13275;WV;
+Morgan County;us-wv-bc;us-wv-morgan;County;TRUE;17884;WV;
+Nicholas County;us-wv;us-wv-nicholas;County;TRUE;24496;WV;https://nicholashealthwv.com
+Ohio County;us-wv;us-wv-ohio;County;TRUE;41411;WV;http://www.ohiocountyhealth.com
+Pendleton County;us-wv;us-wv-pendleton;County;TRUE;6969;WV;http://www.pendletoncountyhealthdepartment.org/
+Pleasants County;us-wv-movhd;us-wv-pleasants;County;TRUE;7460;WV;
+Pocahontas County;us-wv;us-wv-pocahontas;County;TRUE;8247;WV;http://www.pocahontashealthdepartment.com/
+Preston County;us-wv;us-wv-preston;County;TRUE;33432;WV;http://www.prestoncountyhealthdepartment.com/
+Putnam County;us-wv;us-wv-putnam;County;TRUE;56450;WV;
+Raleigh County;us-wv;us-wv-raleigh;County;TRUE;73361;WV;https://beckleyraleighhealthdept.org/
+Randolph County;us-wv;us-wv-randolph;County;TRUE;28695;WV;https://www.randolphhealthwv.net
+Ritchie County;us-wv-movhd;us-wv-ritchie;County;TRUE;9554;WV;
+Roane County;us-wv-movhd;us-wv-roane;County;TRUE;13688;WV;
+Summers County;us-wv;us-wv-summers;County;TRUE;12573;WV;https://www.summerscountywv.gov/government/health-department
+Taylor County;us-wv;us-wv-taylor;County;TRUE;16695;WV;https://www.taylorcountyhdwv.gov
+Tucker County;us-wv;us-wv-tucker;County;TRUE;6839;WV;http://tuckerhealthwv.com/
+Tyler County;us-wv-wetzel-tyler;us-wv-tyler;County;TRUE;8591;WV;http://wetzeltylerhealthdepartment.com
+Upshur County;us-wv;us-wv-upshur;County;TRUE;24176;WV;https://dhhr.wv.gov/localhealth/Pages/Chris%20Clark.aspx?County=upshur
+Wayne County;us-wv;us-wv-wayne;County;TRUE;39402;WV;
+Webster County;us-wv;us-wv-webster;County;TRUE;8114;WV;
+Wetzel County;us-wv-wetzel-tyler;us-wv-wetzel;County;TRUE;15065;WV;
+Wirt County;us-wv-movhd;us-wv-wirt;County;TRUE;5821;WV;
+Wood County;us-wv-movhd;us-wv-wood;County;TRUE;83518;WV;
+Wyoming County;us-wv;us-wv-wyoming;County;TRUE;20394;WV;
+West Virginia;us;us-wv;State;TRUE;1792147;WV;
+All West Virginia;;us-wv-all;Summary;;;WV;
+Berkeley-Morgan County Board of Health;us-wv;us-wv-bc;Group;TRUE;137055;WV;http://www.bchealthdept.org
+All Berkeley-Morgan County Board of Health;;us-wv-bc-all;Summary;;;WV;
+Mid-Ohio Valley HD;us-wv;us-wv-movhd;Group;TRUE;127150;WV;http://www.movhd.com
+All Mid-Ohio Valley HD;;us-wv-movhd-all;Summary;;;WV;
+Wetzel-Tyler County HD;us-wv;us-wv-wetzel-tyler;Group;TRUE;23656;WV;
+All Wetzel-Tyler County HD;;us-wv-wetzel-tyler-all;Summary;;;WV;

@@ -1,0 +1,89 @@
+name;parent_id;community_id;category;pha;population_proper;state_id;pha_url
+Adams County;us-pa-scdo;us-pa-adams;County;TRUE;103009;PA;
+Armstrong County;us-pa-swdo;us-pa-armstrong;County;TRUE;64735;PA;
+Beaver County;us-pa-swdo;us-pa-beaver;County;TRUE;163929;PA;
+Bedford County;us-pa-scdo;us-pa-bedford;County;TRUE;47888;PA;
+Blair County;us-pa-scdo;us-pa-blair;County;TRUE;121829;PA;
+Bradford County;us-pa-ncdo;us-pa-bradford;County;TRUE;60323;PA;
+Cambria County;us-pa-swdo;us-pa-cambria;County;TRUE;130192;PA;
+Carbon County;us-pa-nedo;us-pa-carbon;County;TRUE;64182;PA;
+Centre County;us-pa-ncdo;us-pa-centre;County;TRUE;162385;PA;
+Clarion County;us-pa-nwdo;us-pa-clarion;County;TRUE;38438;PA;
+Clearfield County;us-pa-nwdo;us-pa-clearfield;County;TRUE;79255;PA;
+Clinton County;us-pa-ncdo;us-pa-clinton;County;TRUE;38632;PA;
+Columbia County;us-pa-ncdo;us-pa-columbia;County;TRUE;64964;PA;
+Crawford County;us-pa-nwdo;us-pa-crawford;County;TRUE;84629;PA;
+Cumberland County;us-pa-scdo;us-pa-cumberland;County;TRUE;253370;PA;
+Dauphin County;us-pa-scdo;us-pa-dauphin;County;TRUE;278299;PA;
+Elk County;us-pa-nwdo;us-pa-elk;County;TRUE;29910;PA;
+Fayette County;us-pa-swdo;us-pa-fayette;County;TRUE;129274;PA;
+Forest County;us-pa-nwdo;us-pa-forest;County;TRUE;7247;PA;
+Franklin County;us-pa-scdo;us-pa-franklin;County;TRUE;155027;PA;
+Fulton County;us-pa-scdo;us-pa-fulton;County;TRUE;14530;PA;
+Greene County;us-pa-swdo;us-pa-greene;County;TRUE;36233;PA;
+Huntingdon County;us-pa-scdo;us-pa-huntingdon;County;TRUE;45144;PA;
+Indiana County;us-pa-swdo;us-pa-indiana;County;TRUE;84073;PA;
+Jefferson County;us-pa-nwdo;us-pa-jefferson;County;TRUE;43425;PA;
+Juniata County;us-pa-scdo;us-pa-juniata;County;TRUE;24763;PA;
+Lackawanna County;us-pa-nedo;us-pa-lackawanna;County;TRUE;209674;PA;
+Lancaster County;us-pa-sedo;us-pa-lancaster;County;TRUE;545724;PA;
+Lawrence County;us-pa-nwdo;us-pa-lawrence;County;TRUE;85512;PA;
+Lebanon County;us-pa-scdo;us-pa-lebanon;County;TRUE;141793;PA;
+Lehigh County;us-pa-nedo;us-pa-lehigh;County;TRUE;369318;PA;
+Luzerne County;us-pa-nedo;us-pa-luzerne;County;TRUE;317417;PA;
+Lycoming County;us-pa-ncdo;us-pa-lycoming;County;TRUE;113299;PA;
+McKean County;us-pa-nwdo;us-pa-mckean;County;TRUE;40625;PA;
+Mercer County;us-pa-nwdo;us-pa-mercer;County;TRUE;109424;PA;
+Mifflin County;us-pa-scdo;us-pa-mifflin;County;TRUE;46138;PA;
+Monroe County;us-pa-nedo;us-pa-monroe;County;TRUE;170271;PA;
+Montour County;us-pa-ncdo;us-pa-montour;County;TRUE;18230;PA;
+Northampton County;us-pa-nedo;us-pa-northampton;County;TRUE;305285;PA;
+Northumberland County;us-pa-ncdo;us-pa-northumberland;County;TRUE;90843;PA;
+Perry County;us-pa-scdo;us-pa-perry;County;TRUE;46272;PA;
+Pike County;us-pa-nedo;us-pa-pike;County;TRUE;55809;PA;
+Potter County;us-pa-ncdo;us-pa-potter;County;TRUE;16526;PA;
+Schuylkill County;us-pa-sedo;us-pa-schuylkill;County;TRUE;141359;PA;
+Snyder County;us-pa-ncdo;us-pa-snyder;County;TRUE;40372;PA;
+Somerset County;us-pa-swdo;us-pa-somerset;County;TRUE;73447;PA;
+Susquehanna County;us-pa-nedo;us-pa-susquehanna;County;TRUE;40328;PA;
+Tioga County;us-pa-ncdo;us-pa-tioga;County;TRUE;40591;PA;
+Union County;us-pa-ncdo;us-pa-union;County;TRUE;44923;PA;
+Venango County;us-pa-nwdo;us-pa-venango;County;TRUE;50668;PA;
+Warren County;us-pa-nwdo;us-pa-warren;County;TRUE;39191;PA;
+Washington County;us-pa-swdo;us-pa-washington;County;TRUE;206865;PA;
+Wayne County;us-pa-nedo;us-pa-wayne;County;TRUE;51361;PA;
+Westmoreland County;us-pa-swdo;us-pa-westmoreland;County;TRUE;348899;PA;
+Wyoming County;us-pa-nedo;us-pa-wyoming;County;TRUE;26794;PA;
+York County;us-pa-scdo;us-pa-york;County;TRUE;449058;PA;
+Northeast District Office;us-pa;us-pa-nedo;Group;TRUE;1610439;PA;
+Northwest District Office;us-pa;us-pa-nwdo;Group;TRUE;612771;PA;
+Southcentral District Office;us-pa;us-pa-scdo;Group;TRUE;1727120;PA;
+Southeast District Offiice;us-pa;us-pa-sedo;Group;TRUE;1674994;PA;
+Allegheny County;us-pa;us-pa-allegheny;County;TRUE;1216045;PA;http://www.achd.net
+Bucks County;us-pa;us-pa-bucks;County;TRUE;628270;PA;https://www.buckscounty.gov/health
+Chester County;us-pa;us-pa-chester;County;TRUE;524989;PA;http://www.chesco.org/health
+Montgomery County;us-pa;us-pa-montgomery;County;TRUE;830915;PA;https://www.montcopa.org/513/Public-Health
+Allentown;us-pa;us-pa-allentown;City;TRUE;125292;PA;https://www.allentownpa.gov/en-us/Government/Departments/Community-Economic-Development/Health-Bureau
+Bethlehem;us-pa;us-pa-bethlehem;City;TRUE;76555;PA;https://www.bethlehem-pa.gov/Health-Bureau
+Harrisburg;us-pa;us-pa-harrisburg;City;TRUE;50055;PA;http://www.harrisburgpa.gov
+Philadelphia;us-pa;us-pa-philadelphia-city;City;TRUE;1593208;PA;http://www.phila.gov/health
+Wilkes-Barre;us-pa;us-pa-wilkes-barre;City;TRUE;44123;PA;https://www.wilkes-barre.city/health
+York;us-pa;us-pa-york-city;City;TRUE;44782;PA;http://www.yorkcity.org/health
+Springfield;us-pa;us-pa-springfield;Town;TRUE;24943;PA;https://www.springfielddelco.org/public-health/
+Northcentral District Office;us-pa;us-pa-ncdo;Group;TRUE;697154;PA;http://www.health.state.pa.us
+Southwest District Office;us-pa;us-pa-swdo;Group;TRUE;1425500;PA;http://www.health.state.pa.us
+Berks County;us-pa-sedo;us-pa-berks;County;TRUE;421164;PA;
+Butler County;us-pa-swdo;us-pa-butler;County;TRUE;187853;PA;
+Cameron County;us-pa-nwdo;us-pa-cameron;County;TRUE;4447;PA;
+Delaware County;us-pa-sedo;us-pa-delaware;County;TRUE;566747;PA;
+Erie County;us-pa;us-pa-erie;County;TRUE;269728;PA;
+Philadelphia County;us-pa;us-pa-philadelphia;County;TRUE;1584064;PA;
+Sullivan County;us-pa-ncdo;us-pa-sullivan;County;TRUE;6066;PA;
+Pennsylvania;us;us-pa;State;TRUE;12801989;PA;
+All Pennsylvania;;us-pa-all;Summary;;;PA;
+All Northcentral District Office;;us-pa-ncdo-all;Summary;;;PA;
+All Northeast District Office;;us-pa-nedo-all;Summary;;;PA;
+All Northwest District Office;;us-pa-nwdo-all;Summary;;;PA;
+All Southcentral District Office;;us-pa-scdo-all;Summary;;;PA;
+All Southeast District Offiice;;us-pa-sedo-all;Summary;;;PA;
+All Southwest District Office;;us-pa-swdo-all;Summary;;;PA;

@@ -1,0 +1,115 @@
+name;parent_id;community_id;category;pha;population_proper;state_id;pha_url
+Mower County;us-mn;us-mn-mower;County;TRUE;40062;MN;
+Red Lake County;us-mn-quin;us-mn-red-lake;County;TRUE;4055;MN;
+Winona County;us-mn;us-mn-winona;County;TRUE;50484;MN;
+Aitkin County;us-mn-northeastship;us-mn-aitkin;County;TRUE;15886;MN;https://www.co.aitkin.mn.us/departments/hhs/public-health/
+Anoka County;us-mn;us-mn-anoka;County;TRUE;356921;MN;https://www.anokacountymn.gov/522/Public-Health-and-Environmental-Services
+Becker County;us-mn;us-mn-becker;County;TRUE;34423;MN;https://www.co.becker.mn.us/dept/human_services/
+Beltrami County;us-mn;us-mn-beltrami;County;TRUE;47188;MN;https://www.co.beltrami.mn.us/departments/health-human-services/
+Blue Earth County;us-mn;us-mn-blue-earth;County;TRUE;67653;MN;https://www.blueearthcountymn.gov/263/Public-Health
+Brown County;us-mn-brown-nicollet;us-mn-brown;County;TRUE;25008;MN;http://www.co.brown.mn.us/public-health-home
+Carlton County;us-mn-northeastship;us-mn-carlton;County;TRUE;35871;MN;https://www.co.carlton.mn.us/277/Public-Health-Human-Services
+Carver County;us-mn;us-mn-carver;County;TRUE;105089;MN;https://www.carvercountymn.gov/departments/health-human-services/public-health
+Cass County;us-mn;us-mn-cass;County;TRUE;29779;MN;https://www.casscountymn.gov/1274/Public-Health-Services
+Chisago County;us-mn;us-mn-chisago;County;TRUE;56579;MN;https://www.chisagocountymn.gov/258/Public-Health
+Clay County;us-mn;us-mn-clay;County;TRUE;64222;MN;https://claycountymn.gov/462/Public-Health
+Clearwater County;us-mn-ncchb;us-mn-clearwater;County;TRUE;8818;MN;https://www.co.clearwater.mn.us/public-health
+Cook County;us-mn-northeastship;us-mn-cook;County;TRUE;5463;MN;https://www.co.cook.mn.us/government/departments/public_health_and_human_services/index.php
+Crow Wing County;us-mn;us-mn-crow-wing;County;TRUE;65055;MN;https://www.crowwing.us/
+Dakota County;us-mn;us-mn-dakota;County;TRUE;429021;MN;https://www.co.dakota.mn.us/HealthFamily/HealthServices
+Dodge County;us-mn;us-mn-dodge;County;TRUE;20934;MN;https://www.co.dodge.mn.us/departments/public_health.php
+Fillmore County;us-mn;us-mn-fillmore;County;TRUE;21067;MN;https://www.co.fillmore.mn.us/departments/community_services/public_health/index.php
+Freeborn County;us-mn;us-mn-freeborn;County;TRUE;30281;MN;https://www.co.freeborn.mn.us/139/Public-Health
+Goodhue County;us-mn;us-mn-goodhue;County;TRUE;46340;MN;http://www.co.goodhue.mn.us/HHS
+Hennepin County;us-mn;us-mn-hennepin;County;TRUE;1265843;MN;https://www.hennepin.us/publichealth
+Houston County;us-mn;us-mn-houston;County;TRUE;18600;MN;https://www.co.houston.mn.us/departments/public-health/
+Isanti County;us-mn;us-mn-isanti;County;TRUE;40596;MN;https://www.co.isanti.mn.us/323/Public-Health
+Itasca County;us-mn-northeastship;us-mn-itasca;County;TRUE;45130;MN;https://www.co.itasca.mn.us/232/Health-Human-Services
+Kanabec County;us-mn;us-mn-kanabec;County;TRUE;16337;MN;https://www.kanabeccounty.org/departments/public_health.php
+Kandiyohi County;us-mn;us-mn-kandiyohi;County;TRUE;43199;MN;https://hs.kcmn.us/public_health/index.php
+Kittson County;us-mn-quin;us-mn-kittson;County;TRUE;4298;MN;https://kittsonhc.org/
+Koochiching County;us-mn-northeastship;us-mn-koochiching;County;TRUE;12229;MN;https://www.co.koochiching.mn.us/161/Public-Health-Human-Services
+Le Sueur County;us-mn;us-mn-le-sueur;County;TRUE;28887;MN;https://www.lesueurcounty.gov/673/Public-Health
+McLeod County;us-mn-mms;us-mn-mcleod;County;TRUE;35893;MN;https://www.mcleodcountymn.gov/departments/health___human_services/index.php
+Meeker County;us-mn-mms;us-mn-meeker;County;TRUE;23222;MN;https://www.co.meeker.mn.us/239/Health-and-Human-Services
+Mille Lacs County;us-mn;us-mn-mille-lacs;County;TRUE;26277;MN;https://www.millelacs.mn.gov/1209/Community-Health
+Morrison County;us-mn-morrison-todd-wadena;us-mn-morrison;County;TRUE;33386;MN;https://www.co.morrison.mn.us/192/Public-Health
+Nicollet County;us-mn-brown-nicollet;us-mn-nicollet;County;TRUE;34274;MN;https://www.co.nicollet.mn.us/187/Health-Human-Services
+Nobles County;us-mn;us-mn-nobles;County;TRUE;21629;MN;http://www.noblesrockhealth.com
+Olmsted County;us-mn;us-mn-olmsted;County;TRUE;158293;MN;https://www.olmstedcounty.gov/government/county-departments/public-health-services
+Otter Tail County;us-mn;us-mn-otter-tail;County;TRUE;58746;MN;https://ottertailcountymn.us/department/public-health/
+Pine County;us-mn;us-mn-pine;County;TRUE;29579;MN;https://www.co.pine.mn.us/departments/health_and_human_services/index.php
+Polk County;us-mn;us-mn-polk;County;TRUE;31364;MN;http://www.co.polk.mn.us/191/Public-Health
+Ramsey County;us-mn;us-mn-ramsey;County;TRUE;550321;MN;https://www.ramseycounty.us/your-government/departments/health-and-wellness/public-health
+Renville County;us-mn;us-mn-renville;County;TRUE;14548;MN;https://www.renvillecountymn.gov/departments/public_health/index.php
+Rice County;us-mn;us-mn-rice;County;TRUE;66972;MN;https://www.ricecountymn.gov/256/Public-Health
+St. Louis County;us-mn-northeastship;us-mn-st-louis;County;TRUE;199070;MN;https://www.stlouiscountymn.gov/departments-a-z/public-health-human-services
+Scott County;us-mn;us-mn-scott;County;TRUE;149013;MN;https://www.scottcountymn.gov/336/Public-Health
+Sherburne County;us-mn;us-mn-sherburne;County;TRUE;97238;MN;https://www.co.sherburne.mn.us/1365/Health-Human-Services
+Sibley County;us-mn-mms;us-mn-sibley;County;TRUE;14865;MN;https://www.sibleycounty.gov/339/Public-Health
+Stearns County;us-mn;us-mn-stearns;County;TRUE;161075;MN;https://www.stearnscountymn.gov/1191/Public-Health
+Steele County;us-mn;us-mn-steele;County;TRUE;36649;MN;https://www.steelecountymn.gov/public_health/index.php
+Todd County;us-mn-morrison-todd-wadena;us-mn-todd;County;TRUE;24664;MN;https://www.co.todd.mn.us/divisions/health-human/
+Wabasha County;us-mn;us-mn-wabasha;County;TRUE;21627;MN;https://www.co.wabasha.mn.us/departments/public_health/index.php
+Wadena County;us-mn-morrison-todd-wadena;us-mn-wadena;County;TRUE;13682;MN;http://www.co.wadena.mn.us/212/Public-Health
+Waseca County;us-mn;us-mn-waseca;County;TRUE;18612;MN;https://www.wasecacounty.gov/130/Public-Health
+Washington County;us-mn;us-mn-washington;County;TRUE;262440;MN;https://www.washingtoncountymn.gov/471/Public-Health-and-Environment
+Watonwan County;us-mn;us-mn-watonwan;County;TRUE;10897;MN;https://www.co.watonwan.mn.us/163/Public-Health
+Wilkin County;us-mn;us-mn-wilkin;County;TRUE;6207;MN;https://wilkincounty.gov/publichealth
+Wright County;us-mn;us-mn-wright;County;TRUE;138377;MN;https://www.co.wright.mn.us/217/Health-Human-Services
+Bloomington;us-mn;us-mn-bloomington;City;TRUE;89244;MN;http://www.bloomingtonmn.gov/cs/public-health
+Edina;us-mn;us-mn-edina;City;TRUE;53037;MN;http://www.ci.edina.mn.us
+Minneapolis;us-mn;us-mn-minneapolis;City;TRUE;426877;MN;http://www.ci.minneapolis.mn.us/dhfs
+Brown-Nicollet Community Health Services;us-mn;us-mn-brown-nicollet;Group;TRUE;59282;MN;https://www.co.nicollet.mn.us/174/Brown-Nicollet-Environmental-Health
+Countryside Public Health;us-mn;us-mn-countryside;Group;TRUE;42389;MN;https://www.countrysidepublichealth.org/
+Des Moines Valley Health and Human Services;us-mn;us-mn-dvhhs;Group;TRUE;21042;MN;https://www.dvhhs.org/
+Human Services of Faribault and Martin County;us-mn;us-mn-fmchs;Group;TRUE;33336;MN;http://www.fmchs.com
+Horizon Public Health;us-mn;us-mn-horizon;Group;TRUE;68426;MN;http://horizonpublichealth.org
+Meeker-McLeod-Sibley Community Health Services Board;us-mn;us-mn-mms;Group;TRUE;73980;MN;https://mmspublichealth.org/
+Morrison-Todd-Wadena Community Health Board;us-mn;us-mn-morrison-todd-wadena;Group;TRUE;71732;MN;http://www.co.wadena.mn.us/212/Public-Health
+North Country Community Health Board;us-mn;us-mn-ncchb;Group;TRUE;34049;MN;http://www.ncchb.org/
+Norman/Mahnomen Public Health;us-mn;us-mn-norman-mahnomen;Group;TRUE;11902;MN;https://co.mahnomen.mn.us/index.asp?SEC=118F9B96-3C80-4532-9EA4-C19DBECD4702
+Quin County Community Health;us-mn;us-mn-quin;Group;TRUE;46973;MN;http://www.co.marshall.mn.us/departments/community_health_services/index.php
+Benton County;us-mn;us-mn-benton;County;TRUE;40889;MN;
+Big Stone County;us-mn-countryside;us-mn-big-stone;County;TRUE;4991;MN;
+Chippewa County;us-mn-countryside;us-mn-chippewa;County;TRUE;11800;MN;
+Cottonwood County;us-mn-dvhhs;us-mn-cottonwood;County;TRUE;11196;MN;
+Douglas County;us-mn-horizon;us-mn-douglas;County;TRUE;38141;MN;
+Faribault County;us-mn-fmchs;us-mn-faribault;County;TRUE;13653;MN;
+Grant County;us-mn-horizon;us-mn-grant;County;TRUE;5972;MN;
+Hubbard County;us-mn-ncchb;us-mn-hubbard;County;TRUE;21491;MN;
+Jackson County;us-mn-dvhhs;us-mn-jackson;County;TRUE;9846;MN;
+Lac qui Parle County;us-mn-countryside;us-mn-lac-qui-parle;County;TRUE;6623;MN;
+Lake County;us-mn-northeastship;us-mn-lake;County;TRUE;10641;MN;
+Lake of the Woods County;us-mn-ncchb;us-mn-lake-of-the-woods;County;TRUE;3740;MN;
+Lincoln County;us-mn;us-mn-lincoln;County;TRUE;5639;MN;
+Lyon County;us-mn;us-mn-lyon;County;TRUE;25474;MN;
+Mahnomen County;us-mn-norman-mahnomen;us-mn-mahnomen;County;TRUE;5527;MN;
+Marshall County;us-mn-quin;us-mn-marshall;County;TRUE;9336;MN;
+Martin County;us-mn-fmchs;us-mn-martin;County;TRUE;19683;MN;
+Murray County;us-mn;us-mn-murray;County;TRUE;8194;MN;
+Norman County;us-mn-norman-mahnomen;us-mn-norman;County;TRUE;6375;MN;
+Pennington County;us-mn-quin;us-mn-pennington;County;TRUE;14119;MN;
+Pipestone County;us-mn;us-mn-pipestone;County;TRUE;9126;MN;
+Pope County;us-mn-horizon;us-mn-pope;County;TRUE;11249;MN;
+Redwood County;us-mn;us-mn-redwood;County;TRUE;15170;MN;
+Rock County;us-mn;us-mn-rock;County;TRUE;9315;MN;
+Roseau County;us-mn-quin;us-mn-roseau;County;TRUE;15165;MN;
+Stevens County;us-mn-horizon;us-mn-stevens;County;TRUE;9805;MN;
+Swift County;us-mn-countryside;us-mn-swift;County;TRUE;9266;MN;
+Traverse County;us-mn-horizon;us-mn-traverse;County;TRUE;3259;MN;
+Yellow Medicine County;us-mn-countryside;us-mn-ym;County;TRUE;9709;MN;
+Minnesota;us;us-mn;State;TRUE;5639632;MN;
+All Minnesota;;us-mn-all;Summary;;;MN;
+All Brown-Nicollet Community Health Services;;us-mn-brown-nicollet-all;Summary;;;MN;
+All Countryside Public Health;;us-mn-countryside-all;Summary;;;MN;
+All Des Moines Valley Health and Human Services;;us-mn-dvhhs-all;Summary;;;MN;
+All Human Services of Faribault and Martin County;;us-mn-fmchs-all;Summary;;;MN;
+All Horizon Public Health;;us-mn-horizon-all;Summary;;;MN;
+All Meeker-McLeod-Sibley Community Health Services Board;;us-mn-mms-all;Summary;;;MN;
+All Morrison-Todd-Wadena Community Health Board;;us-mn-morrison-todd-wadena-all;Summary;;;MN;
+All North Country Community Health Board;;us-mn-ncchb-all;Summary;;;MN;
+All Norman/Mahnomen Public Health;;us-mn-norman-mahnomen-all;Summary;;;MN;
+The Northeast chapter of the Statewide Health Improvement Partnership (SHIP);us-mn;us-mn-northeastship;Group;TRUE;324290;MN;
+All The Northeast chapter of the Statewide Health Improvement Partnership (SHIP);;us-mn-northeastship-all;Summary;;;MN;
+All Quin County Community Health;;us-mn-quin-all;Summary;;;MN;

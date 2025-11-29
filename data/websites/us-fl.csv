@@ -1,0 +1,70 @@
+name;parent_id;community_id;category;pha;population_proper;state_id;pha_url
+Alachua County;us-fl;us-fl-alachua;County;TRUE;269043;FL;http://www.doh.state.fl.us/chdAlachua
+Baker County;us-fl;us-fl-baker;County;TRUE;29210;FL;http://baker.floridahealth.gov/index.html
+Bay County;us-fl;us-fl-bay;County;TRUE;174705;FL;http://Bay.FLHealth.gov
+Bradford County;us-fl;us-fl-bradford;County;TRUE;28201;FL;http://bradford.floridahealth.gov/
+Brevard County;us-fl;us-fl-brevard;County;TRUE;601942;FL;http://brevard.floridahealth.gov/
+Broward County;us-fl;us-fl-broward;County;TRUE;1952778;FL;http://broward.floridahealth.gov/
+Calhoun County;us-fl;us-fl-calhoun;County;TRUE;14105;FL;http://calhoun.floridahealth.gov/
+Charlotte County;us-fl;us-fl-charlotte;County;TRUE;188910;FL;http://charlotte.floridahealth.gov/
+Citrus County;us-fl;us-fl-citrus;County;TRUE;149657;FL;http://citrus.floridahealth.gov/
+Clay County;us-fl;us-fl-clay;County;TRUE;219252;FL;http://clay.floridahealth.gov
+Collier County;us-fl;us-fl-collier;County;TRUE;384902;FL;http://collier.floridahealth.gov/
+Columbia County;us-fl;us-fl-columbia;County;TRUE;71686;FL;http://columbia.floridahealth.gov
+DeSoto County;us-fl;us-fl-desoto;County;TRUE;38001;FL;http://desoto.floridahealth.gov
+Dixie County;us-fl;us-fl-dixie;County;TRUE;16826;FL;http://dixie.floridahealth.gov
+Duval County;us-fl;us-fl-duval;County;TRUE;957755;FL;http://duval.floridahealth.gov/index.html
+Escambia County;us-fl;us-fl-escambia;County;TRUE;318316;FL;http://www.EscambiaHealth.com
+Flagler County;us-fl;us-fl-flagler;County;TRUE;115081;FL;http://flagler.floridahealth.gov/
+Gadsden County;us-fl;us-fl-gadsden;County;TRUE;45660;FL;http://gadsden.floridahealth.gov/
+Gilchrist County;us-fl;us-fl-gilchrist;County;TRUE;18582;FL;http://gilchrist.floridahealth.gov
+Glades County;us-fl;us-fl-glades;County;TRUE;13811;FL;http://glades.floridahealth.gov/
+Gulf County;us-fl;us-fl-gulf;County;TRUE;13639;FL;http://gulf.floridahealth.gov/
+Hamilton County;us-fl;us-fl-hamilton;County;TRUE;14428;FL;http://hamilton.floridahealth.gov/
+Hardee County;us-fl;us-fl-hardee;County;TRUE;26937;FL;http://hardee.floridahealth.gov/
+Hendry County;us-fl;us-fl-hendry;County;TRUE;42022;FL;http://hendry.floridahealth.gov/
+Hernando County;us-fl;us-fl-hernando;County;TRUE;193920;FL;http://hernando.floridahealth.gov/
+Highlands County;us-fl;us-fl-highlands;County;TRUE;106221;FL;http://highlands.floridahealth.gov/
+Hillsborough County;us-fl;us-fl-hillsborough;County;TRUE;1471968;FL;http://hillsborough.floridahealth.gov/
+Holmes County;us-fl;us-fl-holmes;County;TRUE;19617;FL;http://holmes.floridahealth.gov/
+Indian River County;us-fl;us-fl-indian-river;County;TRUE;159923;FL;http://www.doh.state.fl.us/chdindianriver
+Jefferson County;us-fl;us-fl-jefferson;County;TRUE;14246;FL;http://jefferson.floridahealth.gov/
+Lafayette County;us-fl;us-fl-lafayette;County;TRUE;8422;FL;http://lafayette.floridahealth.gov/
+Lake County;us-fl;us-fl-lake;County;TRUE;367118;FL;http://lake.flhealth.gov
+Lee County;us-fl;us-fl-lee;County;TRUE;770577;FL;http://lee.floridahealth.gov
+Leon County;us-fl;us-fl-leon;County;TRUE;293582;FL;http://leon.floridahealth.gov/
+Levy County;us-fl;us-fl-levy;County;TRUE;41503;FL;http://levy.floridahealth.gov
+Liberty County;us-fl;us-fl-liberty;County;TRUE;8354;FL;http://liberty.floridahealth.gov/
+Madison County;us-fl;us-fl-madison;County;TRUE;18493;FL;http://madison.floridahealth.gov/
+Manatee County;us-fl;us-fl-manatee;County;TRUE;403253;FL;http://manatee.floridahealth.gov/
+Marion County;us-fl;us-fl-marion;County;TRUE;365579;FL;http://Marion.FloridaHealth.gov
+Martin County;us-fl;us-fl-martin;County;TRUE;161000;FL;http://martin.floridahealth.gov
+Miami-Dade County;us-fl;us-fl-miami-dade;County;TRUE;2716940;FL;http://miamidade.floridahealth.gov/
+Monroe County;us-fl;us-fl-monroe;County;TRUE;74228;FL;http://monroe.floridahealth.gov/
+Nassau County;us-fl;us-fl-nassau;County;TRUE;88625;FL;http://nassau.floridahealth.gov/
+Okaloosa County;us-fl;us-fl-okaloosa;County;TRUE;210738;FL;http://okaloosa.floridahealth.gov/
+Okeechobee County;us-fl;us-fl-okeechobee;County;TRUE;42168;FL;http://okeechobee.floridahealth.gov/
+Orange County;us-fl;us-fl-orange;County;TRUE;1393452;FL;http://orange.floridahealth.gov/
+Osceola County;us-fl;us-fl-osceola;County;TRUE;375751;FL;https://osceola.floridahealth.gov/
+Palm Beach County;us-fl;us-fl-palm-beach;County;TRUE;1496770;FL;https://palmbeach.floridahealth.gov/
+Pasco County;us-fl;us-fl-pasco;County;TRUE;553947;FL;http://pasco.floridahealth.gov/
+Pinellas County;us-fl;us-fl-pinellas;County;TRUE;974996;FL;http://www.pinellashealth.com
+Polk County;us-fl;us-fl-polk;County;TRUE;724777;FL;http://polk.floridahealth.gov/
+Putnam County;us-fl;us-fl-putnam;County;TRUE;74521;FL;http://Putnam.flhealth.gov
+St. Johns County;us-fl;us-fl-st-johns;County;TRUE;264672;FL;http://stjohns.floridahealth.gov/
+St. Lucie County;us-fl;us-fl-st-lucie;County;TRUE;328297;FL;http://www.stluciecountyhealth.com
+Santa Rosa County;us-fl;us-fl-santa-rosa;County;TRUE;184313;FL;http://santarosa.floridahealth.gov/
+Sarasota County;us-fl;us-fl-sarasota;County;TRUE;433742;FL;http://sarasota.floridahealth.gov/
+Seminole County;us-fl;us-fl-seminole;County;TRUE;471826;FL;http://seminole.floridahealth.gov/
+Suwannee County;us-fl;us-fl-suwannee;County;TRUE;44417;FL;http://suwannee.floridahealth.gov/
+Taylor County;us-fl;us-fl-taylor;County;TRUE;21569;FL;http://taylor.floridahealth.gov/
+Union County;us-fl;us-fl-union;County;TRUE;15237;FL;http://union.floridahealth.gov/
+Volusia County;us-fl;us-fl-volusia;County;TRUE;553284;FL;http://www.volusiahealth.org
+Wakulla County;us-fl;us-fl-wakulla;County;TRUE;33739;FL;http://wakulla.floridahealth.gov/
+Walton County;us-fl;us-fl-walton;County;TRUE;74071;FL;https://walton.floridahealth.gov/
+Franklin County;us-fl;us-fl-franklin;County;TRUE;12125;FL;
+Jackson County;us-fl;us-fl-jackson;County;TRUE;46414;FL;
+Sumter County;us-fl;us-fl-sumter;County;TRUE;132420;FL;
+Washington County;us-fl;us-fl-washington;County;TRUE;25473;FL;
+Florida;us;us-fl;State;TRUE;21477737;FL;
+All Florida;;us-fl-all;Summary;;;FL;

@@ -1,0 +1,61 @@
+name;parent_id;community_id;category;pha;population_proper;state_id;pha_url
+Golden Valley County;us-mt-central;us-mt-golden-valley;County;TRUE;821;MT;
+Musselshell County;us-mt-central;us-mt-musselshell;County;TRUE;4633;MT;
+Petroleum County;us-mt-central;us-mt-petroleum;County;TRUE;487;MT;
+Stillwater County;us-mt;us-mt-stillwater;County;TRUE;9642;MT;
+Wheatland County;us-mt-central;us-mt-wheatland;County;TRUE;2126;MT;
+Wibaux County;us-mt;us-mt-wibaux;County;TRUE;969;MT;
+Beaverhead County;us-mt;us-mt-beaverhead;County;TRUE;9453;MT;http://beaverheadcounty.org/departments/public-health/
+Big Horn County;us-mt;us-mt-big-horn;County;TRUE;13319;MT;http://bighorncountypublichealth.com
+Blaine County;us-mt;us-mt-blaine;County;TRUE;6681;MT;https://blainecounty-mt.gov/public-health/
+Broadwater County;us-mt;us-mt-broadwater;County;TRUE;6237;MT;https://www.broadwatercountymt.gov/departments/health/public_health/index.php
+Carbon County;us-mt;us-mt-carbon;County;TRUE;10725;MT;https://co.carbon.mt.us/departments/public-health/
+Carter County;us-mt;us-mt-carter;County;TRUE;1252;MT;https://cartercountymontana.squarespace.com/public-health
+Cascade County;us-mt;us-mt-cascade;County;TRUE;81366;MT;https://www.cascadecountymt.gov/174/City-County-Health-Department
+Chouteau County;us-mt;us-mt-chouteau;County;TRUE;5635;MT;http://www.chouteaucountyph.com/
+Daniels County;us-mt;us-mt-daniels;County;TRUE;1690;MT;https://dphhs.mt.gov/publichealth/cancer/regionalprograms/region11
+Deer Lodge County;us-mt;us-mt-deer-lodge;County;TRUE;9140;MT;https://adlc.us/departments/public-health/
+Fallon County;us-mt;us-mt-fallon;County;TRUE;2846;MT;https://www.falloncounty.net/?page_id=50
+Fergus County;us-mt;us-mt-fergus;County;TRUE;11050;MT;https://fergusmt.gov/health-department-family-planning
+Flathead County;us-mt;us-mt-flathead;County;TRUE;103806;MT;http://www.flatheadhealth.org
+Gallatin County;us-mt;us-mt-gallatin;County;TRUE;114434;MT;https://www.gallatinmt.gov/health-department
+Garfield County;us-mt;us-mt-garfield;County;TRUE;1258;MT;http://www.garfieldco.us/index.html
+Glacier County;us-mt;us-mt-glacier;County;TRUE;13753;MT;http://www.glaciercountygov.com/
+Granite County;us-mt;us-mt-granite;County;TRUE;3379;MT;https://www.granitecountymt.us/departments/public-health-office
+Hill County;us-mt;us-mt-hill;County;TRUE;16484;MT;https://hillcountyhealth.com/
+Lake County;us-mt;us-mt-lake;County;TRUE;30458;MT;https://www.lakemt.gov/242/Public-Health
+Lewis and Clark County;us-mt;us-mt-lc;County;TRUE;69432;MT;https://www.lccountymt.gov/Government/Public-Health
+Liberty County;us-mt;us-mt-liberty;County;TRUE;2337;MT;https://www.libertycountymt.gov/public-health
+McCone County;us-mt;us-mt-mccone;County;TRUE;1664;MT;http://mcconecountymt.com/public-health
+Meagher County;us-mt;us-mt-meagher;County;TRUE;1862;MT;https://meagherco.com/county-health-office
+Mineral County;us-mt;us-mt-mineral;County;TRUE;4397;MT;http://co.mineral.mt.us/departments/health-department/
+Missoula County;us-mt;us-mt-missoula;County;TRUE;119600;MT;https://www.missoulacounty.us/government/health/health-department
+Park County;us-mt;us-mt-park;County;TRUE;16606;MT;http://www.parkcounty.org/government-departments/health-department/
+Pondera County;us-mt;us-mt-pondera;County;TRUE;5911;MT;https://www.healthypondera.org/
+Powder River County;us-mt;us-mt-powder-river;County;TRUE;1682;MT;https://prco.mt.gov/Public-Health
+Prairie County;us-mt;us-mt-prairie;County;TRUE;1077;MT;http://prairiecounty.org/public_health
+Ravalli County;us-mt;us-mt-ravalli;County;TRUE;43806;MT;https://ravalli.us/207/Public-Health
+Richland County;us-mt;us-mt-richland;County;TRUE;10803;MT;http://www.richland.org
+Roosevelt County;us-mt;us-mt-roosevelt;County;TRUE;11004;MT;http://rooseveltcounty.org/health-department/
+Rosebud County;us-mt;us-mt-rosebud;County;TRUE;8937;MT;http://rosebudcountymt.gov/departments/public-health/
+Sanders County;us-mt;us-mt-sanders;County;TRUE;12113;MT;https://co.sanders.mt.us/departments/public-health/
+Sheridan County;us-mt;us-mt-sheridan;County;TRUE;3309;MT;https://www.healthysheridancountymt.org/
+Silver Bow County;us-mt;us-mt-silver-bow;County;TRUE;34915;MT;http://www.co.silverbow.mt.us/135/Health
+Sweet Grass County;us-mt;us-mt-sweet-grass;County;TRUE;3737;MT;https://pmcmt.org/services/public-health
+Teton County;us-mt;us-mt-teton;County;TRUE;6147;MT;https://tetoncomt.org/health-department/
+Toole County;us-mt;us-mt-toole;County;TRUE;4736;MT;https://toolecountymt.gov/department_health.html
+Treasure County;us-mt;us-mt-treasure;County;TRUE;696;MT;http://treasurecountyhealth.com/
+Valley County;us-mt;us-mt-valley;County;TRUE;7396;MT;http://www.valleycountymt.net/departments/health_department.php
+Montana;us;us-mt;State;TRUE;1068778;MT;https://centralmontanahealthdistrict.org/
+Custer County;us-mt;us-mt-custer;County;TRUE;11402;MT;
+Dawson County;us-mt;us-mt-dawson;County;TRUE;8613;MT;
+Jefferson County;us-mt;us-mt-jefferson;County;TRUE;12221;MT;
+Judith Basin County;us-mt-central;us-mt-judith-basin;County;TRUE;2007;MT;
+Lincoln County;us-mt;us-mt-lincoln;County;TRUE;19980;MT;
+Madison County;us-mt;us-mt-madison;County;TRUE;8600;MT;
+Phillips County;us-mt;us-mt-phillips;County;TRUE;3954;MT;
+Powell County;us-mt;us-mt-powell;County;TRUE;6890;MT;
+Yellowstone County;us-mt;us-mt-yellowstone;County;TRUE;161300;MT;
+All Montana;;us-mt-all;Summary;;;MT;
+Central Montana HD;us-mt;us-mt-central;Group;TRUE;10074;MT;
+All Central Montana HD;;us-mt-central-all;Summary;;;MT;

@@ -1,0 +1,6 @@
+name;parent_id;community_id;category;pha;population_proper;state_id;pha_url
+New Castle County;us-de;us-de-new-castle;County;TRUE;558753;DE;https://www.dhss.delaware.gov/dhss/dph/sections.html
+Kent County;us-de;us-de-kent;County;TRUE;180786;DE;
+Sussex County;us-de;us-de-sussex;County;TRUE;234225;DE;
+Delaware;us;us-de;State;TRUE;973764;DE;
+All Delaware;;us-de-all;Summary;;;DE;

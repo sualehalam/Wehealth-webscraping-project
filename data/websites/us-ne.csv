@@ -1,0 +1,130 @@
+name;parent_id;community_id;category;pha;population_proper;state_id;pha_url
+Dakota County;us-ne;us-ne-dakota;County;TRUE;20026;NE;http://dakotacountyne.org/
+Lancaster County;us-ne-lincoln-lancaster;us-ne-lancaster;County;TRUE;319090;NE;http://www.lincoln.ne.gov/health
+Red Willow County;us-ne-swnphd;us-ne-red-willow;County;TRUE;10724;NE;http://redwillowhealth.com/
+Scotts Bluff County;us-ne-pphd;us-ne-scotts-bluff;County;TRUE;35618;NE;http://www.scottsbluffcounty.org
+Three Rivers District Public HD;us-ne;us-ne-3rphd;Group;TRUE;78872;NE;http://www.3rphd.org
+Central District Health Department;us-ne;us-ne-cdhd;Group;TRUE;78432;NE;http://cdhd.ne.gov
+Elkhorn Logan Valley HD;us-ne;us-ne-elvphd;Group;TRUE;56324;NE;https://elvphd.ne.gov
+Four Corners HD;us-ne;us-ne-four-corners;Group;TRUE;44192;NE;http://fourcorners.ne.gov
+Loup Basin Public HD;us-ne;us-ne-lbphd;Group;TRUE;30618;NE;https://www.lbphd.ne.gov
+Northeast Nebraska Public HD;us-ne;us-ne-nnphd;Group;TRUE;36336;NE;http://www.nnphd.org
+Public Health Solutions District HD;us-ne;us-ne-phsneb;Group;TRUE;53248;NE;http://www.phsneb.org
+Panhandle Public HD;us-ne;us-ne-pphd;Group;TRUE;83585;NE;http://www.pphd.ne.gov
+Southeast District HD;us-ne;us-ne-sedhd;Group;TRUE;38533;NE;http://www.sedhd.org
+Sarpy/Cass HD;us-ne;us-ne-sharpy-cass;Group;TRUE;213444;NE;http://sarpycasshealthdepartment.org/
+South Heartland District HD;us-ne;us-ne-south-heartland;Group;TRUE;45201;NE;https://southheartlandhealth.ne.gov/
+Southwest Nebraska Public HD;us-ne;us-ne-swnphd;Group;TRUE;38253;NE;http://www.swhealth.ne.gov
+Two Rivers Public HD;us-ne;us-ne-trphd;Group;TRUE;97132;NE;http://www.trphd.ne.gov
+Adams County;us-ne-south-heartland;us-ne-adams;County;TRUE;31363;NE;
+Antelope County;us-ne-ncdhd;us-ne-antelope;County;TRUE;6298;NE;
+Arthur County;us-ne-wcdhd;us-ne-arthur;County;TRUE;463;NE;
+Banner County;us-ne-pphd;us-ne-banner;County;TRUE;745;NE;
+Blaine County;us-ne-lbphd;us-ne-blaine;County;TRUE;465;NE;
+Boone County;us-ne-ecdhd;us-ne-boone;County;TRUE;5192;NE;
+Box Butte County;us-ne-pphd;us-ne-box-butte;County;TRUE;10783;NE;
+Boyd County;us-ne-ncdhd;us-ne-boyd;County;TRUE;1919;NE;
+Brown County;us-ne-ncdhd;us-ne-brown;County;TRUE;2955;NE;
+Buffalo County;us-ne-trphd;us-ne-buffalo;County;TRUE;49659;NE;
+Burt County;us-ne-elvphd;us-ne-burt;County;TRUE;6459;NE;
+Butler County;us-ne-four-corners;us-ne-butler;County;TRUE;8016;NE;
+Cass County;us-ne-sharpy-cass;us-ne-cass;County;TRUE;26248;NE;
+Cedar County;us-ne-nnphd;us-ne-cedar;County;TRUE;8402;NE;
+Chase County;us-ne-swnphd;us-ne-chase;County;TRUE;3924;NE;
+Cherry County;us-ne-nnphd;us-ne-cherry;County;TRUE;5689;NE;
+Cheyenne County;us-ne-pphd;us-ne-cheyenne;County;TRUE;8910;NE;
+Clay County;us-ne-south-heartland;us-ne-clay;County;TRUE;6203;NE;
+Colfax County;us-ne-ecdhd;us-ne-colfax;County;TRUE;10709;NE;
+Cuming County;us-ne-elvphd;us-ne-cuming;County;TRUE;8846;NE;
+Custer County;us-ne-lbphd;us-ne-custer;County;TRUE;10777;NE;
+Dawes County;us-ne-pphd;us-ne-dawes;County;TRUE;8589;NE;
+Dawson County;us-ne-trphd;us-ne-dawson;County;TRUE;23595;NE;
+Deuel County;us-ne-pphd;us-ne-deuel;County;TRUE;1794;NE;
+Dixon County;us-ne-nnphd;us-ne-dixon;County;TRUE;5636;NE;
+Dodge County;us-ne-3rphd;us-ne-dodge;County;TRUE;36565;NE;
+Douglas County;us-ne;us-ne-douglas;County;TRUE;571327;NE;
+Dundy County;us-ne-swnphd;us-ne-dundy;County;TRUE;1693;NE;
+Fillmore County;us-ne-phsneb;us-ne-fillmore;County;TRUE;5462;NE;
+Franklin County;us-ne-trphd;us-ne-franklin;County;TRUE;2979;NE;
+Frontier County;us-ne-swnphd;us-ne-frontier;County;TRUE;2627;NE;
+Furnas County;us-ne-swnphd;us-ne-furnas;County;TRUE;4676;NE;
+Gage County;us-ne-phsneb;us-ne-gage;County;TRUE;21513;NE;
+Garden County;us-ne-pphd;us-ne-garden;County;TRUE;1837;NE;
+Garfield County;us-ne-lbphd;us-ne-garfield;County;TRUE;1969;NE;
+Gosper County;us-ne-trphd;us-ne-gosper;County;TRUE;1990;NE;
+Grant County;us-ne-pphd;us-ne-grant;County;TRUE;623;NE;
+Greeley County;us-ne-lbphd;us-ne-greeley;County;TRUE;2356;NE;
+Hall County;us-ne-cdhd;us-ne-hall;County;TRUE;61353;NE;
+Hamilton County;us-ne-cdhd;us-ne-hamilton;County;TRUE;9324;NE;
+Harlan County;us-ne-trphd;us-ne-harlan;County;TRUE;3380;NE;
+Hayes County;us-ne-swnphd;us-ne-hayes;County;TRUE;922;NE;
+Hitchcock County;us-ne-swnphd;us-ne-hitchcock;County;TRUE;2762;NE;
+Holt County;us-ne-ncdhd;us-ne-holt;County;TRUE;10067;NE;
+Hooker County;us-ne-wcdhd;us-ne-hooker;County;TRUE;682;NE;
+Howard County;us-ne-lbphd;us-ne-howard;County;TRUE;6445;NE;
+Jefferson County;us-ne-phsneb;us-ne-jefferson;County;TRUE;7046;NE;
+Johnson County;us-ne-sedhd;us-ne-johnson;County;TRUE;5071;NE;
+Kearney County;us-ne-trphd;us-ne-kearney;County;TRUE;6495;NE;
+Keith County;us-ne-swnphd;us-ne-keith;County;TRUE;8034;NE;
+Keya Paha County;us-ne-ncdhd;us-ne-keya-paha;County;TRUE;806;NE;
+Kimball County;us-ne-pphd;us-ne-kimball;County;TRUE;3632;NE;
+Knox County;us-ne-ncdhd;us-ne-knox;County;TRUE;8332;NE;
+Lincoln County;us-ne-wcdhd;us-ne-lincoln;County;TRUE;34914;NE;
+Logan County;us-ne-wcdhd;us-ne-logan;County;TRUE;748;NE;
+Loup County;us-ne-lbphd;us-ne-loup;County;TRUE;664;NE;
+McPherson County;us-ne-wcdhd;us-ne-mcpherson;County;TRUE;494;NE;
+Madison County;us-ne-elvphd;us-ne-madison;County;TRUE;35099;NE;
+Merrick County;us-ne-cdhd;us-ne-merrick;County;TRUE;7755;NE;
+Morrill County;us-ne-pphd;us-ne-morrill;County;TRUE;4642;NE;
+Nance County;us-ne-ecdhd;us-ne-nance;County;TRUE;3519;NE;
+Nemaha County;us-ne-sedhd;us-ne-nemaha;County;TRUE;6972;NE;
+Nuckolls County;us-ne-south-heartland;us-ne-nuckolls;County;TRUE;4148;NE;
+Otoe County;us-ne-sedhd;us-ne-otoe;County;TRUE;16012;NE;
+Pawnee County;us-ne-sedhd;us-ne-pawnee;County;TRUE;2613;NE;
+Perkins County;us-ne-swnphd;us-ne-perkins;County;TRUE;2891;NE;
+Phelps County;us-ne-trphd;us-ne-phelps;County;TRUE;9034;NE;
+Pierce County;us-ne-ncdhd;us-ne-pierce;County;TRUE;7148;NE;
+Platte County;us-ne-ecdhd;us-ne-platte;County;TRUE;33470;NE;
+Polk County;us-ne-four-corners;us-ne-polk;County;TRUE;5213;NE;
+Richardson County;us-ne-sedhd;us-ne-richardson;County;TRUE;7865;NE;
+Rock County;us-ne-ncdhd;us-ne-rock;County;TRUE;1357;NE;
+Saline County;us-ne-phsneb;us-ne-saline;County;TRUE;14224;NE;
+Sarpy County;us-ne-sharpy-cass;us-ne-sarpy;County;TRUE;187196;NE;
+Saunders County;us-ne-3rphd;us-ne-saunders;County;TRUE;21578;NE;
+Seward County;us-ne-four-corners;us-ne-seward;County;TRUE;17284;NE;
+Sheridan County;us-ne-pphd;us-ne-sheridan;County;TRUE;5246;NE;
+Sherman County;us-ne-lbphd;us-ne-sherman;County;TRUE;3001;NE;
+Sioux County;us-ne-pphd;us-ne-sioux;County;TRUE;1166;NE;
+Stanton County;us-ne-elvphd;us-ne-stanton;County;TRUE;5920;NE;
+Thayer County;us-ne-phsneb;us-ne-thayer;County;TRUE;5003;NE;
+Thomas County;us-ne-wcdhd;us-ne-thomas;County;TRUE;722;NE;
+Thurston County;us-ne-nnphd;us-ne-thurston;County;TRUE;7224;NE;
+Valley County;us-ne-lbphd;us-ne-valley;County;TRUE;4158;NE;
+Washington County;us-ne-3rphd;us-ne-washington;County;TRUE;20729;NE;
+Wayne County;us-ne-nnphd;us-ne-wayne;County;TRUE;9385;NE;
+Webster County;us-ne-south-heartland;us-ne-webster;County;TRUE;3487;NE;
+Wheeler County;us-ne-lbphd;us-ne-wheeler;County;TRUE;783;NE;
+York County;us-ne-four-corners;us-ne-york;County;TRUE;13679;NE;
+Nebraska;us;us-ne;State;TRUE;1934408;NE;
+All Three Rivers District Public HD;;us-ne-3rphd-all;Summary;;;NE;
+All Nebraska;;us-ne-all;Summary;;;NE;
+All Central District Health Department;;us-ne-cdhd-all;Summary;;;NE;
+East Central District HD;us-ne;us-ne-ecdhd;Group;TRUE;52890;NE;
+All East Central District HD;;us-ne-ecdhd-all;Summary;;;NE;
+All Elkhorn Logan Valley HD;;us-ne-elvphd-all;Summary;;;NE;
+All Four Corners HD;;us-ne-four-corners-all;Summary;;;NE;
+All Loup Basin Public HD;;us-ne-lbphd-all;Summary;;;NE;
+Lincoln-Lancaster County HD;us-ne;us-ne-lincoln-lancaster;Group;TRUE;319090;NE;
+All Lincoln-Lancaster County HD;;us-ne-lincoln-lancaster-all;Summary;;;NE;
+North Central District HD;us-ne;us-ne-ncdhd;Group;TRUE;38882;NE;
+All North Central District HD;;us-ne-ncdhd-all;Summary;;;NE;
+All Northeast Nebraska Public HD;;us-ne-nnphd-all;Summary;;;NE;
+All Public Health Solutions District HD;;us-ne-phsneb-all;Summary;;;NE;
+All Panhandle Public HD;;us-ne-pphd-all;Summary;;;NE;
+All Southeast District HD;;us-ne-sedhd-all;Summary;;;NE;
+All Sarpy/Cass HD;;us-ne-sharpy-cass-all;Summary;;;NE;
+All South Heartland District HD;;us-ne-south-heartland-all;Summary;;;NE;
+All Southwest Nebraska Public HD;;us-ne-swnphd-all;Summary;;;NE;
+All Two Rivers Public HD;;us-ne-trphd-all;Summary;;;NE;
+West Central District HD;us-ne;us-ne-wcdhd;Group;TRUE;38023;NE;
+All West Central District HD;;us-ne-wcdhd-all;Summary;;;NE;

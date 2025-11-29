@@ -1,0 +1,136 @@
+name;parent_id;community_id;category;pha;population_proper;state_id;pha_url
+Carroll County;us-nh;us-nh-carroll;County;TRUE;48910;NH;http://www.c3ph.org/
+Strafford County;us-nh;us-nh-strafford;County;TRUE;130633;NH;http://www.scphn.org/
+Sullivan County;us-nh;us-nh-sullivan;County;TRUE;43146;NH;https://www.sullivanhealth.org/
+Portsmouth;us-nh-sea-coast;us-nh-portsmouth;City;TRUE;22138;NH;https://www.cityofportsmouth.com/health
+Alexandria;us-nh-cnhhp;us-nh-alexandria;Town;TRUE;1911;NH;http://alexandrianh.com/departments/health-officer/
+Capital Area Public Health Network;us-nh;us-nh-capital-area;Group;TRUE;136130;NH;http://www.capitalareaphn.org/
+Central New Hampshire Public Health Network;us-nh;us-nh-cnhhp;Group;TRUE;30890;NH;https://www.cnhhp.org/
+Greater Sullivan County Public Health Network;us-nh;us-nh-greater-sullivan;Group;TRUE;45965;NH;https://gscphn.org/
+Greater Monadnock Public Health Network;us-nh;us-nh-monadnock;Group;TRUE;101004;NH;https://healthymonadnockalliance.org/
+Seacoast Public Health Network;us-nh;us-nh-sea-coast;Group;TRUE;148569;NH;https://www.seacoastphn.org/
+South Central New Hampshire Public Health Network;us-nh;us-nh-south-central;Group;TRUE;146152;NH;http://southcentralphn.org/
+The Public Health Council of the Upper Valley (PHC);us-nh;us-nh-uv;Group;TRUE;87063;NH;https://uvpublichealth.org/
+Belknap County;us-nh;us-nh-belknap;County;TRUE;61303;NH;
+Cheshire County;us-nh-monadnock;us-nh-cheshire;County;TRUE;76085;NH;
+Coos County;us-nh;us-nh-coos;County;TRUE;31563;NH;
+Grafton County;us-nh-cnhhp;us-nh-grafton;County;TRUE;89886;NH;
+Hillsborough County;us-nh;us-nh-hillsborough;County;TRUE;417025;NH;
+Merrimack County;us-nh;us-nh-merrimack;County;TRUE;151391;NH;
+Rockingham County;us-nh;us-nh-rockingham;County;TRUE;309769;NH;
+Ashland;us-nh-cnhhp;us-nh-ashland;Town;;2239;NH;
+Bradford;us-nh-capital-area;us-nh-bradford;Town;;1565;NH;
+Bristol;us-nh-cnhhp;us-nh-bristol;Town;;3255;NH;
+Canaan;us-nh-uv;us-nh-canaan;Town;;3796;NH;
+Charlestown;us-nh-greater-sullivan;us-nh-charlestown;Town;;4855;NH;
+Claremont;us-nh-greater-sullivan;us-nh-claremont;City;;13018;NH;
+Concord;us-nh-capital-area;us-nh-concord;City;;44049;NH;
+Derry;us-nh-south-central;us-nh-derry;Town;;34300;NH;
+Enfield;us-nh-uv;us-nh-enfield;Town;;4489;NH;
+Epping;us-nh-sea-coast;us-nh-epping;Town;;7180;NH;
+Hampton;us-nh-sea-coast;us-nh-hampton;Town;;16294;NH;
+Hancock;us-nh-monadnock;us-nh-hancock;Town;;1757;NH;
+Hanover;us-nh-uv;us-nh-hanover;Town;;11205;NH;
+Henniker;us-nh-capital-area;us-nh-henniker;Town;;6094;NH;
+Hillsborough;us-nh-capital-area;us-nh-hillsborough-town;Town;;5960;NH;
+Jaffrey;us-nh-monadnock;us-nh-jaffrey;Town;;5363;NH;
+Keene;us-nh-monadnock;us-nh-keene;City;;22907;NH;
+Lebanon;us-nh-uv;us-nh-lebanon;City;;14515;NH;
+Lincoln;us-nh-cnhhp;us-nh-lincoln;Town;;1474;NH;
+Londonderry;us-nh-south-central;us-nh-londonderry;Town;;25986;NH;
+Loudon;us-nh-capital-area;us-nh-loudon;Town;;5608;NH;
+Manchester;us-nh;us-nh-manchester;City;TRUE;115037;NH;
+Nashua;us-nh;us-nh-nashua;City;TRUE;90943;NH;
+Newfields;us-nh-sea-coast;us-nh-newfields;Town;;1985;NH;
+New London;us-nh-greater-sullivan;us-nh-new-london;Town;;4389;NH;
+Newmarket;us-nh-sea-coast;us-nh-newmarket;Town;;9400;NH;
+Newport;us-nh-greater-sullivan;us-nh-newport;Town;;6347;NH;
+Pittsfield;us-nh-capital-area;us-nh-pittsfield;Town;;4093;NH;
+Plainfield;us-nh-uv;us-nh-plainfield;Town;;2478;NH;
+Plymouth;us-nh-cnhhp;us-nh-plymouth;Town;;6599;NH;
+Raymond;us-nh-sea-coast;us-nh-raymond;Town;;10773;NH;
+Warner;us-nh-capital-area;us-nh-warner;Town;;2920;NH;
+Acworth;us-nh-greater-sullivan;us-nh-acworth;Town;;927;NH;
+Groton;us-nh-cnhhp;us-nh-groton;Town;;466;NH;
+Hampstead;us-nh-south-central;us-nh-hampstead;Town;;9018;NH;
+Hampton Falls;us-nh-sea-coast;us-nh-hampton-falls;Town;;2375;NH;
+Atkinson;us-nh-south-central;us-nh-atkinson;Town;;7154;NH;
+Hebron;us-nh-cnhhp;us-nh-hebron;Town;;855;NH;
+Holderness;us-nh-cnhhp;us-nh-holderness;Town;;2114;NH;
+Hopkinton;us-nh-capital-area;us-nh-hopkinton;Town;;5925;NH;
+Kensington;us-nh-sea-coast;us-nh-kensington;Town;;1979;NH;
+Kingston;us-nh-sea-coast;us-nh-kingston;Town;;6226;NH;
+Langdon;us-nh-greater-sullivan;us-nh-langdon;Town;;717;NH;
+Lempster;us-nh-greater-sullivan;us-nh-lempster;Town;;957;NH;
+Lyme;us-nh-uv;us-nh-lyme;Town;;1684;NH;
+New Castle;us-nh-sea-coast;us-nh-new-castle;Town;;904;NH;
+Newbury;us-nh-greater-sullivan;us-nh-newbury;Town;;1911;NH;
+Newton;us-nh-sea-coast;us-nh-newton;Town;;4808;NH;
+North Hampton;us-nh-sea-coast;us-nh-north-hampton;Town;;4526;NH;
+Northwood;us-nh-capital-area;us-nh-northwood;Town;;4632;NH;
+Nottingham;us-nh-sea-coast;us-nh-nottingham;Town;;5253;NH;
+Orange;us-nh-uv;us-nh-orange;Town;;368;NH;
+Orford;us-nh-uv;us-nh-orford;Town;;1313;NH;
+Pembroke;us-nh-capital-area;us-nh-pembroke;Town;;7299;NH;
+Piermont;us-nh-uv;us-nh-piermont;Town;;849;NH;
+Plaistow;us-nh-south-central;us-nh-plaistow;Town;;7843;NH;
+Rumney;us-nh-cnhhp;us-nh-rumney;Town;;1292;NH;
+Rye;us-nh-sea-coast;us-nh-rye;Town;;5552;NH;
+Salem;us-nh-south-central;us-nh-salem;Town;;30350;NH;
+Salisbury;us-nh-capital-area;us-nh-salisbury;Town;;1594;NH;
+Sandown;us-nh-south-central;us-nh-sandown;Town;;6536;NH;
+Seabrook;us-nh-sea-coast;us-nh-seabrook;Town;;8443;NH;
+South Hampton;us-nh-sea-coast;us-nh-south-hampton;Town;;977;NH;
+Springfield;us-nh-greater-sullivan;us-nh-springfield;Town;;939;NH;
+Stratham;us-nh-sea-coast;us-nh-stratham;Town;;7715;NH;
+Sunapee;us-nh-greater-sullivan;us-nh-sunapee;Town;;3377;NH;
+Sutton;us-nh-greater-sullivan;us-nh-sutton;Town;;2254;NH;
+Swanzey;us-nh-monadnock;us-nh-swanzey;Town;;7306;NH;
+Thornton;us-nh-cnhhp;us-nh-thornton;Town;;2715;NH;
+Unity;us-nh-greater-sullivan;us-nh-unity;Town;;1518;NH;
+Warren;us-nh-cnhhp;us-nh-warren;Town;;844;NH;
+Washington;us-nh-capital-area;us-nh-washington;Town;;1042;NH;
+Waterville Valley;us-nh-cnhhp;us-nh-waterville-valley;Town;;248;NH;
+Weare;us-nh-capital-area;us-nh-weare;Town;;9108;NH;
+Webster;us-nh-capital-area;us-nh-webster;Town;;2120;NH;
+Wentworth;us-nh-cnhhp;us-nh-wentworth;Town;;1083;NH;
+Westmoreland;us-nh-monadnock;us-nh-westmoreland;Town;;2042;NH;
+Wilmot;us-nh-greater-sullivan;us-nh-wilmot;Town;;1502;NH;
+Windham;us-nh-south-central;us-nh-windham;Town;;15764;NH;
+Windsor;us-nh-capital-area;us-nh-windsor;Town;;184;NH;
+Woodstock;us-nh-cnhhp;us-nh-woodstock;Town;;1251;NH;
+Boscawen;us-nh-capital-area;us-nh-boscawen;Town;;3992;NH;
+Bow;us-nh-capital-area;us-nh-bow;Town;;8235;NH;
+Brentwood;us-nh-sea-coast;us-nh-brentwood;Town;;4538;NH;
+Bridgewater;us-nh-cnhhp;us-nh-bridgewater;Town;;1109;NH;
+Campton;us-nh-cnhhp;us-nh-campton;Town;;3366;NH;
+Canterbury;us-nh-capital-area;us-nh-canterbury;Town;;2316;NH;
+Allenstown;us-nh-capital-area;us-nh-allenstown;Town;;4697;NH;
+Chester;us-nh-south-central;us-nh-chester;Town;;5237;NH;
+Chichester;us-nh-capital-area;us-nh-chichester;Town;;2691;NH;
+Cornish;us-nh-greater-sullivan;us-nh-cornish;Town;;1914;NH;
+Croydon;us-nh-greater-sullivan;us-nh-croydon;Town;;796;NH;
+Danville;us-nh-south-central;us-nh-danville;Town;;4465;NH;
+Deering;us-nh-capital-area;us-nh-deering;Town;;1792;NH;
+Dorchester;us-nh-uv;us-nh-dorchester;Town;;445;NH;
+Dunbarton;us-nh-capital-area;us-nh-dunbarton;Town;;3000;NH;
+East Kingston;us-nh-sea-coast;us-nh-east-kingston;Town;;2209;NH;
+Ellsworth;us-nh-cnhhp;us-nh-ellsworth;Town;;40;NH;
+Epsom;us-nh-capital-area;us-nh-epsom;Town;;4846;NH;
+Andover;us-nh-capital-area;us-nh-andover;Town;;2151;NH;
+Fitzwilliam;us-nh-monadnock;us-nh-fitzwilliam;Town;;2287;NH;
+Fremont;us-nh-sea-coast;us-nh-fremont;Town;;4738;NH;
+Gilsum;us-nh-monadnock;us-nh-gilsum;Town;;871;NH;
+Goshen;us-nh-greater-sullivan;us-nh-goshen;Town;;1077;NH;
+Grafton;us-nh-uv;us-nh-grafton-town;Town;;1200;NH;
+Grantham;us-nh-uv;us-nh-grantham;Town;;3394;NH;
+Greenland;us-nh-sea-coast;us-nh-greenland;Town;;4052;NH;
+New Hampshire;us;us-nh;State;TRUE;1359711;NH;
+All New Hampshire;;us-nh-all;Summary;;;NH;
+All Capital Area Public Health Network;;us-nh-capital-area-all;Summary;;;NH;
+All Central New Hampshire Public Health Network;;us-nh-cnhhp-all;Summary;;;NH;
+All Greater Sullivan County Public Health Network;;us-nh-greater-sullivan-all;Summary;;;NH;
+All Greater Monadnock Public Health Network;;us-nh-monadnock-all;Summary;;;NH;
+All Seacoast Public Health Network;;us-nh-sea-coast-all;Summary;;;NH;
+All South Central New Hampshire Public Health Network;;us-nh-south-central-all;Summary;;;NH;
+All The Public Health Council of the Upper Valley (PHC);;us-nh-uv-all;Summary;;;NH;

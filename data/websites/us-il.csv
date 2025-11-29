@@ -1,0 +1,122 @@
+name;parent_id;community_id;category;pha;population_proper;state_id;pha_url
+Bond County;us-il;us-il-bond;County;TRUE;16426;IL;http://www.bchd.us
+Boone County;us-il;us-il-boone;County;TRUE;53544;IL;http://www.boonehealth.org/
+Brown County;us-il;us-il-brown;County;TRUE;6578;IL;https://www.browncoil.org/public-health/
+Cass County;us-il;us-il-cass;County;TRUE;12147;IL;https://www.casscohealth.org
+Champaign County;us-il;us-il-champaign;County;TRUE;209689;IL;http://www.c-uphd.org
+Christian County;us-il;us-il-christian;County;TRUE;32304;IL;https://cchdil.org/
+Clark County;us-il;us-il-clark;County;TRUE;15441;IL;https://clarkhd.org
+Clinton County;us-il;us-il-clinton;County;TRUE;37562;IL;http://clintoncountyhealth.com
+Coles County;us-il;us-il-coles;County;TRUE;50621;IL;https://www.colesco.illinois.gov/cchd/
+Cook County;us-il;us-il-cook;County;TRUE;5150233;IL;https://www.cookcountypublichealth.org/
+Cumberland County;us-il;us-il-cumberland;County;TRUE;10766;IL;http://cumberlandhealth.org/index.php
+DuPage County;us-il;us-il-dupage;County;TRUE;922921;IL;http://www.dupagehealth.org
+Edgar County;us-il;us-il-edgar;County;TRUE;17161;IL;https://ecphd.org
+Ford County;us-il;us-il-ford;County;TRUE;12961;IL;http://www.fordcountyphd.org/
+Fulton County;us-il;us-il-fulton;County;TRUE;34340;IL;http://www.fultoncountyhealth.com
+Grundy County;us-il;us-il-grundy;County;TRUE;51054;IL;https://www.grundyco.org/health/
+Henderson County;us-il;us-il-henderson;County;TRUE;6646;IL;http://hendcohealth.com
+Henry County;us-il-henry-stark;us-il-henry;County;TRUE;48913;IL;https://www.mchenrycountyil.gov/departments/health-department
+Iroquois County;us-il;us-il-iroquois;County;TRUE;27114;IL;https://co.iroquois.il.us/offices/health-department
+Jefferson County;us-il;us-il-jefferson;County;TRUE;37684;IL;http://www.jeffersoncountyillinois.com/departments/health-department
+Jersey County;us-il;us-il-jersey;County;TRUE;21773;IL;http://www.jerseycountyhealth.org
+Jo Daviess County;us-il;us-il-jo-daviess;County;TRUE;21235;IL;http://www.jodaviesscountyil.gov/health
+Kane County;us-il;us-il-kane;County;TRUE;532403;IL;http://www.kanehealth.com
+Kankakee County;us-il;us-il-kankakee;County;TRUE;109862;IL;http://kankakeehealth.org
+Kendall County;us-il;us-il-kendall;County;TRUE;128990;IL;http://www.kendallhealth.org
+Knox County;us-il;us-il-knox;County;TRUE;49699;IL;http://www.knoxcountyhealth.org
+Lake County;us-il;us-il-lake;County;TRUE;696535;IL;https://www.lakecountyil.gov/148/Health-Department-Community-Health-Cente
+LaSalle County;us-il;us-il-lasalle;County;TRUE;108669;IL;https://www.lasallecountyil.gov/219/Health-Department
+Livingston County;us-il;us-il-livingston;County;TRUE;35648;IL;http://www.lchd.us
+Logan County;us-il;us-il-logan;County;TRUE;28618;IL;http://www.lcdph.org
+McDonough County;us-il;us-il-mcdonough;County;TRUE;29682;IL;http://www.mchdept.com
+McLean County;us-il;us-il-mclean;County;TRUE;171517;IL;http://health.mcleancountyil.gov
+Macoupin County;us-il;us-il-macoupin;County;TRUE;44926;IL;http://www.mcphd.net
+Mason County;us-il;us-il-mason;County;TRUE;13359;IL;https://www.masoncohealth.com
+Menard County;us-il;us-il-menard;County;TRUE;12196;IL;http://menardcountyil.com/departments/health-department/
+Mercer County;us-il;us-il-mercer;County;TRUE;15437;IL;https://www.mercercountyil.org/deparments/health.php
+Moultrie County;us-il;us-il-moultrie;County;TRUE;14501;IL;https://www.moultriehealth.org
+Ogle County;us-il;us-il-ogle;County;TRUE;50643;IL;https://www.oglecounty.org/departments/health_department/contact_us.php
+Peoria County;us-il;us-il-peoria;County;TRUE;179179;IL;https://www.pcchd.org/directory.aspx?EID=5
+Rock Island County;us-il;us-il-rock-island;County;TRUE;141879;IL;http://richd.org
+Sangamon County;us-il;us-il-sangamon;County;TRUE;194672;IL;http://www.scdph.org
+Schuyler County;us-il;us-il-schuyler;County;TRUE;6768;IL;https://www.facebook.com/schuylercountyhealthdepartment/
+Shelby County;us-il;us-il-shelby;County;TRUE;21634;IL;http://www.shelbyhealth.net
+Stark County;us-il-henry-stark;us-il-stark;County;TRUE;5342;IL;http://www.henrystarkhealth.com/
+Stephenson County;us-il;us-il-stephenson;County;TRUE;44498;IL;https://stephensoncountyil.gov/departments/health_department/index.php
+Tazewell County;us-il;us-il-tazewell;County;TRUE;131803;IL;http://www.tazewellhealth.org
+Vermilion County;us-il;us-il-vermilion;County;TRUE;75758;IL;http://www.vchd.org
+Wabash County;us-il;us-il-wabash;County;TRUE;11520;IL;http://www.wabashhealth.org
+Whiteside County;us-il;us-il-whiteside;County;TRUE;55175;IL;https://www.whitesidehealth.org
+Will County;us-il;us-il-will;County;TRUE;690743;IL;http://www.willcountyhealth.org
+Winnebago County;us-il;us-il-winnebago;County;TRUE;282572;IL;http://www.wchd.org
+Woodford County;us-il;us-il-woodford;County;TRUE;38459;IL;https://www.woodford-county.org/658/Health
+Berwyn;us-il;us-il-berwyn;City;TRUE;56556;IL;https://www.berwyn-il.gov/government/township
+Chicago;us-il;us-il-chicago;City;TRUE;2721914;IL;http://www.cityofchicago.org/health
+Evanston;us-il;us-il-evanston;City;TRUE;77181;IL;https://www.cityofevanston.org/government/departments/health-human-services
+Oak Park;us-il;us-il-oak-park;City;TRUE;53834;IL;https://www.oak-park.us/village-services/department-public-health
+Skokie;us-il;us-il-skokie;City;TRUE;67076;IL;https://www.skokie.org/158/Health
+Stickney;us-il;us-il-stickney;City;TRUE;7031;IL;http://stickneypublichealthdistrict.org
+Wilmette;us-il;us-il-wilmette;City;TRUE;27801;IL;https://www.wilmette.com/health-sanitation-services/
+Bureau, Putnam & Marshall County HD;us-il;us-il-bpmhd;Group;TRUE;49805;IL;https://www.bpmhd.org/
+DeWitt-Piatt Bi County HD;us-il;us-il-de-witt-piatt;Group;TRUE;31982;IL;https://www.dewittpiatthealth.com
+Franklin-Williamson Bi-County HD;us-il;us-il-franklin-williamson;Group;TRUE;105066;IL;http://bicountyhealth.org
+Southern Seven HD;us-il;us-il-southern7;Group;TRUE;61936;IL;http://www.southern7.org
+Adams County;us-il;us-il-adams;County;TRUE;65435;IL;
+Alexander County;us-il-southern7;us-il-alexander;County;TRUE;5761;IL;
+Bureau County;us-il-bpmhd;us-il-bureau;County;TRUE;32628;IL;
+Calhoun County;us-il;us-il-calhoun;County;TRUE;4739;IL;
+Carroll County;us-il;us-il-carroll;County;TRUE;14305;IL;
+Clay County;us-il;us-il-clay;County;TRUE;13184;IL;
+Crawford County;us-il;us-il-crawford;County;TRUE;18667;IL;
+DeKalb County;us-il;us-il-dekalb;County;TRUE;104897;IL;
+De Witt County;us-il-de-witt-piatt;us-il-de-witt;County;TRUE;15638;IL;
+Douglas County;us-il;us-il-douglas;County;TRUE;19465;IL;
+Edwards County;us-il;us-il-edwards;County;TRUE;6395;IL;
+Effingham County;us-il;us-il-effingham;County;TRUE;34008;IL;
+Fayette County;us-il;us-il-fayette;County;TRUE;21336;IL;
+Franklin County;us-il-franklin-williamson;us-il-franklin;County;TRUE;38469;IL;
+Gallatin County;us-il;us-il-gallatin;County;TRUE;4828;IL;
+Greene County;us-il;us-il-greene;County;TRUE;12969;IL;
+Hamilton County;us-il;us-il-hamilton;County;TRUE;8116;IL;
+Hancock County;us-il;us-il-hancock;County;TRUE;17708;IL;
+Hardin County;us-il-southern7;us-il-hardin;County;TRUE;3821;IL;
+Jackson County;us-il;us-il-jackson;County;TRUE;56750;IL;
+Jasper County;us-il;us-il-jasper;County;TRUE;9610;IL;
+Johnson County;us-il-southern7;us-il-johnson;County;TRUE;12417;IL;
+Lawrence County;us-il;us-il-lawrence;County;TRUE;15678;IL;
+Lee County;us-il;us-il-lee;County;TRUE;34096;IL;
+McHenry County;us-il;us-il-mchenry;County;TRUE;307774;IL;
+Macon County;us-il;us-il-macon;County;TRUE;104009;IL;
+Madison County;us-il;us-il-madison;County;TRUE;262966;IL;
+Marion County;us-il;us-il-marion;County;TRUE;37205;IL;
+Marshall County;us-il-bpmhd;us-il-marshall;County;TRUE;11438;IL;
+Massac County;us-il-southern7;us-il-massac;County;TRUE;13772;IL;
+Monroe County;us-il;us-il-monroe;County;TRUE;34637;IL;
+Montgomery County;us-il;us-il-montgomery;County;TRUE;28414;IL;
+Morgan County;us-il;us-il-morgan;County;TRUE;33658;IL;
+Perry County;us-il;us-il-perry;County;TRUE;20916;IL;
+Piatt County;us-il-de-witt-piatt;us-il-piatt;County;TRUE;16344;IL;
+Pike County;us-il;us-il-pike;County;TRUE;15561;IL;
+Pope County;us-il-southern7;us-il-pope;County;TRUE;4177;IL;
+Pulaski County;us-il-southern7;us-il-pulaski;County;TRUE;5335;IL;
+Putnam County;us-il-bpmhd;us-il-putnam;County;TRUE;5739;IL;
+Randolph County;us-il;us-il-randolph;County;TRUE;31782;IL;
+Richland County;us-il;us-il-richland;County;TRUE;15513;IL;
+St. Clair County;us-il;us-il-st-clair;County;TRUE;259686;IL;
+Saline County;us-il;us-il-saline;County;TRUE;23491;IL;
+Scott County;us-il;us-il-scott;County;TRUE;4951;IL;
+Union County;us-il-southern7;us-il-union;County;TRUE;16653;IL;
+Warren County;us-il;us-il-warren;County;TRUE;16844;IL;
+Washington County;us-il;us-il-washington;County;TRUE;13887;IL;
+Wayne County;us-il;us-il-wayne;County;TRUE;16215;IL;
+White County;us-il;us-il-white;County;TRUE;13537;IL;
+Williamson County;us-il-franklin-williamson;us-il-williamson;County;TRUE;66597;IL;
+Illinois;us;us-il;State;TRUE;12671821;IL;
+All Illinois;;us-il-all;Summary;;;IL;
+All Bureau, Putnam & Marshall County HD;;us-il-bpmhd-all;Summary;;;IL;
+All DeWitt-Piatt Bi County HD;;us-il-de-witt-piatt-all;Summary;;;IL;
+All Franklin-Williamson Bi-County HD;;us-il-franklin-williamson-all;Summary;;;IL;
+Henry & Stark County HD;us-il;us-il-henry-stark;Group;TRUE;54255;IL;
+All Henry & Stark County HD;;us-il-henry-stark-all;Summary;;;IL;
+All Southern Seven HD;;us-il-southern7-all;Summary;;;IL;

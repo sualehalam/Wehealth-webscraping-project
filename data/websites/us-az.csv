@@ -1,0 +1,27 @@
+name;parent_id;community_id;category;pha;population_proper;state_id;pha_url
+Apache County;us-az;us-az-apache;County;TRUE;71887;AZ;https://www.apachecountyaz.gov/Public-Health-Services
+Cochise County;us-az;us-az-cochise;County;TRUE;125922;AZ;https://www.cochise.az.gov/372/Health-Social-Services
+Coconino County;us-az;us-az-coconino;County;TRUE;143476;AZ;https://www.coconino.az.gov/2124/Health-and-Human-Services
+Gila County;us-az;us-az-gila;County;TRUE;54018;AZ;https://www.gilacountyaz.gov/government/health_and_emergency_services/health_services/index.php
+Graham County;us-az;us-az-graham;County;TRUE;38837;AZ;http://www.graham.az.gov
+Greenlee County;us-az;us-az-greenlee;County;TRUE;9498;AZ;https://greenlee.az.gov/ova_dep/health-and-county-services/
+La Paz County;us-az;us-az-la-paz;County;TRUE;21108;AZ;http://www.LPCHD.com
+Maricopa County;us-az;us-az-maricopa;County;TRUE;4485414;AZ;https://www.maricopa.gov/5302/Public-Health
+Mohave County;us-az;us-az-mohave;County;TRUE;212181;AZ;https://www.mohave.gov/ContentPage.aspx?id=127
+Navajo County;us-az;us-az-navajo;County;TRUE;110924;AZ;http://www.navajocountyaz.gov/Departments/Public-Health-Services
+Pima County;us-az;us-az-pima;County;TRUE;1047279;AZ;https://www.pima.gov/2620/Health-Community-Services
+Pinal County;us-az;us-az-pinal;County;TRUE;462789;AZ;http://www.pinal.gov/publichealth
+Santa Cruz County;us-az;us-az-santa-cruz;County;TRUE;46498;AZ;https://www.santacruzcountyaz.gov/148/Health-Services
+Yavapai County;us-az;us-az-yavapai;County;TRUE;235099;AZ;https://www.yavapaiaz.gov/Resident-Services/Health-Services/Community-Health-Services
+Yuma County;us-az;us-az-yuma;County;TRUE;213787;AZ;http://www.yumacountyaz.gov/government/health-district
+Arizona;us;us-az;State;TRUE;7278717;AZ;
+*PS 2023;us-az;us-az-ps-2023-test;County;;;AZ;
+All Arizona;;us-az-all;Summary;;;AZ;
+*QA Community;us-az;us-az-test;County;;;AZ;
+*QA Icons;us-az;us-az-icons-test;County;;;AZ;
+*QA Pima County;us-az;us-az-pima-test;County;;;AZ;
+Academy Village;us-az;us-az-academy-village;Senior Living;;;AZ;
+Arizona State University;us-az;us-az-asu;University;PRAWDA;;AZ;
+Fort Apache Indian Reservation;us-az;us-az-fair;Tribal Nation;;;AZ;
+Northern Arizona University;us-az;us-az-nau;University;PRAWDA;;AZ;
+University of Arizona;us-az;us-az-uoa;University;PRAWDA;;AZ;

@@ -1,0 +1,26 @@
+name;parent_id;community_id;category;pha;population_proper;state_id;pha_url
+Albany County;us-wy;us-wy-albany;County;TRUE;38880;WY;http://www.publichealthlaramie.org/
+Big Horn County;us-wy;us-wy-big-horn;County;TRUE;11790;WY;
+Campbell County;us-wy;us-wy-campbell;County;TRUE;46341;WY;
+Carbon County;us-wy;us-wy-carbon;County;TRUE;14800;WY;https://www.carboncountywy.gov/957/Public-Health
+Converse County;us-wy;us-wy-converse;County;TRUE;13822;WY;https://www.conversecountywy.gov/219/Public-Health
+Crook County;us-wy;us-wy-crook;County;TRUE;7584;WY;http://www.crookcounty.wy.gov/departments/public_health/index.php
+Fremont County;us-wy;us-wy-fremont;County;TRUE;39261;WY;https://fremontcountywy.org/government/departments/public_health/index.php
+Goshen County;us-wy;us-wy-goshen;County;TRUE;13211;WY;https://goshencounty.org/welcome-to-goshen-county-public-health/
+Hot Springs County;us-wy;us-wy-hot-springs;County;TRUE;4413;WY;https://www.hscounty.com/departments/public-health
+Johnson County;us-wy;us-wy-johnson;County;TRUE;8445;WY;
+Laramie County;us-wy;us-wy-laramie;County;TRUE;99500;WY;http://www.clcpublichealth.org/
+Lincoln County;us-wy;us-wy-lincoln;County;TRUE;19830;WY;
+Natrona County;us-wy;us-wy-natrona;County;TRUE;79858;WY;https://casperpublichealth.org/staff/
+Niobrara County;us-wy;us-wy-niobrara;County;TRUE;2356;WY;https://www.niobraracounty.org/_departments/_public_health/index.asp
+Park County;us-wy;us-wy-park;County;TRUE;29194;WY;
+Platte County;us-wy;us-wy-platte;County;TRUE;8393;WY;https://www.plattecountywyoming.com/departments/PublicHealth
+Sheridan County;us-wy;us-wy-sheridan;County;TRUE;30485;WY;
+Sublette County;us-wy;us-wy-sublette;County;TRUE;9831;WY;https://www.sublettecountywy.gov/179/Public-Health
+Sweetwater County;us-wy;us-wy-sweetwater;County;TRUE;42343;WY;https://www.sweet.wy.us/boards/district_board_of_health/county_health_officer.php
+Teton County;us-wy;us-wy-teton;County;TRUE;23464;WY;
+Uinta County;us-wy;us-wy-uinta;County;TRUE;20226;WY;http://www.uintacounty.com
+Washakie County;us-wy;us-wy-washakie;County;TRUE;7805;WY;https://www.washakiecounty.net/public-health
+Weston County;us-wy;us-wy-weston;County;TRUE;6927;WY;https://www.westongov.com/public-health/
+Wyoming;us;us-wy;State;TRUE;578759;WY;
+All Wyoming;;us-wy-all;Summary;;;WY;

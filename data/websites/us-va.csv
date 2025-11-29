@@ -1,0 +1,180 @@
+name;parent_id;community_id;category;pha;population_proper;state_id;pha_url
+Pittsylvania County;us-va-pittsylvania-dannville;us-va-pittsylvania;County;TRUE;60354;VA;https://www.vdh.virginia.gov/pittsylvania-danville/
+Accomack County;us-va-eastern-shore;us-va-accomack;County;TRUE;32316;VA;https://www.vdh.virginia.gov/eastern-shore/
+Alleghany County;us-va-alleghany-hd;us-va-alleghany;County;TRUE;14860;VA;http://www.vdh.state.va.us/LHD/Alleghany/Covington
+Amelia County;us-va-piedmont;us-va-amelia;County;TRUE;13145;VA;http://www.vdh.state.va.us/LHD/Piedmont/Amelia/index.htm
+Amherst County;us-va-central-virginia;us-va-amherst;County;TRUE;31605;VA;https://www.vdh.virginia.gov/central-virginia/
+Appomattox County;us-va-central-virginia;us-va-appomattox;County;TRUE;15911;VA;https://www.vdh.virginia.gov/central-virginia/
+Arlington County;us-va;us-va-arlington;County;TRUE;236842;VA;https://health.arlingtonva.us/public-health/
+Augusta County;us-va-central-shenandoah;us-va-augusta;County;TRUE;75558;VA;https://www.vdh.virginia.gov/central-shenandoah/
+Bath County;us-va-central-shenandoah;us-va-bath;County;TRUE;4147;VA;https://www.vdh.virginia.gov/central-shenandoah/contact-us/
+Bland County;us-va-mt-rogers;us-va-bland;County;TRUE;6280;VA;http://www.vdh.state.va.us/LHD/mtrogers/bland.htm
+Botetourt County;us-va-alleghany-hd;us-va-botetourt;County;TRUE;33419;VA;http://www.vdh.state.va.us/LHD/Alleghany/Botetourt
+Buchanan County;us-va-cumberland-plateau;us-va-buchanan;County;TRUE;21004;VA;https://www.vdh.virginia.gov/cumberland-plateau/
+Buckingham County;us-va-piedmont;us-va-buckingham;County;TRUE;17148;VA;http://www.vdh.state.va.us/LHD/Piedmont/Buckingham/index.htm
+Albemarle County;us-va-blue-ridge;us-va-albemarle;County;TRUE;109330;VA;
+Bedford County;us-va-central-virginia;us-va-bedford;County;TRUE;78997;VA;
+Brunswick County;us-va-south;us-va-brunswick;County;TRUE;16231;VA;
+Charles City County;us-va-chickahominy;us-va-charles-city;County;TRUE;6963;VA;https://www.vdh.virginia.gov/chickahominy/charles-city/
+Charlotte County;us-va-piedmont;us-va-charlotte;County;TRUE;11880;VA;http://www.vdh.state.va.us/LHD/Piedmont/Charlotte/index.htm
+Chesterfield County;us-va;us-va-chesterfield;County;TRUE;352802;VA;https://www.vdh.virginia.gov/chesterfield/
+Campbell County;us-va-central-virginia;us-va-campbell;County;TRUE;54885;VA;
+Caroline County;us-va-rappahannock-hd;us-va-caroline;County;TRUE;30725;VA;
+Culpeper County;us-va-rappahannock-rapidan;us-va-culpeper;County;TRUE;52605;VA;http://www.vdh.state.va.us/LHD/RappahannockRapidan/culpeper.htm
+Carroll County;us-va-mt-rogers;us-va-carroll;County;TRUE;29791;VA;
+Dickenson County;us-va-cumberland-plateau;us-va-dickenson;County;TRUE;14318;VA;https://dickensonva.org/117/Service-Offices
+Dinwiddie County;us-va-crater;us-va-dinwiddie;County;TRUE;28544;VA;https://www.dinwiddieva.us/485/Health-Department
+Essex County;us-va-three-rivers;us-va-essex;County;TRUE;10953;VA;https://www.vdh.virginia.gov/three-rivers/health-departments/
+Fairfax County;us-va;us-va-fairfax;County;TRUE;1147532;VA;http://www.fairfaxcounty.gov/health
+Fauquier County;us-va-rappahannock-rapidan;us-va-fauquier;County;TRUE;71222;VA;https://www.fauquiercounty.gov/government/departments-h-z/health-department
+Clarke County;us-va-lord-fairfax;us-va-clarke;County;TRUE;14619;VA;
+Fluvanna County;us-va-blue-ridge;us-va-fluvanna;County;TRUE;27270;VA;https://www.fluvannacounty.org/administration/page/covid-19-information
+Craig County;us-va-alleghany-hd;us-va-craig;County;TRUE;5131;VA;
+Frederick County;us-va-lord-fairfax;us-va-frederick;County;TRUE;89313;VA;https://www.vdh.virginia.gov/lord-fairfax/
+Cumberland County;us-va-piedmont;us-va-cumberland;County;TRUE;9932;VA;
+Gloucester County;us-va-three-rivers;us-va-gloucester;County;TRUE;37348;VA;https://www.vdh.virginia.gov/three-rivers/
+Goochland County;us-va-chickahominy;us-va-goochland;County;TRUE;23753;VA;https://www.vdh.virginia.gov/chickahominy/goochland/
+Floyd County;us-va-new-river;us-va-floyd;County;TRUE;15749;VA;
+Franklin County;us-va-west-piedmont;us-va-franklin;County;TRUE;56042;VA;
+Greensville County;us-va-crater;us-va-greensville;County;TRUE;11336;VA;https://www.greensvillecountyva.gov/discover_greensville/healthcare.php
+Giles County;us-va-new-river;us-va-giles;County;TRUE;16720;VA;
+Hanover County;us-va-chickahominy;us-va-hanover;County;TRUE;107766;VA;https://www.hanovercounty.gov/314/Health-Department
+Henrico County;us-va;us-va-henrico;County;TRUE;330818;VA;https://henrico.us/health/
+Grayson County;us-va-mt-rogers;us-va-grayson;County;TRUE;15550;VA;
+Greene County;us-va-blue-ridge;us-va-greene;County;TRUE;19819;VA;
+Isle of Wight County;us-va-west-tide;us-va-isle-of-wight;County;TRUE;37109;VA;https://www.vdh.virginia.gov/western-tidewater/
+Halifax County;us-va-south;us-va-halifax;County;TRUE;33911;VA;
+King and Queen County;us-va-three-rivers;us-va-king-and-queen;County;TRUE;7025;VA;https://www.vdh.virginia.gov/environmental-health/shellfish-closure-and-shoreline-survey-documents/king-and-queen-county/
+King George County;us-va-rappahannock-hd;us-va-king-george;County;TRUE;26836;VA;http://www.vdh.state.va.us/LHD/rappahan/kinggeorge.htm
+King William County;us-va-three-rivers;us-va-king-william;County;TRUE;17148;VA;https://www.kwc.gov/229/Health-Department
+Lancaster County;us-va-three-rivers;us-va-lancaster;County;TRUE;10603;VA;https://www.vdh.virginia.gov/environmental-health/shellfish-closure-and-shoreline-survey-documents/lancaster-county/
+Henry County;us-va-west-piedmont;us-va-henry;County;TRUE;50557;VA;
+Loudoun County;us-va;us-va-loudoun;County;TRUE;413538;VA;http://www.loudoun.gov/health
+Louisa County;us-va-blue-ridge;us-va-louisa;County;TRUE;37591;VA;https://www.louisacounty.gov/BusinessDirectoryII.aspx?BID=309
+Lunenburg County;us-va-piedmont;us-va-lunenburg;County;TRUE;12196;VA;http://www.vdh.state.va.us/LHD/Piedmont/Lunenburg/index.htm
+Highland County;us-va-central-shenandoah;us-va-highland;County;TRUE;2190;VA;
+Mathews County;us-va-three-rivers;us-va-mathews;County;TRUE;8834;VA;https://www.mathewscountyva.gov/191/Health-Welfare-Services
+James City County;us-va-penisula;us-va-james-city;County;TRUE;76523;VA;
+Middlesex County;us-va-three-rivers;us-va-middlesex;County;TRUE;10582;VA;https://www.co.middlesex.va.us/310/Health-Welfare
+Lee County;us-va-lenowisco;us-va-lee;County;TRUE;23423;VA;
+Nelson County;us-va-blue-ridge;us-va-nelson;County;TRUE;14930;VA;https://www.nelsoncounty-va.gov/departments-offices/health-department/
+New Kent County;us-va-chickahominy;us-va-new-kent;County;TRUE;23091;VA;https://www.vdh.virginia.gov/chickahominy/new-kent/
+Madison County;us-va-rappahannock-rapidan;us-va-madison;County;TRUE;13261;VA;
+Northumberland County;us-va-three-rivers;us-va-northumberland;County;TRUE;12095;VA;https://www.vdh.virginia.gov/three-rivers/
+Nottoway County;us-va-piedmont;us-va-nottoway;County;TRUE;15232;VA;http://www.vdh.state.va.us/LHD/Piedmont/Nottoway/index.htm
+Mecklenburg County;us-va-south;us-va-mecklenburg;County;TRUE;30587;VA;
+Page County;us-va-lord-fairfax;us-va-page;County;TRUE;23902;VA;https://www.vdh.virginia.gov/lord-fairfax/
+Patrick County;us-va-west-piedmont;us-va-patrick;County;TRUE;17608;VA;https://www.vdh.virginia.gov/west-piedmont/
+Montgomery County;us-va-new-river;us-va-montgomery;County;TRUE;98535;VA;
+Powhatan County;us-va;us-va-powhatan;County;TRUE;29652;VA;https://www.vdh.virginia.gov/chesterfield/powhatan-health-department/
+Prince Edward County;us-va-piedmont;us-va-prince-edward;County;TRUE;22802;VA;http://www.vdh.state.va.us/LHD/Piedmont/Prince%5FEdward
+Prince George County;us-va-crater;us-va-prince-george;County;TRUE;38353;VA;https://www.princegeorgecountyva.gov/residents/prince_george_health_department/index.php
+Northampton County;us-va-eastern-shore;us-va-northampton;County;TRUE;11710;VA;
+Orange County;us-va-rappahannock-rapidan;us-va-orange;County;TRUE;37051;VA;
+Rappahannock County;us-va-rappahannock-rapidan;us-va-rappahannock;County;TRUE;7370;VA;https://www.vdh.virginia.gov/rappahannock-rapidan/
+Prince William County;us-va;us-va-prince-william;County;TRUE;470335;VA;
+Roanoke County;us-va;us-va-roanoke;County;TRUE;94186;VA;http://www.vdh.state.va.us/LHD/Alleghany/Salem
+Pulaski County;us-va-new-river;us-va-pulaski;County;TRUE;34027;VA;
+Richmond County;us-va-three-rivers;us-va-richmond;County;TRUE;9023;VA;
+Rockbridge County;us-va-central-shenandoah;us-va-rockbridge;County;TRUE;22573;VA;
+Rockingham County;us-va-central-shenandoah;us-va-rockingham;County;TRUE;81948;VA;
+Shenandoah County;us-va-lord-fairfax;us-va-shenandoah;County;TRUE;43616;VA;https://www.vdh.virginia.gov/lord-fairfax/
+Smyth County;us-va-mt-rogers;us-va-smyth;County;TRUE;30104;VA;http://www.vdh.state.va.us/LHD/mtrogers/smyth.htm
+Southampton County;us-va-west-tide;us-va-southampton;County;TRUE;17631;VA;https://www.vdh.virginia.gov/western-tidewater/
+Spotsylvania County;us-va-rappahannock-hd;us-va-spotsylvania;County;TRUE;136215;VA;http://www.vdh.state.va.us/LHD/rappahan/Spotsy.htm
+Russell County;us-va-cumberland-plateau;us-va-russell;County;TRUE;26586;VA;
+Surry County;us-va-crater;us-va-surry;County;TRUE;6422;VA;https://www.vdh.virginia.gov/crater/surry-clinic/
+Sussex County;us-va-crater;us-va-sussex;County;TRUE;11159;VA;https://www.sussexcountyva.gov/departments/health-department/
+Scott County;us-va-lenowisco;us-va-scott;County;TRUE;21566;VA;
+Stafford County;us-va-rappahannock-hd;us-va-stafford;County;TRUE;152882;VA;
+Tazewell County;us-va-cumberland-plateau;us-va-tazewell;County;TRUE;40595;VA;
+Westmoreland County;us-va-three-rivers;us-va-westmoreland;County;TRUE;18015;VA;https://gettested.cdc.gov/organizations/virginia-department-health-8
+Warren County;us-va-lord-fairfax;us-va-warren;County;TRUE;40164;VA;
+Wythe County;us-va-mt-rogers;us-va-wythe;County;TRUE;28684;VA;http://www.vdh.state.va.us/LHD/mtrogers/wythe.htm
+York County;us-va-penisula;us-va-york;County;TRUE;68280;VA;https://www.vdh.virginia.gov/hampton-peninsula/locations-services/
+Clifton Forge;us-va;us-va-clifton-forge;City;TRUE;3541;VA;http://www.vdh.state.va.us/LHD/Alleghany/CliftonForge
+Vinton;us-va;us-va-vinton;City;TRUE;8045;VA;https://www.co.rockbridge.va.us/101/Services
+Virginia;us;us-va;State;TRUE;8535519;VA;https://www.vdh.virginia.gov/central-virginia/
+Alexandria City;us-va;us-va-alexandria-city;County;TRUE;159428;VA;http://alexandriava.gov/Health
+Washington County;us-va-mt-rogers;us-va-washington;County;TRUE;53740;VA;
+Alleghany HD;us-va;us-va-alleghany-hd;Group;TRUE;183392;VA;http://www.vdh.state.va.us/LHD/Alleghany
+Wise County;us-va-lenowisco;us-va-wise;County;TRUE;37383;VA;
+Blue Ridge HD;us-va;us-va-blue-ridge;Group;TRUE;256206;VA;https://www.vdh.virginia.gov/blue-ridge/
+All Virginia;;us-va-all;Summary;;;VA;
+Bristol City;us-va-mt-rogers;us-va-bristol-city;County;TRUE;16762;VA;http://www.vdh.state.va.us/LHD/mtrogers/bristol.htm
+Buena Vista City;us-va-central-shenandoah;us-va-buena-vista-city;County;TRUE;6478;VA;https://www.vdh.virginia.gov/central-shenandoah/
+Central Shenandoah HD;us-va;us-va-central-shenandoah;Group;TRUE;300918;VA;http://www.vdh.virginia.gov/LHD/CentralShenandoah
+All Alleghany HD;;us-va-alleghany-hd-all;Summary;;;VA;
+All Blue Ridge HD;;us-va-blue-ridge-all;Summary;;;VA;
+All Central Shenandoah HD;;us-va-central-shenandoah-all;Summary;;;VA;
+Charlottesville City;us-va-blue-ridge;us-va-charlottesville-city;County;TRUE;47266;VA;http://www.vdh.state.va.us/LHD/ThomasJefferson/Charlottesville
+Chesapeake City;us-va;us-va-chesapeake-city;County;TRUE;244835;VA;https://www.vdh.virginia.gov/chesapeake/
+Chickahominy HD;us-va;us-va-chickahominy;Group;TRUE;161573;VA;https://www.vdh.virginia.gov/chickahominy/
+Central Virginia HD;us-va;us-va-central-virginia;Group;TRUE;263566;VA;
+Colonial Heights City;us-va;us-va-colonial-heights-city;County;TRUE;17370;VA;https://www.vdh.virginia.gov/chesterfield/colonial-heights-health-department/
+All Central Virginia HD;;us-va-central-virginia-all;Summary;;;VA;
+Crater HD;us-va;us-va-crater;Group;TRUE;155035;VA;https://www.vdh.virginia.gov/crater/
+All Chickahominy HD;;us-va-chickahominy-all;Summary;;;VA;
+Cumberland Plateau HD;us-va;us-va-cumberland-plateau;Group;TRUE;102503;VA;https://www.vdh.virginia.gov/cumberland-plateau/
+Covington City;us-va-alleghany-hd;us-va-covington-city;County;TRUE;5538;VA;
+Danville City;us-va-pittsylvania-dannville;us-va-danville-city;County;TRUE;40044;VA;https://www.vdh.virginia.gov/pittsylvania-danville/
+Eastern Shore HD;us-va;us-va-eastern-shore;Group;TRUE;44026;VA;https://www.vdh.virginia.gov/eastern-shore/
+All Crater HD;;us-va-crater-all;Summary;;;VA;
+All Cumberland Plateau HD;;us-va-cumberland-plateau-all;Summary;;;VA;
+All Eastern Shore HD;;us-va-eastern-shore-all;Summary;;;VA;
+Emporia City;us-va-crater;us-va-emporia-city;County;TRUE;5346;VA;
+Franklin City;us-va-west-tide;us-va-franklin-city;County;TRUE;7967;VA;https://www.vdh.virginia.gov/western-tidewater/
+Fredericksburg City;us-va-rappahannock-hd;us-va-fredericksburg-city;County;TRUE;29036;VA;http://www.vdh.state.va.us/LHD/rappahan/fredericksburg.htm
+Galax City;us-va-mt-rogers;us-va-galax-city;County;TRUE;6347;VA;http://www.vdh.state.va.us/LHD/mtrogers/galax.htm
+Hampton City;us-va;us-va-hampton-city;County;TRUE;134510;VA;https://www.vdh.virginia.gov/hampton-peninsula/
+Harrisonburg City;us-va-central-shenandoah;us-va-harrisonburg-city;County;TRUE;53016;VA;https://www.vdh.virginia.gov/west-piedmont/
+Hopewell City;us-va-crater;us-va-hopewell-city;County;TRUE;22529;VA;https://www.vdh.virginia.gov/crater/hopewell-clinic/
+Lenowisco HD;us-va;us-va-lenowisco;Group;TRUE;86353;VA;http://www.vdh.virginia.gov/LHD/lenowisco
+Fairfax City;us-va;us-va-fairfax-city;County;TRUE;24019;VA;
+Falls Church City;us-va;us-va-falls-church-city;County;TRUE;14617;VA;
+Lord Fairfax HD;us-va;us-va-lord-fairfax;Group;TRUE;211614;VA;https://www.vdh.virginia.gov/lord-fairfax/
+All Lenowisco HD;;us-va-lenowisco-all;Summary;;;VA;
+Lynchburg City;us-va-central-virginia;us-va-lynchburg-city;County;TRUE;82168;VA;https://www.vdh.virginia.gov/central-virginia/
+Lexington City;us-va-central-shenandoah;us-va-lexington-city;County;TRUE;7446;VA;
+All Lord Fairfax HD;;us-va-lord-fairfax-all;Summary;;;VA;
+Martinsville City;us-va-west-piedmont;us-va-martinsville-city;County;TRUE;12554;VA;https://www.vdh.virginia.gov/west-piedmont/
+Mount Rogers HD;us-va;us-va-mt-rogers;Group;TRUE;187258;VA;http://www.vdh.state.va.us/LHD/mtrogers/index.htm
+Manassas City;us-va;us-va-manassas-city;County;TRUE;41085;VA;
+New River HD;us-va;us-va-new-river;Group;TRUE;183280;VA;https://www.vdh.virginia.gov/new-river/
+Manassas Park City;us-va;us-va-manassas-park-city;County;TRUE;17478;VA;
+Newport News City;us-va-penisula;us-va-newport-news-city;County;TRUE;179225;VA;https://www.vdh.virginia.gov/hampton-peninsula/
+Norfolk City;us-va;us-va-norfolk-city;County;TRUE;242742;VA;http://www.norfolk.gov/pub_health
+Norton City;us-va-lenowisco;us-va-norton-city;County;TRUE;3981;VA;https://www.vdh.virginia.gov/lenowisco/
+Peninsula HD;us-va;us-va-penisula;Group;TRUE;351253;VA;https://www.vdh.virginia.gov/peninsula/
+All Mount Rogers HD;;us-va-mt-rogers-all;Summary;;;VA;
+Petersburg City;us-va-crater;us-va-petersburg-city;County;TRUE;31346;VA;https://www.vdh.virginia.gov/crater/petersburg-clinic/
+Piedmont HD;us-va;us-va-piedmont;Group;TRUE;102335;VA;http://www.vdh.state.va.us/lhd/Piedmont/index.htm
+All New River HD;;us-va-new-river-all;Summary;;;VA;
+Pittsylvania/Danville HD;us-va;us-va-pittsylvania-dannville;Group;TRUE;100398;VA;https://www.vdh.virginia.gov/pittsylvania-danville/
+All Peninsula HD;;us-va-penisula-all;Summary;;;VA;
+All Piedmont HD;;us-va-piedmont-all;Summary;;;VA;
+Portsmouth City;us-va;us-va-portsmouth-city;County;TRUE;94398;VA;https://www.vdh.virginia.gov/portsmouth/
+Radford City;us-va-new-river;us-va-radford-city;County;TRUE;18249;VA;https://www.vdh.virginia.gov/new-river/
+Rappahannock HD;us-va;us-va-rappahannock-hd;Group;TRUE;375694;VA;http://www.vdh.state.va.us/LHD/rappahan/index.htm
+All Pittsylvania/Danville HD;;us-va-pittsylvania-dannville-all;Summary;;;VA;
+Rappahannock/Rapidan HD;us-va;us-va-rappahannock-rapidan;Group;TRUE;181509;VA;https://www.vdh.virginia.gov/rappahannock-rapidan/
+Poquoson City;us-va-penisula;us-va-poquoson-city;County;TRUE;12271;VA;
+Richmond City;us-va;us-va-richmond-city;County;TRUE;230436;VA;http://www.rchd.com
+Roanoke City;us-va-alleghany-hd;us-va-roanoke-city;County;TRUE;99143;VA;https://www.vdh.virginia.gov/roanoke/
+All Rappahannock HD;;us-va-rappahannock-hd-all;Summary;;;VA;
+Southside HD;us-va;us-va-south;Group;TRUE;80729;VA;https://www.vdh.virginia.gov/southside/
+All Rappahannock/Rapidan HD;;us-va-rappahannock-rapidan-all;Summary;;;VA;
+Salem City;us-va-alleghany-hd;us-va-salem-city;County;TRUE;25301;VA;
+Suffolk City;us-va-west-tide;us-va-suffolk-city;County;TRUE;92108;VA;https://www.vdh.virginia.gov/western-tidewater/
+Three Rivers HD;us-va;us-va-three-rivers;Group;TRUE;141626;VA;https://www.vdh.virginia.gov/three-rivers/
+All Southside HD;;us-va-south-all;Summary;;;VA;
+Staunton City;us-va-central-shenandoah;us-va-staunton-city;County;TRUE;24932;VA;
+Waynesboro City;us-va-central-shenandoah;us-va-waynesboro-city;County;TRUE;22630;VA;https://www.vdh.virginia.gov/central-shenandoah/
+West Piedmont HD;us-va;us-va-west-piedmont;Group;TRUE;136761;VA;http://www.vdh.virginia.gov/west-piedmont/
+All Three Rivers HD;;us-va-three-rivers-all;Summary;;;VA;
+Western Tidewater HD;us-va;us-va-west-tide;Group;TRUE;154815;VA;http://www.vdh.state.va.us/LHD/WestTide
+Virginia Beach City;us-va;us-va-virginia-beach-city;County;TRUE;449974;VA;
+Williamsburg City;us-va-penisula;us-va-williamsburg-city;County;TRUE;14954;VA;https://www.vdh.virginia.gov/hampton-peninsula/
+All West Piedmont HD;;us-va-west-piedmont-all;Summary;;;VA;
+All Western Tidewater HD;;us-va-west-tide-all;Summary;;;VA;
+Winchester City;us-va;us-va-winchester-city;County;TRUE;28078;VA;

@@ -1,0 +1,22 @@
+name;parent_id;community_id;category;pha;population_proper;state_id;pha_url
+Elko County;us-nv;us-nv-elko;County;TRUE;52778;NV;
+Humboldt County;us-nv;us-nv-humboldt;County;TRUE;16831;NV;
+Lander County;us-nv;us-nv-lander;County;TRUE;5532;NV;
+Lincoln County;us-nv;us-nv-lincoln;County;TRUE;5183;NV;
+Lyon County;us-nv;us-nv-lyon;County;TRUE;57510;NV;
+White Pine County;us-nv;us-nv-white-pine;County;TRUE;9580;NV;
+Churchill County;us-nv-central;us-nv-churchill;County;TRUE;24909;NV;https://www.churchillcountynv.gov/1042/Health-Services
+Douglas County;us-nv;us-nv-douglas;County;TRUE;48905;NV;https://communityservices.douglascountynv.gov/social_services/community_health_nurse
+Mineral County;us-nv-central;us-nv-mineral;County;TRUE;4505;NV;http://mineralcountynv.us/departments/health_nurse.php
+Nye County;us-nv;us-nv-nye;County;TRUE;46523;NV;https://www.nyecounty.net/99/Health-Human-Services
+Pershing County;us-nv-central;us-nv-pershing;County;TRUE;6725;NV;https://www.pershingcountynv.gov/community/community_health_nurse.php
+Carson City;us-nv;us-nv-carson-city;County;TRUE;55916;NV;https://gethealthycarsoncity.org
+Central Nevada HD;us-nv;us-nv-central;Group;TRUE;38168;NV;https://www.centralnevadahd.org
+Clark County;us-nv;us-nv-clark;County;TRUE;2266715;NV;
+Esmeralda County;us-nv;us-nv-esmeralda;County;TRUE;873;NV;
+Eureka County;us-nv-central;us-nv-eureka;County;TRUE;2029;NV;
+Storey County;us-nv;us-nv-storey;County;TRUE;4123;NV;
+Washoe County;us-nv;us-nv-washoe;County;TRUE;471519;NV;
+Nevada;us;us-nv;State;TRUE;3080156;NV;
+All Nevada;;us-nv-all;Summary;;;NV;
+All Central Nevada HD;;us-nv-central-all;Summary;;;NV;
