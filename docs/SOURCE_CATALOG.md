@@ -32,10 +32,9 @@ This source catalog lists the websites crawled for the demo run(s) and includes 
 
 ### Notes & recommendations
 
-- `robots_ok` is set to `needs-review` for many sites — please run a quick `robots.txt` check and update the catalog before large-scale automated crawls.
-- For blocked sites (403), try a polite retry with a browser-like user-agent and a small delay, or record for manual data retrieval.
-- For pages with long heading blobs or many PDF/strategic plan links (e.g., Calaveras), add post-processing filters (e.g., skip headings longer than 10 words, or require facility-indicator words) to reduce false positives.
-- Store this catalog in version control and update `last_checked` after manual fixes or when the refresh job runs.
+- `robots_ok` is set to `needs-review` for many sites 
+- For blocked sites (403), try an alternative approach of a Selenium browser-like user-agent, or record for manual data retrieval.
+- For pages with long heading text or many PDF/strategic plan links (e.g., _Calaveras_), add post-processing filters (e.g., skip headings longer than 10 words) to reduce false positives.
 
 
 
