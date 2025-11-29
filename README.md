@@ -1,6 +1,6 @@
-# Health Resource Crawler - Complete Project Structure
+# Health Resource Crawler 
 
-## Project Layout
+## Project Layout - Complete Project Structure
 ```
 health-crawler/
 ├── README.md
@@ -78,10 +78,3 @@ Resources are automatically categorized:
   And tagged by health topic:
 - Vaccination, flu, COVID-19, pediatric care, dental, mental health, etc.
   
-
-
-Check the `reference/` folder for:
-- Category and tag definitions
-- Common regex patterns
-- CSS selector examples
-- Troubleshooting tips
