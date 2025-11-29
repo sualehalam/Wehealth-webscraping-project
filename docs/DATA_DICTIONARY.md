@@ -4,7 +4,8 @@ This document describes the JSON output produced by the batch crawler (_examples
 
 File location (example):
 
-- `examples/output/batch_crawl_results_<TIMESTAMP>.json`
+- Raw output path: `examples/output/batch_crawl_results_<TIMESTAMP>.json`
+- Cleaned output path: `examples/cleaned_output/batch_crawl_results_<TIMESTAMP>.cleaned.json`
 
 Top-level JSON structure
 ------------------------
@@ -102,7 +103,8 @@ Each resource object represents a single extracted item (phone number, address, 
   - `0.9` — high confidence (structured source, explicit markup, full address with street + city/state/zip)
   - `0.85` / `0.7` — medium confidence (headings, H1/H2 text, typical phone format)
   - `0.35` — very low confidence (long blobs, footer noise). Items at 0.35 are also tagged with `uncertain`.
-
+    
+- `verified` (boolean): `true` if item kept as a cleaned resource; `false` when moved to unverified_resources (or when tag 'uncertain' was present).
 
 EXAMPLES
 --------
@@ -135,17 +137,17 @@ Site result example:
 }
 ```
 
-CLEANING AND NORMALIZATION GUIDANCE
+CLEANING AND NORMALIZATION PROCESS
 -----------------------------------
 
-When producing the final cleaned dataset (CSV/JSON) for submission, follow these recommendations:
+When producing the final cleaned dataset (CSV/JSON), these are the steps taken:
 
-- Normalize population to integer: remove commas, convert to int. If missing, use `NULL` or an empty string depending on your format.
-- Normalize phone numbers to E.164 or a single canonical format for deduplication.
-- Deduplicate resources by `(site_url, type, normalized_value)` — preserve multiple tags where relevant.
-- Normalize `tags` to a consistent set (lowercase, underscore-separated). Provide a mapping if you rename tags.
+- Normalize population to integer: remove commas, convert to int. If missing, use `NULL` or an empty string.
+- Normalize phone numbers to a single canonical format for deduplication.
+- Normalize `tags` to a consistent set (lowercase, underscore-separated). 
 - Convert `confidence` to a float column and optionally include a `flag_low_confidence` boolean (e.g., `confidence < 0.5`).
 - Map `category` to fixed vocabulary; ensure no misspellings.
+- Add: `confidence_cutoff` (default): `0.5` — items with confidence < `0.5` are moved to unverified_resources.
 
 
 PRIVACY AND ETHICS
@@ -161,6 +163,7 @@ TAG/KEYWORD NOTES
 
 - Tags are heuristic and derived from simple substring matching against a keyword list. They are useful for broad filtering but may include _false positives_. Use `confidence` as an additional signal.
 - The `uncertain` tag is used to flag items with `confidence == 0.35` (likely false positives); it is retained in JSON for verification but is excluded from human-readable summary reports by default.
+
 
 
 
