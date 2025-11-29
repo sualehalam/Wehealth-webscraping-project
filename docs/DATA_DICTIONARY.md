@@ -77,10 +77,10 @@ RESOURCE OBJECT
 Each resource object represents a single extracted item (phone number, address, facility name, etc.). Fields:
 
 - `category` (string, required): One of the extraction categories:
-  - `CONTACT_INFO` — phone numbers, toll-free numbers, possible email addresses (if implemented)
+  - `CONTACT_INFO` — phone numbers, and toll-free numbers.
   - `LOCATION` — postal addresses or location blocks
-  - `FACILITY` — organization/facility names (clinic, health department, hospital)
-  - `SERVICE` — service names (e.g., "COVID-19 Vaccines", "Testing Site")
+  - `FACILITY` — organization/facility names (clinic, health department, hospital, etc)
+  - `SERVICE` — service names (e.g., "COVID-19 Vaccines", "Testing Site", "Immunization", etc)
 
 - `type` (string, required): More specific resource type, examples:
   - `phone_number`, `toll_number`
@@ -160,6 +160,7 @@ TAG/KEYWORD NOTES
 
 - Tags are heuristic and derived from simple substring matching against a keyword list. They are useful for broad filtering but may include _false positives_. Use `confidence` as an additional signal.
 - The `uncertain` tag is used to flag items with `confidence == 0.35` (likely false positives); it is retained in JSON for verification but is excluded from human-readable summary reports by default.
+
 
 
 
