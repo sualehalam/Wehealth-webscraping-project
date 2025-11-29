@@ -61,12 +61,21 @@ cd examples
 python .\batch_crawler_example.py
 ```
 
+## Running the Cleaning Script
+After running batch-crawler, run `clean_and_save.py` file to generate a cleaned JSON (it automatically picks the latest JSON from `/output`)
+```bash
+
+cd examples
+
+python .\clean_and_save.py
+```
+
 
 ## Important Considerations
 
-- Always be respectful when crawling websites and respecting _robot.txt_
-- Add delays between requests (`time.sleep(2)`)
-- Some websites may block automated access
+- Always be respectful when crawling websites and respect _robot.txt_
+- Add delays between requests (currently the scraper uses `time.sleep(2)`)
+- Some websites may block automated access 
 - This is for educational purposes only
 
 ## State Data
@@ -88,8 +97,9 @@ Resources are automatically categorized:
 - Vaccination, flu, COVID-19, pediatric care, dental, mental health, etc.
 
 ## Outputs:
-JSON (per-run) saved to `examples/output/`  
-Human-readable summary saved to `examples/summary_reports/`  
+JSON (raw data) saved to `examples/output/`  
+Human-readable counties summary saved to `examples/summary_reports/`  
+Cleaned JSON saved to `examples/cleaned_output/`.
   
 ## Cleaning & QA:
 
