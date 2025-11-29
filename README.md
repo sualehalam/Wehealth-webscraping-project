@@ -28,6 +28,9 @@ health-crawler/
 │       ├── summary_report_20251129_145053.json
 │       ├── summary_report_20251129_145353.json
 |       └── ...
+├── docs/
+│   ├── DATA_DICTIONARY.md
+│   └── SOURCE_CATALOG.md
 ```
 ## Health Resource Crawler
 A beginner-friendly web crawler for extracting public health resources from websites.
