@@ -1,0 +1,501 @@
+{
+  "summary": {
+    "total_resources": 35,
+    "by_category": {
+      "CONTACT_INFO": 8,
+      "LOCATION": 7,
+      "SERVICE": 5,
+      "FACILITY": 15
+    },
+    "by_tag": {
+      "vaccination": 7,
+      "emergency_room": 22,
+      "std": 1,
+      "hiv": 4,
+      "general": 8,
+      "measles": 2,
+      "mpox": 3,
+      "covid19": 4,
+      "pediatric": 1,
+      "womens_health": 1,
+      "uncertain": 2,
+      "vision": 2
+    },
+    "crawl_info": {
+      "url": [
+        {
+          "url": "http://www.acphd.org",
+          "success": true,
+          "status_code": 200
+        },
+        {
+          "url": "https://www.alpinecountyca.gov/552/Health-Human-Services",
+          "success": true,
+          "status_code": 200
+        },
+        {
+          "url": "https://www.amadorgov.org/departments/health-human-services",
+          "success": false,
+          "status_code": 403,
+          "error": "403 Client Error: Forbidden for url"
+        },
+        {
+          "url": "https://www.buttecounty.net/610/Public-Health",
+          "success": true,
+          "status_code": 200
+        },
+        {
+          "url": "https://publichealth.calaverasgov.us/",
+          "success": true,
+          "status_code": 200
+        },
+        {
+          "url": "https://www.countyofcolusa.org/99/Public-Health",
+          "success": true,
+          "status_code": 200
+        }
+      ],
+      "sites_crawled_count": 6,
+      "successful_crawls": 5,
+      "timestamp": "2025-11-29T14:50:53.664896",
+      "student_name": "Muhammad Sualeh Alam"
+    }
+  },
+  "results": [
+    {
+      "url": "http://www.acphd.org",
+      "timestamp": "2025-11-29T14:50:31.307835",
+      "resources": [
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "510-267-3230",
+          "tags": [
+            "vaccination",
+            "emergency_room",
+            "std"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "(510) 267-8000",
+          "tags": [
+            "emergency_room",
+            "hiv"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "LOCATION",
+          "type": "address",
+          "value": "1100 San Leandro Blvd. San Leandro, CA 94577",
+          "tags": [
+            "general"
+          ],
+          "context": "copyright",
+          "confidence": 0.9
+        },
+        {
+          "category": "SERVICE",
+          "type": "service_name",
+          "value": "Measles",
+          "tags": [
+            "vaccination",
+            "measles",
+            "mpox"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "SERVICE",
+          "type": "service_name",
+          "value": "COVID-19",
+          "tags": [
+            "covid19",
+            "vaccination",
+            "mpox"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Protected against measles?",
+          "tags": [
+            "emergency_room",
+            "measles"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "SERVICE",
+          "type": "service_name",
+          "value": "Pregnant? Get your Tdap vaccine!",
+          "tags": [
+            "vaccination",
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "SERVICE",
+          "type": "service_name",
+          "value": "2nd MPOX Vaccine Dose",
+          "tags": [
+            "vaccination",
+            "emergency_room",
+            "mpox"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Positive for COVID-19?",
+          "tags": [
+            "covid19",
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Women, Infants & Children",
+          "tags": [
+            "pediatric",
+            "emergency_room",
+            "womens_health"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "SERVICE",
+          "type": "service_name",
+          "value": "COVID-19 Vaccines",
+          "tags": [
+            "covid19",
+            "vaccination"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Alameda County Public Health Department",
+          "tags": [
+            "covid19",
+            "vaccination",
+            "emergency_room",
+            "hiv"
+          ],
+          "context": "heading",
+          "confidence": 0.85
+        }
+      ],
+      "name": "Alameda County",
+      "category": "County",
+      "state_id": "CA",
+      "population": "1671329",
+      "crawled_at": "2025-11-29T14:50:31.450325"
+    },
+    {
+      "url": "https://www.alpinecountyca.gov/552/Health-Human-Services",
+      "timestamp": "2025-11-29T14:50:36.253931",
+      "resources": [
+        {
+          "category": "LOCATION",
+          "type": "address",
+          "value": "Contact Info Contact Information Listed on Department Pages or in Staff Directory Markleeville, CA 96120 Quick Links Unrepresented MOU",
+          "tags": [
+            "emergency_room",
+            "hiv",
+            "uncertain"
+          ],
+          "context": "footer",
+          "confidence": 0.35
+        }
+      ],
+      "name": "Alpine County",
+      "category": "County",
+      "state_id": "CA",
+      "population": "1129",
+      "crawled_at": "2025-11-29T14:50:36.514123"
+    },
+    {
+      "name": "Amador County",
+      "category": "County",
+      "state_id": "CA",
+      "population": "39752",
+      "crawled_at": "2025-11-29T14:50:42.253701",
+      "url": "https://www.amadorgov.org/departments/health-human-services"
+    },
+    {
+      "url": "https://www.buttecounty.net/610/Public-Health",
+      "timestamp": "2025-11-29T14:50:45.323555",
+      "resources": [
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "530-552-4000",
+          "tags": [
+            "general"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "530-538-2165",
+          "tags": [
+            "general"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "530-538-6588",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "LOCATION",
+          "type": "address",
+          "value": "202 Mira Loma Drive  Oroville CA 95965",
+          "tags": [
+            "general"
+          ],
+          "context": "facility_address",
+          "confidence": 0.9
+        },
+        {
+          "category": "LOCATION",
+          "type": "address",
+          "value": "25 County Center Drive Oroville, CA 95965",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "footer",
+          "confidence": 0.9
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Public Health",
+          "tags": [
+            "general"
+          ],
+          "context": "heading",
+          "confidence": 0.85
+        }
+      ],
+      "name": "Butte County",
+      "category": "County",
+      "state_id": "CA",
+      "population": "219186",
+      "crawled_at": "2025-11-29T14:50:45.677750"
+    },
+    {
+      "url": "https://publichealth.calaverasgov.us/",
+      "timestamp": "2025-11-29T14:50:48.930907",
+      "resources": [
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "(209) 754-6460",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "(209) 754-1709",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "LOCATION",
+          "type": "address",
+          "value": "509 East St. Charles Street San Andreas, CA 95249",
+          "tags": [
+            "general"
+          ],
+          "context": "page",
+          "confidence": 0.9
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Public Health",
+          "tags": [
+            "general"
+          ],
+          "context": "heading",
+          "confidence": 0.85
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Assistance Request Form",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Calaveras County Community Health Improvement Plan 2024-27",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "2023-2025 CCPH Strategic Plan",
+          "tags": [
+            "general"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Calaveras County Community Health Assessment 2023",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Calaveras County Public Health is pleased to present Calaveras County’s 2023 Community Health Assessment.",
+          "tags": [
+            "emergency_room",
+            "uncertain"
+          ],
+          "context": "heading",
+          "confidence": 0.35
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Community Information Center",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Office of Emergency Services",
+          "tags": [
+            "emergency_room",
+            "hiv"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        }
+      ],
+      "name": "Calaveras County",
+      "category": "County",
+      "state_id": "CA",
+      "population": "45905",
+      "crawled_at": "2025-11-29T14:50:49.106368"
+    },
+    {
+      "url": "https://www.countyofcolusa.org/99/Public-Health",
+      "timestamp": "2025-11-29T14:50:53.483693",
+      "resources": [
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "(530) 458-0380",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "LOCATION",
+          "type": "address",
+          "value": "251 E. Webster Street  Colusa CA 95932",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "facility_address",
+          "confidence": 0.9
+        },
+        {
+          "category": "LOCATION",
+          "type": "address",
+          "value": "547 Market Street Colusa, CA 95932",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "footer",
+          "confidence": 0.9
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Public Health",
+          "tags": [
+            "vision"
+          ],
+          "context": "heading",
+          "confidence": 0.85
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Colusa County Public Health Division",
+          "tags": [
+            "vision"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        }
+      ],
+      "name": "Colusa County",
+      "category": "County",
+      "state_id": "CA",
+      "population": "21547",
+      "crawled_at": "2025-11-29T14:50:53.661819"
+    }
+  ]
+}

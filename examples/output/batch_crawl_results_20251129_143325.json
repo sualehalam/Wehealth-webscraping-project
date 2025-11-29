@@ -1,0 +1,3803 @@
+{
+  "summary": {
+    "total_resources": 291,
+    "by_category": {
+      "CONTACT_INFO": 76,
+      "LOCATION": 25,
+      "SERVICE": 16,
+      "FACILITY": 174
+    },
+    "by_tag": {
+      "vaccination": 15,
+      "emergency_room": 194,
+      "std": 22,
+      "hiv": 42,
+      "general": 52,
+      "measles": 4,
+      "mpox": 5,
+      "covid19": 14,
+      "pediatric": 42,
+      "womens_health": 1,
+      "uncertain": 7,
+      "vision": 9,
+      "mental_health": 31,
+      "maternal_health": 6,
+      "dental": 17,
+      "flu": 4,
+      "clinic": 3,
+      "vector_borne": 4,
+      "crisis_services": 5,
+      "crisis_hotline": 5,
+      "substance_abuse": 2,
+      "substance_use": 5,
+      "injury_trauma": 4,
+      "lead": 2,
+      "cancer": 2,
+      "opioid_treatment": 3,
+      "family_planning": 1,
+      "tobacco": 4,
+      "tuberculosis": 3,
+      "hepatitis": 4,
+      "rsv": 1
+    },
+    "crawl_info": {
+      "url": [
+        {
+          "url": "http://www.acphd.org",
+          "success": true,
+          "status_code": 200
+        },
+        {
+          "url": "https://www.alpinecountyca.gov/552/Health-Human-Services",
+          "success": true,
+          "status_code": 200
+        },
+        {
+          "url": "https://www.amadorgov.org/departments/health-human-services",
+          "success": false,
+          "status_code": 403,
+          "error": "403 Client Error: Forbidden for url"
+        },
+        {
+          "url": "https://www.buttecounty.net/610/Public-Health",
+          "success": true,
+          "status_code": 200
+        },
+        {
+          "url": "https://publichealth.calaverasgov.us/",
+          "success": true,
+          "status_code": 200
+        },
+        {
+          "url": "https://www.countyofcolusa.org/99/Public-Health",
+          "success": true,
+          "status_code": 200
+        },
+        {
+          "url": "https://www.cchealth.org",
+          "success": false,
+          "status_code": 403,
+          "error": "403 Client Error: Forbidden for url"
+        },
+        {
+          "url": "https://www.co.del-norte.ca.us/departments/publichealth",
+          "success": true,
+          "status_code": 200
+        },
+        {
+          "url": "https://www.eldoradocounty.ca.gov/Health-Well-Being/Public-Health",
+          "success": false,
+          "status_code": 403,
+          "error": "403 Client Error: Forbidden for url"
+        },
+        {
+          "url": "https://www.co.fresno.ca.us/departments/public-health",
+          "success": false,
+          "status_code": 403,
+          "error": "403 Client Error: Forbidden for url"
+        },
+        {
+          "url": "https://www.countyofglenn.net/dept/health-human-services/public-health/welcome",
+          "success": true,
+          "status_code": 200
+        },
+        {
+          "url": "http://www.humboldtgov.org/330/Public-Health",
+          "success": true,
+          "status_code": 200
+        },
+        {
+          "url": "https://www.icphd.org/",
+          "success": true,
+          "status_code": 200
+        },
+        {
+          "url": "https://www.inyocounty.us/public-health-and-prevention",
+          "success": true,
+          "status_code": 200
+        },
+        {
+          "url": "https://kernpublichealth.com/",
+          "success": false,
+          "status_code": 403,
+          "error": "403 Client Error: Forbidden for url"
+        },
+        {
+          "url": "https://www.kcdph.com/",
+          "success": true,
+          "status_code": 200
+        },
+        {
+          "url": "https://www.lakecountyca.gov/158/Public-Health",
+          "success": true,
+          "status_code": 200
+        },
+        {
+          "url": "https://www.lassencounty.org/dept/public-health/public-health",
+          "success": true,
+          "status_code": 200
+        },
+        {
+          "url": "http://publichealth.lacounty.gov/",
+          "success": true,
+          "status_code": 200
+        },
+        {
+          "url": "https://www.maderacounty.com/government/public-health",
+          "success": false,
+          "status_code": 403,
+          "error": "403 Client Error: Forbidden for url"
+        },
+        {
+          "url": "https://www.marinhhs.org/",
+          "success": false,
+          "status_code": 403,
+          "error": "403 Client Error: Forbidden for url"
+        },
+        {
+          "url": "https://www.mariposacounty.org/89/Health-Services-Division",
+          "success": true,
+          "status_code": 200
+        },
+        {
+          "url": "https://www.mendocinocounty.gov/departments/public-health",
+          "success": false,
+          "status_code": 403,
+          "error": "403 Client Error: Forbidden for url"
+        },
+        {
+          "url": "http://www.co.merced.ca.us/index.aspx?nid=82",
+          "success": true,
+          "status_code": 200
+        },
+        {
+          "url": "https://publichealth.co.modoc.ca.us/",
+          "success": true,
+          "status_code": 200
+        },
+        {
+          "url": "http://www.monohealth.com",
+          "success": false,
+          "status_code": 403,
+          "error": "403 Client Error: Forbidden for url"
+        },
+        {
+          "url": "http://www.mtyhd.org",
+          "success": false,
+          "status_code": 403,
+          "error": "403 Client Error: Forbidden for url"
+        },
+        {
+          "url": "https://www.countyofnapa.org/156/HHSA",
+          "success": true,
+          "status_code": 200
+        },
+        {
+          "url": "https://www.mynevadacounty.com/551/Public-Health",
+          "success": true,
+          "status_code": 200
+        },
+        {
+          "url": "http://www.ochealthinfo.com/",
+          "success": true,
+          "status_code": 200
+        },
+        {
+          "url": "https://www.placer.ca.gov/2863/Public-Health",
+          "success": true,
+          "status_code": 200
+        },
+        {
+          "url": "https://www.plumascounty.us/3219/Plumas-County-Public-Health-Agency",
+          "success": true,
+          "status_code": 200
+        },
+        {
+          "url": "http://www.rivcoph.org",
+          "success": true,
+          "status_code": 200
+        },
+        {
+          "url": "https://dhs.saccounty.net/PUB/Pages/PUB-Home.aspx",
+          "success": true,
+          "status_code": 200
+        },
+        {
+          "url": "https://hhsa.cosb.us/public-health-2/",
+          "success": true,
+          "status_code": 200
+        },
+        {
+          "url": "http://wp.sbcounty.gov/dph/",
+          "success": true,
+          "status_code": 200
+        },
+        {
+          "url": "http://www.sandiegocounty.gov/hhsa/programs/phs/",
+          "success": true,
+          "status_code": 200
+        },
+        {
+          "url": "https://www.sfdph.org",
+          "success": true,
+          "status_code": 200
+        },
+        {
+          "url": "http://www.sjcphs.org",
+          "success": true,
+          "status_code": 200
+        },
+        {
+          "url": "https://www.slocounty.ca.gov/departments/health-agency",
+          "success": true,
+          "status_code": 200
+        }
+      ],
+      "sites_crawled_count": 40,
+      "successful_crawls": 30,
+      "timestamp": "2025-11-29T14:33:25.421636",
+      "student_name": "Muhammad Sualeh Alam"
+    }
+  },
+  "results": [
+    {
+      "url": "http://www.acphd.org",
+      "timestamp": "2025-11-29T14:30:50.198165",
+      "resources": [
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "510-267-3230",
+          "tags": [
+            "vaccination",
+            "emergency_room",
+            "std"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "(510) 267-8000",
+          "tags": [
+            "emergency_room",
+            "hiv"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "LOCATION",
+          "type": "address",
+          "value": "1100 San Leandro Blvd. San Leandro, CA 94577",
+          "tags": [
+            "general"
+          ],
+          "context": "copyright",
+          "confidence": 0.9
+        },
+        {
+          "category": "SERVICE",
+          "type": "service_name",
+          "value": "Measles",
+          "tags": [
+            "vaccination",
+            "measles",
+            "mpox"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "SERVICE",
+          "type": "service_name",
+          "value": "COVID-19",
+          "tags": [
+            "covid19",
+            "vaccination",
+            "mpox"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Protected against measles?",
+          "tags": [
+            "emergency_room",
+            "measles"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "SERVICE",
+          "type": "service_name",
+          "value": "Pregnant? Get your Tdap vaccine!",
+          "tags": [
+            "vaccination",
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "SERVICE",
+          "type": "service_name",
+          "value": "2nd MPOX Vaccine Dose",
+          "tags": [
+            "vaccination",
+            "emergency_room",
+            "mpox"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Positive for COVID-19?",
+          "tags": [
+            "covid19",
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Women, Infants & Children",
+          "tags": [
+            "pediatric",
+            "emergency_room",
+            "womens_health"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "SERVICE",
+          "type": "service_name",
+          "value": "COVID-19 Vaccines",
+          "tags": [
+            "covid19",
+            "vaccination"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Alameda County Public Health Department",
+          "tags": [
+            "covid19",
+            "vaccination",
+            "emergency_room",
+            "hiv"
+          ],
+          "context": "heading",
+          "confidence": 0.85
+        }
+      ],
+      "name": "Alameda County",
+      "category": "County",
+      "state_id": "CA",
+      "population": "1671329",
+      "crawled_at": "2025-11-29T14:30:50.298026"
+    },
+    {
+      "url": "https://www.alpinecountyca.gov/552/Health-Human-Services",
+      "timestamp": "2025-11-29T14:30:54.164588",
+      "resources": [
+        {
+          "category": "LOCATION",
+          "type": "address",
+          "value": "Contact Info Contact Information Listed on Department Pages or in Staff Directory Markleeville, CA 96120 Quick Links Unrepresented MOU",
+          "tags": [
+            "emergency_room",
+            "hiv",
+            "uncertain"
+          ],
+          "context": "footer",
+          "confidence": 0.35
+        }
+      ],
+      "name": "Alpine County",
+      "category": "County",
+      "state_id": "CA",
+      "population": "1129",
+      "crawled_at": "2025-11-29T14:30:54.424486"
+    },
+    {
+      "name": "Amador County",
+      "category": "County",
+      "state_id": "CA",
+      "population": "39752",
+      "crawled_at": "2025-11-29T14:30:57.872454",
+      "url": "https://www.amadorgov.org/departments/health-human-services"
+    },
+    {
+      "url": "https://www.buttecounty.net/610/Public-Health",
+      "timestamp": "2025-11-29T14:31:01.534076",
+      "resources": [
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "530-552-4000",
+          "tags": [
+            "general"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "530-538-2165",
+          "tags": [
+            "general"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "530-538-6588",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "LOCATION",
+          "type": "address",
+          "value": "202 Mira Loma Drive  Oroville CA 95965",
+          "tags": [
+            "general"
+          ],
+          "context": "facility_address",
+          "confidence": 0.9
+        },
+        {
+          "category": "LOCATION",
+          "type": "address",
+          "value": "25 County Center Drive Oroville, CA 95965",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "footer",
+          "confidence": 0.9
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Public Health",
+          "tags": [
+            "general"
+          ],
+          "context": "heading",
+          "confidence": 0.85
+        }
+      ],
+      "name": "Butte County",
+      "category": "County",
+      "state_id": "CA",
+      "population": "219186",
+      "crawled_at": "2025-11-29T14:31:02.262457"
+    },
+    {
+      "url": "https://publichealth.calaverasgov.us/",
+      "timestamp": "2025-11-29T14:31:04.708543",
+      "resources": [
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "(209) 754-6460",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "(209) 754-1709",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "LOCATION",
+          "type": "address",
+          "value": "509 East St. Charles Street San Andreas, CA 95249",
+          "tags": [
+            "general"
+          ],
+          "context": "page",
+          "confidence": 0.9
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Public Health",
+          "tags": [
+            "general"
+          ],
+          "context": "heading",
+          "confidence": 0.85
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Assistance Request Form",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Calaveras County Community Health Improvement Plan 2024-27",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "2023-2025 CCPH Strategic Plan",
+          "tags": [
+            "general"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Calaveras County Community Health Assessment 2023",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Calaveras County Public Health is pleased to present Calaveras County’s 2023 Community Health Assessment.",
+          "tags": [
+            "emergency_room",
+            "uncertain"
+          ],
+          "context": "heading",
+          "confidence": 0.35
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Community Information Center",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Office of Emergency Services",
+          "tags": [
+            "emergency_room",
+            "hiv"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        }
+      ],
+      "name": "Calaveras County",
+      "category": "County",
+      "state_id": "CA",
+      "population": "45905",
+      "crawled_at": "2025-11-29T14:31:05.004803"
+    },
+    {
+      "url": "https://www.countyofcolusa.org/99/Public-Health",
+      "timestamp": "2025-11-29T14:31:09.073019",
+      "resources": [
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "(530) 458-0380",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "LOCATION",
+          "type": "address",
+          "value": "251 E. Webster Street  Colusa CA 95932",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "facility_address",
+          "confidence": 0.9
+        },
+        {
+          "category": "LOCATION",
+          "type": "address",
+          "value": "547 Market Street Colusa, CA 95932",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "footer",
+          "confidence": 0.9
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Public Health",
+          "tags": [
+            "vision"
+          ],
+          "context": "heading",
+          "confidence": 0.85
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Colusa County Public Health Division",
+          "tags": [
+            "vision"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        }
+      ],
+      "name": "Colusa County",
+      "category": "County",
+      "state_id": "CA",
+      "population": "21547",
+      "crawled_at": "2025-11-29T14:31:09.639720"
+    },
+    {
+      "name": "Contra Costa County",
+      "category": "County",
+      "state_id": "CA",
+      "population": "1153526",
+      "crawled_at": "2025-11-29T14:31:11.763403",
+      "url": "https://www.cchealth.org"
+    },
+    {
+      "url": "https://www.co.del-norte.ca.us/departments/publichealth",
+      "timestamp": "2025-11-29T14:31:14.162560",
+      "resources": [
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "(707) 464-0861",
+          "tags": [
+            "pediatric",
+            "emergency_room"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "(707) 465-6701",
+          "tags": [
+            "pediatric",
+            "emergency_room"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "(707) 464-7216",
+          "tags": [
+            "pediatric",
+            "emergency_room"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "707) 465-0426",
+          "tags": [
+            "pediatric",
+            "emergency_room"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "707-464-7235",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "(707) 464-3191",
+          "tags": [
+            "pediatric",
+            "emergency_room"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "(707) 465-1783",
+          "tags": [
+            "pediatric",
+            "emergency_room"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "(707) 464-7224",
+          "tags": [
+            "pediatric",
+            "emergency_room"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "CONTACT_INFO",
+          "type": "toll_number",
+          "value": "(800) 446-4408",
+          "tags": [
+            "general"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "LOCATION",
+          "type": "address",
+          "value": "981 H Street Crescent City, CA 95531",
+          "tags": [
+            "general"
+          ],
+          "context": "facility_address",
+          "confidence": 0.9
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Public Health Branch",
+          "tags": [
+            "general"
+          ],
+          "context": "heading",
+          "confidence": 0.85
+        }
+      ],
+      "name": "Del Norte County",
+      "category": "County",
+      "state_id": "CA",
+      "population": "27812",
+      "crawled_at": "2025-11-29T14:31:14.296808"
+    },
+    {
+      "name": "El Dorado County",
+      "category": "County",
+      "state_id": "CA",
+      "population": "192843",
+      "crawled_at": "2025-11-29T14:31:16.500333",
+      "url": "https://www.eldoradocounty.ca.gov/Health-Well-Being/Public-Health"
+    },
+    {
+      "name": "Fresno County",
+      "category": "County",
+      "state_id": "CA",
+      "population": "999101",
+      "crawled_at": "2025-11-29T14:31:19.090006",
+      "url": "https://www.co.fresno.ca.us/departments/public-health"
+    },
+    {
+      "url": "https://www.countyofglenn.net/dept/health-human-services/public-health/welcome",
+      "timestamp": "2025-11-29T14:31:22.349699",
+      "resources": [],
+      "name": "Glenn County",
+      "category": "County",
+      "state_id": "CA",
+      "population": "28393",
+      "crawled_at": "2025-11-29T14:31:22.364843"
+    },
+    {
+      "url": "http://www.humboldtgov.org/330/Public-Health",
+      "timestamp": "2025-11-29T14:31:27.651549",
+      "resources": [
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "707-445-6255",
+          "tags": [
+            "mental_health",
+            "std"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "707-445-6201",
+          "tags": [
+            "mental_health",
+            "std"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "707-445-6215",
+          "tags": [
+            "mental_health",
+            "std"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "707-268-2105",
+          "tags": [
+            "pediatric",
+            "emergency_room",
+            "hiv",
+            "maternal_health"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "707-445-6211",
+          "tags": [
+            "pediatric",
+            "dental",
+            "emergency_room",
+            "maternal_health"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "707-476-4949",
+          "tags": [
+            "covid19",
+            "mental_health",
+            "pediatric",
+            "dental",
+            "emergency_room"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "707-445-6212",
+          "tags": [
+            "covid19",
+            "mental_health",
+            "pediatric",
+            "dental",
+            "emergency_room"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "707-445-7110",
+          "tags": [
+            "covid19",
+            "mental_health",
+            "pediatric",
+            "dental",
+            "emergency_room"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "707-445-6200",
+          "tags": [
+            "covid19",
+            "mental_health",
+            "emergency_room"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "707-445-6097",
+          "tags": [
+            "general"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "LOCATION",
+          "type": "address",
+          "value": "825 5th Street Eureka, CA 95501",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "footer",
+          "confidence": 0.9
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Public Health",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.85
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Public Health Services",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        }
+      ],
+      "name": "Humboldt County",
+      "category": "County",
+      "state_id": "CA",
+      "population": "135558",
+      "crawled_at": "2025-11-29T14:31:27.908836"
+    },
+    {
+      "url": "https://www.icphd.org/",
+      "timestamp": "2025-11-29T14:31:31.794722",
+      "resources": [
+        {
+          "category": "CONTACT_INFO",
+          "type": "toll_number",
+          "value": "1-800-465-9007",
+          "tags": [
+            "general"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "442-265-1444",
+          "tags": [
+            "emergency_room",
+            "hiv"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "CONTACT_INFO",
+          "type": "toll_number",
+          "value": "1-800-478-4650",
+          "tags": [
+            "emergency_room",
+            "hiv"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "LOCATION",
+          "type": "address",
+          "value": "935 Broadway St El Centro, CA 92243",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "footer",
+          "confidence": 0.9
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Imperial CountyPublic Health Department",
+          "tags": [
+            "emergency_room",
+            "hiv"
+          ],
+          "context": "heading",
+          "confidence": 0.85
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "THE IMPERIAL COUNTY PUBLIC HEALTH DEPARTMENT HOLDS FLU VACCINATION CLINIC AT THE IMPERIAL VALLEY COLLEGE HEALTH FAIR",
+          "tags": [
+            "flu",
+            "vaccination",
+            "emergency_room",
+            "hiv",
+            "clinic",
+            "uncertain"
+          ],
+          "context": "heading",
+          "confidence": 0.35
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "CHILD SAFETY AWARENESS DAY THIS SATURDAY SEPTEMBER 27th",
+          "tags": [
+            "pediatric",
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.55
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "PUBLIC HEALTH OFFICIALS IDENTIFY MOSQUITO POOLS POSITIVE FOR ST. LOUIS ENCEPHALITIS",
+          "tags": [
+            "emergency_room",
+            "vector_borne"
+          ],
+          "context": "heading",
+          "confidence": 0.55
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "ENVIRONMENTAL HEALTH DIVISION RELOCATES TO A NEW FACILITY",
+          "tags": [
+            "mental_health",
+            "emergency_room",
+            "vision",
+            "hiv"
+          ],
+          "context": "heading",
+          "confidence": 0.55
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "PUBLIC HEALTH OFFICIALS IDENTIFY MOSQUITO POOL POSITIVE FOR WEST NILE VIRUS",
+          "tags": [
+            "emergency_room",
+            "vector_borne"
+          ],
+          "context": "heading",
+          "confidence": 0.55
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Imperial County Public Health Department",
+          "tags": [
+            "emergency_room",
+            "hiv"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Interpreting Services",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        }
+      ],
+      "name": "Imperial County",
+      "category": "County",
+      "state_id": "CA",
+      "population": "181215",
+      "crawled_at": "2025-11-29T14:31:32.006419"
+    },
+    {
+      "url": "https://www.inyocounty.us/public-health-and-prevention",
+      "timestamp": "2025-11-29T14:31:35.996716",
+      "resources": [
+        {
+          "category": "LOCATION",
+          "type": "address",
+          "value": "168 N. Edwards St Independence CA 93526",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "footer",
+          "confidence": 0.9
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Inyo County California",
+          "tags": [
+            "general"
+          ],
+          "context": "heading",
+          "confidence": 0.85
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Services",
+          "tags": [
+            "emergency_room",
+            "hiv"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Public Health and Prevention Division",
+          "tags": [
+            "vision"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Carousel content",
+          "tags": [
+            "general"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Public Health Information for Marriage License Applicants",
+          "tags": [
+            "general"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "2025-26 Health Officer Guidance",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Public Health and Prevention Division Documents",
+          "tags": [
+            "vision"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        }
+      ],
+      "name": "Inyo County",
+      "category": "County",
+      "state_id": "CA",
+      "population": "18039",
+      "crawled_at": "2025-11-29T14:31:36.797016"
+    },
+    {
+      "name": "Kern County",
+      "category": "County",
+      "state_id": "CA",
+      "population": "900202",
+      "crawled_at": "2025-11-29T14:31:41.653464",
+      "url": "https://kernpublichealth.com/"
+    },
+    {
+      "url": "https://www.kcdph.com/",
+      "timestamp": "2025-11-29T14:31:47.081724",
+      "resources": [],
+      "name": "Kings County",
+      "category": "County",
+      "state_id": "CA",
+      "population": "152940",
+      "crawled_at": "2025-11-29T14:31:47.126425"
+    },
+    {
+      "url": "https://www.lakecountyca.gov/158/Public-Health",
+      "timestamp": "2025-11-29T14:31:49.929057",
+      "resources": [
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "707-263-1090",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "LOCATION",
+          "type": "address",
+          "value": "922 Bevins Court Lakeport, CA  95453",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "footer",
+          "confidence": 0.9
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Upcoming Events",
+          "tags": [
+            "general"
+          ],
+          "context": "heading",
+          "confidence": 0.85
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "November 2025",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        }
+      ],
+      "name": "Lake County",
+      "category": "County",
+      "state_id": "CA",
+      "population": "64386",
+      "crawled_at": "2025-11-29T14:31:50.173606"
+    },
+    {
+      "url": "https://www.lassencounty.org/dept/public-health/public-health",
+      "timestamp": "2025-11-29T14:31:52.616716",
+      "resources": [
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "530-251-8183",
+          "tags": [
+            "covid19",
+            "std"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "(530) 251-8183",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "(530) 251-2668",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "LOCATION",
+          "type": "address",
+          "value": "Lassen County Public Health 1445 Paul Bunyan Road Suite B 96130",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "service_location",
+          "confidence": 0.6
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Lassen County~ California ~",
+          "tags": [
+            "general"
+          ],
+          "context": "heading",
+          "confidence": 0.85
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Search form",
+          "tags": [
+            "general"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Public Health",
+          "tags": [
+            "general"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Clinic Services",
+          "tags": [
+            "vaccination",
+            "emergency_room",
+            "mpox",
+            "clinic"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Lassen County Resource Guide",
+          "tags": [
+            "general"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "California Department of Public Health Twitter Feed",
+          "tags": [
+            "emergency_room",
+            "hiv"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        }
+      ],
+      "name": "Lassen County",
+      "category": "County",
+      "state_id": "CA",
+      "population": "30573",
+      "crawled_at": "2025-11-29T14:31:52.736134"
+    },
+    {
+      "url": "http://publichealth.lacounty.gov/",
+      "timestamp": "2025-11-29T14:31:55.245091",
+      "resources": [
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Public Health is Public Safety",
+          "tags": [
+            "general"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        }
+      ],
+      "name": "Los Angeles County",
+      "category": "County",
+      "state_id": "CA",
+      "population": "10039107",
+      "crawled_at": "2025-11-29T14:31:55.256729"
+    },
+    {
+      "name": "Madera County",
+      "category": "County",
+      "state_id": "CA",
+      "population": "157327",
+      "crawled_at": "2025-11-29T14:31:57.495620",
+      "url": "https://www.maderacounty.com/government/public-health"
+    },
+    {
+      "name": "Marin County",
+      "category": "County",
+      "state_id": "CA",
+      "population": "258826",
+      "crawled_at": "2025-11-29T14:32:01.914359",
+      "url": "https://www.marinhhs.org/"
+    },
+    {
+      "url": "https://www.mariposacounty.org/89/Health-Services-Division",
+      "timestamp": "2025-11-29T14:32:04.914260",
+      "resources": [
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "209-966-2000",
+          "tags": [
+            "emergency_room",
+            "crisis_services",
+            "crisis_hotline"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "CONTACT_INFO",
+          "type": "toll_number",
+          "value": "800-266-3609",
+          "tags": [
+            "emergency_room",
+            "crisis_services",
+            "crisis_hotline"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "209-966-8251",
+          "tags": [
+            "emergency_room",
+            "crisis_services",
+            "crisis_hotline"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "209-966-7000",
+          "tags": [
+            "emergency_room",
+            "crisis_services",
+            "crisis_hotline"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "209-966-3689",
+          "tags": [
+            "mental_health",
+            "emergency_room"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "CONTACT_INFO",
+          "type": "toll_number",
+          "value": "800-459-4466",
+          "tags": [
+            "mental_health",
+            "emergency_room"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "209-966-2220",
+          "tags": [
+            "mental_health",
+            "dental",
+            "emergency_room"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "CONTACT_INFO",
+          "type": "toll_number",
+          "value": "888-777-0377",
+          "tags": [
+            "mental_health",
+            "dental",
+            "emergency_room"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "209-966-3615",
+          "tags": [
+            "mental_health",
+            "dental",
+            "emergency_room",
+            "crisis_services",
+            "crisis_hotline"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "LOCATION",
+          "type": "address",
+          "value": "Health Services Division Physical Address 5362 Lemee Lane Mariposa ,",
+          "tags": [
+            "emergency_room",
+            "vision"
+          ],
+          "context": "page",
+          "confidence": 0.6
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Health Services Division",
+          "tags": [
+            "mental_health",
+            "dental",
+            "emergency_room",
+            "vision"
+          ],
+          "context": "heading",
+          "confidence": 0.85
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Behavioral Health & Recovery Services",
+          "tags": [
+            "mental_health",
+            "dental",
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Community Health",
+          "tags": [
+            "mental_health",
+            "dental",
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Environmental Health",
+          "tags": [
+            "mental_health",
+            "dental",
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Accreditation",
+          "tags": [
+            "vision"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        }
+      ],
+      "name": "Mariposa County",
+      "category": "County",
+      "state_id": "CA",
+      "population": "17203",
+      "crawled_at": "2025-11-29T14:32:05.188815"
+    },
+    {
+      "name": "Mendocino County",
+      "category": "County",
+      "state_id": "CA",
+      "population": "86749",
+      "crawled_at": "2025-11-29T14:32:07.385218",
+      "url": "https://www.mendocinocounty.gov/departments/public-health"
+    },
+    {
+      "url": "http://www.co.merced.ca.us/index.aspx?nid=82",
+      "timestamp": "2025-11-29T14:32:12.678809",
+      "resources": [
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "(209) 381-1200",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "(209) 385-7434",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "LOCATION",
+          "type": "address",
+          "value": "260 E 15th Street Merced, CA 95341",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "footer",
+          "confidence": 0.9
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Public Health Spotlights",
+          "tags": [
+            "general"
+          ],
+          "context": "heading",
+          "confidence": 0.85
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "November 2025",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Department of Public Health",
+          "tags": [
+            "hiv"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        }
+      ],
+      "name": "Merced County",
+      "category": "County",
+      "state_id": "CA",
+      "population": "277680",
+      "crawled_at": "2025-11-29T14:32:12.884132"
+    },
+    {
+      "url": "https://publichealth.co.modoc.ca.us/",
+      "timestamp": "2025-11-29T14:32:16.546174",
+      "resources": [
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "530-233-6311",
+          "tags": [
+            "emergency_room",
+            "std"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "LOCATION",
+          "type": "address",
+          "value": "© 2024 • 441 N Main St, Alturas, CA 96101 • Questions? 530-233-6311",
+          "tags": [
+            "emergency_room",
+            "std",
+            "uncertain"
+          ],
+          "context": "footer",
+          "confidence": 0.35
+        }
+      ],
+      "name": "Modoc County",
+      "category": "County",
+      "state_id": "CA",
+      "population": "8841",
+      "crawled_at": "2025-11-29T14:32:16.628060"
+    },
+    {
+      "name": "Mono County",
+      "category": "County",
+      "state_id": "CA",
+      "population": "14444",
+      "crawled_at": "2025-11-29T14:32:20.948601",
+      "url": "http://www.monohealth.com"
+    },
+    {
+      "name": "Monterey County",
+      "category": "County",
+      "state_id": "CA",
+      "population": "434061",
+      "crawled_at": "2025-11-29T14:32:24.588478",
+      "url": "http://www.mtyhd.org"
+    },
+    {
+      "url": "https://www.countyofnapa.org/156/HHSA",
+      "timestamp": "2025-11-29T14:32:28.148332",
+      "resources": [
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "707-253-4963",
+          "tags": [
+            "mental_health",
+            "dental"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "707-253-4540",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "LOCATION",
+          "type": "address",
+          "value": "County Administration Building                1195 Third Street                Napa, CA 94559",
+          "tags": [
+            "general"
+          ],
+          "context": "page",
+          "confidence": 0.9
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Information Sheets in English and Spanish",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        }
+      ],
+      "name": "Napa County",
+      "category": "County",
+      "state_id": "CA",
+      "population": "137744",
+      "crawled_at": "2025-11-29T14:32:28.301030"
+    },
+    {
+      "url": "https://www.mynevadacounty.com/551/Public-Health",
+      "timestamp": "2025-11-29T14:32:41.354822",
+      "resources": [
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "530-265-1450",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "530-271-0837",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "LOCATION",
+          "type": "address",
+          "value": "Director of Public Health 500 Crown Point Circle Ste 110 Grass Valley, CA 95945 Hours 8 a.m. to 5 p.m. Phone:",
+          "tags": [
+            "emergency_room",
+            "uncertain"
+          ],
+          "context": "footer",
+          "confidence": 0.35
+        },
+        {
+          "category": "SERVICE",
+          "type": "service_name",
+          "value": "Food and Public Assistance",
+          "tags": [
+            "general"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Health and Wellness Services",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Mental Health and Empowerment Services",
+          "tags": [
+            "mental_health",
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "News & Calendar",
+          "tags": [
+            "general"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Meetings & Events",
+          "tags": [
+            "general"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "November 2025",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        }
+      ],
+      "name": "Nevada County",
+      "category": "County",
+      "state_id": "CA",
+      "population": "99755",
+      "crawled_at": "2025-11-29T14:32:41.531777"
+    },
+    {
+      "url": "http://www.ochealthinfo.com/",
+      "timestamp": "2025-11-29T14:32:45.749503",
+      "resources": [
+        {
+          "category": "CONTACT_INFO",
+          "type": "toll_number",
+          "value": "855.886.5400",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "QUALITY HEALTH FOR ALL",
+          "tags": [
+            "general"
+          ],
+          "context": "heading",
+          "confidence": 0.85
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Health Care Agency Highlights",
+          "tags": [
+            "general"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "OC Links",
+          "tags": [
+            "general"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "OC Navigator",
+          "tags": [
+            "general"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Care Act",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Mental Health Services Act (MHSA)",
+          "tags": [
+            "mental_health",
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Triple P Online",
+          "tags": [
+            "pediatric",
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "View/Register through DHCS",
+          "tags": [
+            "emergency_room",
+            "substance_abuse",
+            "substance_use"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Healthy Living Just Clicks",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Fentanyl-Related Deaths in Orange County See Five-Year Low",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.55
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Bat Found in City of Orange Tests Positive for Rabies",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.55
+        }
+      ],
+      "name": "Orange County",
+      "category": "County",
+      "state_id": "CA",
+      "population": "3175692",
+      "crawled_at": "2025-11-29T14:32:45.998207"
+    },
+    {
+      "url": "https://www.placer.ca.gov/2863/Public-Health",
+      "timestamp": "2025-11-29T14:32:49.076307",
+      "resources": [
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "530-889-7141",
+          "tags": [
+            "emergency_room",
+            "injury_trauma"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "530-889-7198",
+          "tags": [
+            "emergency_room",
+            "vector_borne",
+            "injury_trauma"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "530-546-1912",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "LOCATION",
+          "type": "address",
+          "value": "11434 B Ave. Auburn, CA 95603",
+          "tags": [
+            "emergency_room",
+            "injury_trauma"
+          ],
+          "context": "footer",
+          "confidence": 0.9
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Public Health",
+          "tags": [
+            "emergency_room",
+            "std"
+          ],
+          "context": "heading",
+          "confidence": 0.85
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Popular Services",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Other Services",
+          "tags": [
+            "emergency_room",
+            "std",
+            "vector_borne"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        }
+      ],
+      "name": "Placer County",
+      "category": "County",
+      "state_id": "CA",
+      "population": "398329",
+      "crawled_at": "2025-11-29T14:32:49.405322"
+    },
+    {
+      "url": "https://www.plumascounty.us/3219/Plumas-County-Public-Health-Agency",
+      "timestamp": "2025-11-29T14:32:52.357791",
+      "resources": [
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "530-283-6337",
+          "tags": [
+            "general"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "530-283-6425",
+          "tags": [
+            "mental_health"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "LOCATION",
+          "type": "address",
+          "value": "270 County Hospital Road Quincy, CA 95971",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "footer",
+          "confidence": 0.9
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Stay Informed",
+          "tags": [
+            "general"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "November 2025",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        }
+      ],
+      "name": "Plumas County",
+      "category": "County",
+      "state_id": "CA",
+      "population": "18807",
+      "crawled_at": "2025-11-29T14:32:52.668766"
+    },
+    {
+      "url": "http://www.rivcoph.org",
+      "timestamp": "2025-11-29T14:32:57.485985",
+      "resources": [],
+      "name": "Riverside County",
+      "category": "County",
+      "state_id": "CA",
+      "population": "2470546",
+      "crawled_at": "2025-11-29T14:32:57.495595"
+    },
+    {
+      "url": "https://dhs.saccounty.net/PUB/Pages/PUB-Home.aspx",
+      "timestamp": "2025-11-29T14:33:00.056358",
+      "resources": [
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Department of Health Services",
+          "tags": [
+            "emergency_room",
+            "hiv"
+          ],
+          "context": "heading",
+          "confidence": 0.85
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Public Health",
+          "tags": [
+            "emergency_room",
+            "hiv"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Get the Facts on Coronavirus",
+          "tags": [
+            "covid19"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        }
+      ],
+      "name": "Sacramento County",
+      "category": "County",
+      "state_id": "CA",
+      "population": "1552058",
+      "crawled_at": "2025-11-29T14:33:00.295765"
+    },
+    {
+      "url": "https://hhsa.cosb.us/public-health-2/",
+      "timestamp": "2025-11-29T14:33:04.765668",
+      "resources": [
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "831-637-5627",
+          "tags": [
+            "pediatric",
+            "emergency_room"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "831-636-4190",
+          "tags": [
+            "pediatric",
+            "emergency_room"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "831-637-9293",
+          "tags": [
+            "mental_health",
+            "pediatric",
+            "emergency_room"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "831-636-5180",
+          "tags": [
+            "mental_health",
+            "emergency_room"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "831-636-4180",
+          "tags": [
+            "mental_health",
+            "emergency_room"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "831-636-4035",
+          "tags": [
+            "mental_health",
+            "emergency_room"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "831-637-5367",
+          "tags": [
+            "mental_health",
+            "emergency_room"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "LOCATION",
+          "type": "address",
+          "value": "1111 San Felipe Road, Hollister, CA 95023",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "page",
+          "confidence": 0.9
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Hollister, California",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.85
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Public Health",
+          "tags": [
+            "general"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "San Benito County Public Health Services works in partnership with the community to ensure optimal health and well-being of all people by preventing disease, injury and disability, promoting physical and mental health and protecting from health hazards. We accomplish this through identifying community health needs, assuring the availability of quality health services and providing effective leadership in developing public health policies. We are committed to working in partnership with our communities to eliminate health disparities.",
+          "tags": [
+            "mental_health",
+            "emergency_room",
+            "hiv",
+            "lead",
+            "injury_trauma",
+            "uncertain"
+          ],
+          "context": "heading",
+          "confidence": 0.35
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "CalFresh Healthy Living",
+          "tags": [
+            "general"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "California Children's Services",
+          "tags": [
+            "pediatric",
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "SERVICE",
+          "type": "service_name",
+          "value": "CHDP Vision Screening",
+          "tags": [
+            "vision",
+            "cancer"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Communicable Diseases",
+          "tags": [
+            "general"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Community Health & Equity",
+          "tags": [
+            "general"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "County Health Data",
+          "tags": [
+            "general"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Environmental Health",
+          "tags": [
+            "mental_health"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Foster Care",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Health Orders 2024/2025",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "SERVICE",
+          "type": "service_name",
+          "value": "Immunizations",
+          "tags": [
+            "vaccination"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Maternal Child & Adolescent Health",
+          "tags": [
+            "pediatric",
+            "emergency_room",
+            "maternal_health"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Medical Marijuana Program",
+          "tags": [
+            "general"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "SERVICE",
+          "type": "service_name",
+          "value": "Medical Therapy Unit",
+          "tags": [
+            "mental_health",
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Opioid Task Force",
+          "tags": [
+            "opioid_treatment",
+            "substance_use"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Oral Health",
+          "tags": [
+            "dental"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "San Benito County Perinatal and Family Planning Services Directory",
+          "tags": [
+            "emergency_room",
+            "family_planning"
+          ],
+          "context": "heading",
+          "confidence": 0.55
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Public Health Emergency Preparedness",
+          "tags": [
+            "emergency_room",
+            "hiv"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Resource Guide 2023",
+          "tags": [
+            "general"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Safe Kids",
+          "tags": [
+            "pediatric"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Tobacco Education",
+          "tags": [
+            "tobacco"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Vital Records",
+          "tags": [
+            "general"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "What is Health Equity?",
+          "tags": [
+            "general"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        }
+      ],
+      "name": "San Benito County",
+      "category": "County",
+      "state_id": "CA",
+      "population": "62808",
+      "crawled_at": "2025-11-29T14:33:04.987297"
+    },
+    {
+      "url": "http://wp.sbcounty.gov/dph/",
+      "timestamp": "2025-11-29T14:33:08.676185",
+      "resources": [
+        {
+          "category": "CONTACT_INFO",
+          "type": "toll_number",
+          "value": "800.782.4264",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "contact information",
+          "confidence": 0.7
+        },
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "909.3874859",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "contact information",
+          "confidence": 0.7
+        },
+        {
+          "category": "CONTACT_INFO",
+          "type": "toll_number",
+          "value": "(800) 472-2376",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "LOCATION",
+          "type": "address",
+          "value": "451 E. Vanderbilt Way San Bernardino, CA 92408",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "footer",
+          "confidence": 0.9
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Geographic Information System (GIS)",
+          "tags": [
+            "general"
+          ],
+          "context": "heading",
+          "confidence": 0.85
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Infant Botulism Outbreak Linked to ByHeart Infant Formula",
+          "tags": [
+            "pediatric",
+            "tuberculosis",
+            "hiv"
+          ],
+          "context": "heading",
+          "confidence": 0.55
+        },
+        {
+          "category": "SERVICE",
+          "type": "service_name",
+          "value": "Mpox Vaccine",
+          "tags": [
+            "vaccination",
+            "mpox"
+          ],
+          "context": "heading",
+          "confidence": 0.85
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Foster Homes Needed",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.85
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Animal Incident Tracker",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.85
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Opioid (Fentanyl) Response Initiative",
+          "tags": [
+            "opioid_treatment",
+            "substance_use"
+          ],
+          "context": "heading",
+          "confidence": 0.85
+        }
+      ],
+      "name": "San Bernardino County",
+      "category": "County",
+      "state_id": "CA",
+      "population": "2180085",
+      "crawled_at": "2025-11-29T14:33:08.917839"
+    },
+    {
+      "url": "http://www.sandiegocounty.gov/hhsa/programs/phs/",
+      "timestamp": "2025-11-29T14:33:12.704932",
+      "resources": [
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "(858) 694-3900",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Public Health Services",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.85
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "COVID-19",
+          "tags": [
+            "covid19"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Birth and Death Certificates",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Perinatal Hepatitis B Prevention Program",
+          "tags": [
+            "emergency_room",
+            "hepatitis"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Useful Information and Related Documents",
+          "tags": [
+            "emergency_room",
+            "hiv"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Operations",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "SERVICE",
+          "type": "service_name",
+          "value": "Strategic Planning",
+          "tags": [
+            "vaccination",
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Community Planning",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Programs and Services",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Black Infant Health (BIH) Program",
+          "tags": [
+            "pediatric",
+            "emergency_room",
+            "hiv"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Border Health Program",
+          "tags": [
+            "pediatric",
+            "emergency_room",
+            "hiv"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "California Children's Services (CCS)",
+          "tags": [
+            "pediatric",
+            "emergency_room",
+            "hiv"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Cancer Concerns in Carlsbad",
+          "tags": [
+            "pediatric",
+            "emergency_room",
+            "cancer",
+            "hiv"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Child Health and Disability Prevention (CHDP) Program",
+          "tags": [
+            "pediatric",
+            "emergency_room",
+            "hiv"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Childhood Lead Poisoning Prevention Program",
+          "tags": [
+            "pediatric",
+            "emergency_room",
+            "hiv",
+            "lead"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Chronic Disease and Health Equity (CDHE) Unit",
+          "tags": [
+            "pediatric",
+            "emergency_room",
+            "hiv"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Climate Change and Public Health",
+          "tags": [
+            "pediatric",
+            "emergency_room",
+            "hiv"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Clinic Services",
+          "tags": [
+            "emergency_room",
+            "hepatitis",
+            "clinic"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Community Epidemiology",
+          "tags": [
+            "tobacco"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Community Health Statistics",
+          "tags": [
+            "std",
+            "tobacco"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Customer Services",
+          "tags": [
+            "emergency_room",
+            "tuberculosis"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Dog Health Certificates - Import",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "SERVICE",
+          "type": "service_name",
+          "value": "Extreme Heat",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Health Equity",
+          "tags": [
+            "general"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Health Care Program for Children in Foster Care (HCPCFC)",
+          "tags": [
+            "pediatric",
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.55
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Healthcare-Associated Infections (HAI) Program",
+          "tags": [
+            "pediatric",
+            "emergency_room",
+            "std",
+            "hiv"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "HHSA Research",
+          "tags": [
+            "emergency_room",
+            "hepatitis",
+            "std",
+            "hiv"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "HIV, STD and Hepatitis Branch",
+          "tags": [
+            "pediatric",
+            "emergency_room",
+            "hepatitis",
+            "std",
+            "hiv"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "HIV Epidemiology Unit",
+          "tags": [
+            "pediatric",
+            "emergency_room",
+            "hiv"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "SERVICE",
+          "type": "service_name",
+          "value": "Immunization Program",
+          "tags": [
+            "vaccination",
+            "std"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Maternal, Child, and Family Health Services (MCFHS)",
+          "tags": [
+            "pediatric",
+            "emergency_room",
+            "std",
+            "maternal_health"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Medical Marijuana Identification Card (MMIC)",
+          "tags": [
+            "pediatric",
+            "emergency_room",
+            "std",
+            "maternal_health"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "National Public Health Week in San Diego",
+          "tags": [
+            "pediatric",
+            "emergency_room",
+            "std",
+            "maternal_health"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Office of Violence Prevention",
+          "tags": [
+            "std"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Office of Vital Records and Statistics",
+          "tags": [
+            "std"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "One Health Epidemiology Program (OHEP)",
+          "tags": [
+            "std"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Oral Health Program",
+          "tags": [
+            "dental",
+            "std"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Overdose Surveillance and Response Program (OSAR)",
+          "tags": [
+            "emergency_room",
+            "std",
+            "substance_use"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Prescription Drug Monitoring Program/CURES",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Public Health Re-accreditation",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Public Health Champion Awards",
+          "tags": [
+            "emergency_room",
+            "hiv"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Public Health Laboratory",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Public Health Preparedness and Response (PHPR)",
+          "tags": [
+            "emergency_room",
+            "hiv"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Refugee Health Programs",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "San Diego Kids Health Assurance Network (SD-KHAN)",
+          "tags": [
+            "pediatric",
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Sudden Infant Death Syndrome (SIDS)",
+          "tags": [
+            "pediatric",
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Tuberculosis Prevention and Care Branch",
+          "tags": [
+            "pediatric",
+            "emergency_room",
+            "tuberculosis"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Workforce Development and Training",
+          "tags": [
+            "pediatric",
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Popular Services",
+          "tags": [
+            "mental_health",
+            "pediatric",
+            "dental",
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Website",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        }
+      ],
+      "name": "San Diego County",
+      "category": "County",
+      "state_id": "CA",
+      "population": "3338330",
+      "crawled_at": "2025-11-29T14:33:12.962257"
+    },
+    {
+      "url": "https://www.sfdph.org",
+      "timestamp": "2025-11-29T14:33:15.340440",
+      "resources": [
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "415-554-2500",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "LOCATION",
+          "type": "address",
+          "value": "Address San Francisco Department of Public Health 1145 Market Street San Francisco ,",
+          "tags": [
+            "hiv",
+            "uncertain"
+          ],
+          "context": "page",
+          "confidence": 0.35
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Department of Public Health",
+          "tags": [
+            "hiv"
+          ],
+          "context": "heading",
+          "confidence": 0.85
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Your health. Your way.",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Get protected",
+          "tags": [
+            "flu",
+            "covid19"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Job Opportunities",
+          "tags": [
+            "general"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Address",
+          "tags": [
+            "hiv"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Request public records",
+          "tags": [
+            "hiv"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Archived website",
+          "tags": [
+            "hiv"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        }
+      ],
+      "name": "San Francisco County",
+      "category": "County",
+      "state_id": "CA",
+      "population": "881549",
+      "crawled_at": "2025-11-29T14:33:15.558752"
+    },
+    {
+      "url": "http://www.sjcphs.org",
+      "timestamp": "2025-11-29T14:33:22.235344",
+      "resources": [
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "(209) 468-3822",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "(209) 468-6000",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "(209) 468-3400",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "LOCATION",
+          "type": "address",
+          "value": "1601 E. Hazelton Ave. Stockton, CA 95205",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "footer",
+          "confidence": 0.9
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "What can we help you find?",
+          "tags": [
+            "general"
+          ],
+          "context": "heading",
+          "confidence": 0.85
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Legionella Health Advisory June 2025",
+          "tags": [
+            "general"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "SERVICE",
+          "type": "service_name",
+          "value": "Full Advisory Test",
+          "tags": [
+            "measles"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Please distribute to all providers and relevant medical staff in your office.",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "SERVICE",
+          "type": "service_name",
+          "value": "Flu / Covid19 / RSV Vaccine Information",
+          "tags": [
+            "flu",
+            "covid19",
+            "vaccination",
+            "emergency_room",
+            "rsv"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Bird (Avian) Flu Safety Info",
+          "tags": [
+            "flu"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Measles Health Advisory",
+          "tags": [
+            "measles"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Programs & Services",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "SERVICE",
+          "type": "service_name",
+          "value": "Disease Control & Prevention >",
+          "tags": [
+            "vaccination"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Emergency Preparedness >",
+          "tags": [
+            "emergency_room",
+            "hiv"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Local Oral Health Program >",
+          "tags": [
+            "dental",
+            "emergency_room",
+            "hiv"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Family Health >",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Opioid Safety Coalition >",
+          "tags": [
+            "substance_abuse",
+            "opioid_treatment",
+            "substance_use"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Health Equity >",
+          "tags": [
+            "general"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Smoking and Tobacco Prevention (STOPP) >",
+          "tags": [
+            "emergency_room",
+            "tobacco"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Medical Providers >",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Events",
+          "tags": [
+            "general"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Public Health Services",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "heading",
+          "confidence": 0.85
+        }
+      ],
+      "name": "San Joaquin County",
+      "category": "County",
+      "state_id": "CA",
+      "population": "762148",
+      "crawled_at": "2025-11-29T14:33:22.342926"
+    },
+    {
+      "url": "https://www.slocounty.ca.gov/departments/health-agency",
+      "timestamp": "2025-11-29T14:33:25.344398",
+      "resources": [
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "(805) 781-5500",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "(805) 788-2903",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "CONTACT_INFO",
+          "type": "toll_number",
+          "value": "(800) 838-1381",
+          "tags": [
+            "covid19",
+            "mental_health",
+            "dental",
+            "emergency_room"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "CONTACT_INFO",
+          "type": "phone_number",
+          "value": "805-781-5000",
+          "tags": [
+            "general"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "CONTACT_INFO",
+          "type": "toll_number",
+          "value": "800-834-4636",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "general content",
+          "confidence": 0.7
+        },
+        {
+          "category": "LOCATION",
+          "type": "address",
+          "value": "1055 Monterey Street, San Luis Obispo, CA 93408",
+          "tags": [
+            "emergency_room"
+          ],
+          "context": "footer",
+          "confidence": 0.9
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Health Agency",
+          "tags": [
+            "general"
+          ],
+          "context": "heading",
+          "confidence": 0.85
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Health Agency Organizational Chart:",
+          "tags": [
+            "emergency_room",
+            "hiv"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        },
+        {
+          "category": "FACILITY",
+          "type": "facility_name",
+          "value": "Nicholas Drews",
+          "tags": [
+            "general"
+          ],
+          "context": "heading",
+          "confidence": 0.7
+        }
+      ],
+      "name": "San Luis Obispo County",
+      "category": "County",
+      "state_id": "CA",
+      "population": "283111",
+      "crawled_at": "2025-11-29T14:33:25.418422"
+    }
+  ]
+}
