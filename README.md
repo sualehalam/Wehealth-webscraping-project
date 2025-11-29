@@ -91,3 +91,6 @@ Resources are automatically categorized:
 JSON (per-run) saved to `examples/output/`  
 Human-readable summary saved to `examples/summary_reports/`  
   
+## Cleaning & QA:
+
+The repo includes `clean_and_save.py(examples/)`. This script moves low-confidence items to unverified_resources and normalizes values and then writes cleaned JSON to [cleaned_output]
