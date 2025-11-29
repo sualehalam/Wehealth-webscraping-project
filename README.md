@@ -65,7 +65,7 @@ python .\batch_crawler_example.py
 
 ## State Data
 
-We provide CSV files with health department websites for each state:
+We were given CSV files with health department websites for each state:  
 - California: 58 counties in `data/state_websites/us-ca.csv`
 - Oregon: 36 counties in `data/state_websites/us-or.csv`
 - Texas: 254 counties in `data/state_websites/us-tx.csv`
@@ -82,6 +82,6 @@ Resources are automatically categorized:
 - Vaccination, flu, COVID-19, pediatric care, dental, mental health, etc.
 
 ## Outputs:
-JSON (per-run) saved to examples/output/
-Human-readable summary saved to examples/summary_reports/
+JSON (per-run) saved to `examples/output/`  
+Human-readable summary saved to `examples/summary_reports/`  
   
