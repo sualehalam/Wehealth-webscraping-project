@@ -16,25 +16,18 @@ health-crawler/
 │   ├── simple_example.py
 │   ├── categorized_example.py
 │   ├── batch_crawler_example.py
-│   └── sample_data/
-│       └── example_page.html
-├── student_template/
-│   ├── README.md
-│   ├── my_crawler.py
-│   ├── my_batch_crawler.py
-│   ├── assignment_guide.md
-│   └── output/
-│       ├── .gitkeep
-│       └── README.md
-├── reference/
-│   ├── categories_and_tags.md
-│   ├── extraction_patterns.md
-│   └── helpful_resources.md
-└── sample_outputs/
-    ├── README.md
-    ├── single_site_example.json
-    ├── batch_crawl_example.json
-    └── summary_report_example.txt
+│   ├── output/
+│       ├── batch_crawl_results_20251129_143325.json
+│       ├── batch_crawl_results_20251129_144556.json
+│       ├── batch_crawl_results_20251129_145053.json
+│       ├── batch_crawl_results_20251129_145353.json
+|       └── ...
+|   └── summary_reports/
+│       ├── summary_report_20251129_143325.txt
+│       ├── summary_report_20251129_1445565.json
+│       ├── summary_report_20251129_145053.json
+│       ├── summary_report_20251129_145353.json
+|       └── ...
 ```
 
 ## Files Contents
