@@ -71,6 +71,7 @@ Each element corresponds to a single site/county crawl. Common fields:
 - `state_id` (string): Two-letter state ID (e.g., `CA`).
 - `population` (string or integer): Population reported in the source CSV. The export/cleaning step should normalize this to integer.
 - `crawled_at` (string, ISO 8601): Timestamp, redundant with `timestamp` but kept for clarity.
+- `unverified_resources` (array): Low-confidence or 'uncertain' extractions moved here. Same schema as resources.
 
 RESOURCE OBJECT
 ---------------
@@ -163,6 +164,7 @@ TAG/KEYWORD NOTES
 
 - Tags are heuristic and derived from simple substring matching against a keyword list. They are useful for broad filtering but may include _false positives_. Use `confidence` as an additional signal.
 - The `uncertain` tag is used to flag items with `confidence == 0.35` (likely false positives); it is retained in JSON for verification but is excluded from human-readable summary reports by default.
+
 
 
 
