@@ -43,9 +43,10 @@ A beginner-friendly web crawler for extracting public health resources from webs
 ## What This Does
 
 This crawler finds:
-- 📞 Phone numbers for health services
+- 📞 Phone numbers for health services (toll_free number, crisis lines, emergency contact, etc)
 - 📍 Addresses of clinics and health facilities  
 - 🏥 Names of healthcare facilities
+- 👨‍🔧 Services offered by the respective county department
 - 🏷️ Automatically categorizes and tags each resource
 
 ## Installation
