@@ -33,7 +33,7 @@ Field: `summary` (object)
 
 **Example:**  
 ```
-
+"summary":   
 {  
   "total_resources": 46,  
   "by_category": {"CONTACT_INFO": 17, "LOCATION": 8, "SERVICE": 5, "FACILITY": 16},  
@@ -164,6 +164,7 @@ TAG/KEYWORD NOTES
 
 - Tags are heuristic and derived from simple substring matching against a keyword list. They are useful for broad filtering but may include _false positives_. Use `confidence` as an additional signal.
 - The `uncertain` tag is used to flag items with `confidence == 0.35` (likely false positives); it is retained in JSON for verification but is excluded from human-readable summary reports by default.
+
 
 
 
