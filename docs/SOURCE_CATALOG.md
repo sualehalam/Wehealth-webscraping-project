@@ -3,17 +3,17 @@
 This source catalog lists the websites crawled for the demo run(s) and includes notes, basic data-quality observations, and a suggested refresh strategy. Use this to reproduce or maintain the crawl and to prioritize manual review for problem sites.
 
 ## Columns:
-- `name`: Friendly site name
-- `url`: Canonical site URL
+- `name`: Friendly county site name
+- `url`: Canonical county site URL
 - `site_page`: Specific page used (if applicable)
-- `type`: `county_page` / `state_portal` / `directory` / `api`
+- `type`: `county_page` / `state_portal` / `api`
 - `robots_ok`: quick robots.txt note (`yes` / `no` / `needs-review`)
 - `last_checked`: timestamp when this catalog entry was validated
 - `refresh_strategy`: recommended refresh schedule
 - `expected_content`: typical extracted items
-- `data_quality_notes`: observed issues (403, footer noise, JS-heavy, etc.)
+- `data_quality_notes`: observed issues (403, footer long headings, etc.)
 - `example_selector`: CSS selector that often finds the contact/address block
-- `status`: `active` / `blocked` / `needs-review`
+- `status`: specifies current status of the county URL (`active` / `blocked` / `needs-review`)
 
 ---
 
@@ -35,6 +35,7 @@ This source catalog lists the websites crawled for the demo run(s) and includes 
 - `robots_ok` is set to `needs-review` for many sites 
 - For blocked sites (403), try an alternative approach of a Selenium browser-like user-agent, or record for manual data retrieval.
 - For pages with long heading text or many PDF/strategic plan links (e.g., _Calaveras_), add post-processing filters (e.g., skip headings longer than 10 words) to reduce false positives.
+
 
 
 
