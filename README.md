@@ -106,6 +106,13 @@ Cleaned JSON saved to `examples/cleaned_output/`.
 
 The repo includes `clean_and_save.py(examples/)`. This script moves low-confidence items to unverified_resources and normalizes values and then writes cleaned JSON to `examples/cleaned_output` folder
 
+## Future Work
+1. Service coverage: Analyze which health topics are well-covered and least-covered
+2. Website quality scoring: Rate sites by completeness of information
+3. Data visualization: Create charts of your findings to discover hidden patterns
+4. Database integration: Store results in a proper database
+5. State-wise report generation: Create an overall state summary for state resources comparison
+
 ## Privacy / Ethics:
 
 Before publishing, manually review `unverified_resources` — as they may contain false positives.
