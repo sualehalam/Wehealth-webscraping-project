@@ -155,10 +155,9 @@ When producing the final cleaned dataset (JSON), these are the steps taken:
 
 - Normalize population to integer: remove commas, convert to int. If missing, use `NULL` or an empty string.
 - Normalize phone numbers to a single canonical format for deduplication.
+- Convert `confidence` to a float column (e.g., `confidence < 0.5` treated as **FALSE POSITIVES**).  
 - Normalize `tags` to a consistent set (lowercase, underscore-separated). 
-- Convert `confidence` to a float column and optionally include a `flag_low_confidence` boolean (e.g., `confidence < 0.5`).
-- Map `category` to fixed vocabulary; ensure no misspellings.
-- Add: `confidence_cutoff` (default): `0.5` — items with confidence < `0.5` are moved to unverified_resources.
+- Add: `confidence_cutoff` (default): `0.5` — items with confidence < `0.5` are moved to `unverified_resources`.
 
 
 PRIVACY AND ETHICS
@@ -174,6 +173,7 @@ TAG/KEYWORD NOTES
 
 - Tags are heuristic and derived from simple substring matching against a keyword list. They are useful for broad filtering but may include _false positives_. Use `confidence` as an additional signal.
 - The `uncertain` tag is used to flag items with `confidence == 0.35` (likely false positives); it is retained in JSON for verification but is excluded from human-readable summary reports by default.
+
 
 
 
