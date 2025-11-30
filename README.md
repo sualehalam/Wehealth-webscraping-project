@@ -37,7 +37,7 @@ health-crawler/
 │   └── SOURCE_CATALOG.md
 ```
 ## Health Resource Crawler
-A beginner-friendly web crawler for extracting public health resources from websites.
+An intermediate friendly web crawler for extracting public health resources from county websites.
 
 
 ## What This Does
