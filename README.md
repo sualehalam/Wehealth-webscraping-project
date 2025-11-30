@@ -94,17 +94,17 @@ Resources are automatically categorized:
 - **FACILITY**: Clinic and hospital names
 - **SERVICE**: Health services offered
 
-  And tagged by health topic:
-- Vaccination, flu, COVID-19, pediatric care, dental, mental health, etc.
+  And tagged by common health topics:
+- `Vaccination`, `flu`, `COVID-19`, `pediatric`, `dental`, `mental_health`, `vision`, `measles`, etc.
 
 ## Outputs:
 JSON (raw data) saved to `examples/output/`  
 Human-readable counties summary saved to `examples/summary_reports/`  
 Cleaned JSON saved to `examples/cleaned_output/`.
   
-## Cleaning & QA:
+## Cleaning & Quality Assurance:
 
-The repo includes `clean_and_save.py(examples/)`. This script moves low-confidence items to unverified_resources and normalizes values and then writes cleaned JSON to [cleaned_output]
+The repo includes `clean_and_save.py(examples/)`. This script moves low-confidence items to unverified_resources and normalizes values and then writes cleaned JSON to `examples/cleaned_output` folder
 
 ## Privacy / Ethics:
 
