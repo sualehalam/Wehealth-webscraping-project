@@ -61,7 +61,9 @@ RESULTS ARRAY
 -------------
 
 Field: `results` (array of objects)
-Each element corresponds to a single site/county crawl. Common fields:
+Each element corresponds to a single site/county crawl. 
+
+Common fields:
 
 - `url` (string): The page URL crawled. If fetch failed, this will still be the requested URL.
 - `timestamp` (string, ISO 8601): When the page was crawled.
@@ -69,14 +71,16 @@ Each element corresponds to a single site/county crawl. Common fields:
 - `name` (string): Friendly site name (e.g., `Alameda County`).
 - `category` (string): Site-level category (e.g., `County`).
 - `state_id` (string): Two-letter state ID (e.g., `CA`).
-- `population` (string or integer): Population reported in the source CSV. The export/cleaning step should normalize this to integer.
+- `population` (string or integer): Population reported in the source CSV. (The cleaning step normalizes this string to integer).
 - `crawled_at` (string, ISO 8601): Timestamp, redundant with `timestamp` but kept for clarity.
 - `unverified_resources` (array): Low-confidence or 'uncertain' extractions moved here. Same schema as resources.
 
 RESOURCE OBJECT
 ---------------
 
-Each resource object represents a single extracted item (phone number, address, facility name, etc.). Fields:
+Each resource object represents a single extracted item (phone number, address, facility name, etc.). 
+
+Fields:
 
 - `category` (string, required): One of the extraction categories:
   - `CONTACT_INFO` — phone numbers, and toll-free numbers.
@@ -90,7 +94,9 @@ Each resource object represents a single extracted item (phone number, address, 
   - `facility_name`
   - `service_name`
 
-- `value` (string, required): The raw extracted text for the resource. Examples:
+- `value` (string, required): The raw extracted text for the resource.
+
+- Examples:
   - `"(707) 464-0861"`
   - `"1100 San Leandro Blvd. San Leandro, CA 94577"`
   - `"Alameda County Public Health Department"`
@@ -100,7 +106,9 @@ Each resource object represents a single extracted item (phone number, address, 
 
 - `context` (string): Rough context where the value was found (examples: `heading`, `footer`, `page`, `facility_address`, `general content`). Useful for downstream filtering.
 
-- `confidence` (number): Float in [0, 1] expressing extractor confidence. Typical values used in this project:
+- `confidence` (number): Float in [0, 1] expressing extractor confidence.
+
+- Typical values used in this project:
   - `0.9` — high confidence (structured source, explicit markup, full address with street + city/state/zip)
   - `0.85` / `0.7` — medium confidence (headings, H1/H2 text, typical phone format)
   - `0.35` — very low confidence (long blobs, footer noise). Items at 0.35 are also tagged with `uncertain`.
@@ -119,7 +127,9 @@ Resource example:
   "value": "(510) 267-8000",
   "tags": ["emergency_room","hiv"],
   "context": "general content",
-  "confidence": 0.7
+  "confidence": 0.7,  
+  "verified": true
+
 }
 ```
 
@@ -164,6 +174,7 @@ TAG/KEYWORD NOTES
 
 - Tags are heuristic and derived from simple substring matching against a keyword list. They are useful for broad filtering but may include _false positives_. Use `confidence` as an additional signal.
 - The `uncertain` tag is used to flag items with `confidence == 0.35` (likely false positives); it is retained in JSON for verification but is excluded from human-readable summary reports by default.
+
 
 
 
