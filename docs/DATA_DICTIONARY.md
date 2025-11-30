@@ -151,7 +151,7 @@ Site result example:
 CLEANING AND NORMALIZATION PROCESS
 -----------------------------------
 
-When producing the final cleaned dataset (CSV/JSON), these are the steps taken:
+When producing the final cleaned dataset (JSON), these are the steps taken:
 
 - Normalize population to integer: remove commas, convert to int. If missing, use `NULL` or an empty string.
 - Normalize phone numbers to a single canonical format for deduplication.
@@ -174,6 +174,7 @@ TAG/KEYWORD NOTES
 
 - Tags are heuristic and derived from simple substring matching against a keyword list. They are useful for broad filtering but may include _false positives_. Use `confidence` as an additional signal.
 - The `uncertain` tag is used to flag items with `confidence == 0.35` (likely false positives); it is retained in JSON for verification but is excluded from human-readable summary reports by default.
+
 
 
 
